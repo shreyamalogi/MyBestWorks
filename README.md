@@ -84,3 +84,9 @@ Here are the links to my best works so far
 --
 [Text To Speech](https://github.com/5hre9a/corona-cases-notifyer)
 --
+
+<h2>Extras👇👇</h2>
+
+[Digital/virtual arts,editings](https://github.com/5hre9a/vsco)
+--
+[YouTube playlist](
