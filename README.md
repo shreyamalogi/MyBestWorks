@@ -89,4 +89,5 @@ Here are the links to my best works so far
 
 [Digital/virtual arts,editings](https://github.com/5hre9a/vsco)
 --
-[YouTube playlist](
+[YouTube playlist](https://github.com/5hre9a/YouTube_5hre9a)
+--
