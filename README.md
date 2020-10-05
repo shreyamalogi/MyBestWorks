@@ -21,6 +21,8 @@ Here are the links to my best works so far
 --
 [Destini app](https://github.com/5hre9a/destini-app)
 --
+[The Bible App](https://github.com/5hre9a/TheBible_app)
+--
 
 <h2>FRONTEND WEBDEVELOPMENT PROJECTS:-👇👇</h2>
 (Websites,Onlinegames,web apps)
@@ -84,7 +86,12 @@ Here are the links to my best works so far
 --
 [Text To Speech](https://github.com/5hre9a/corona-cases-notifyer)
 --
-
+[Top News](https://github.com/5hre9a/TopNews)
+--
+[Snake game](https://github.com/5hre9a/snake-game)
+--
+[Lady Hunter Tiger game](https://github.com/5hre9a/LHT-game)
+--
 <h2>Extras👇👇</h2>
 
 [Digital/virtual arts,editings](https://github.com/5hre9a/vsco)
