@@ -92,6 +92,10 @@ Here are the links to my best works so far
 --
 [Lady Hunter Tiger game](https://github.com/5hre9a/LHT-game)
 --
+[Perfect guesser game](https://github.com/5hre9a/PerfectGuesser_game)
+--
+[Defective Calculator](https://github.com/5hre9a/defective_calculator)
+--
 <h2>Extras👇👇</h2>
 
 [Digital/virtual arts,editings](https://github.com/5hre9a/vsco)
