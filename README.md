@@ -45,6 +45,8 @@ Here are the links to my best works so far
 --
 [keepbox app](https://github.com/5hre9a/keepbox-app)
 --
+[Birthday Countdown](https://github.com/5hre9a/Bday-countdown)
+--
 [Scorer-game](https://github.com/5hre9a/scorer-game)
 --
 [Memory-game](https://github.com/5hre9a/memory-game)
@@ -54,6 +56,8 @@ Here are the links to my best works so far
 [Dice game](https://github.com/5hre9a/Dice-game)
 --
 [XOXO game](https://github.com/5hre9a/XOXO-game)
+--
+[Duck hunt game](https://github.com/5hre9a/duckhunt-game)
 --
 
 <h2>BACKEND WEBDEVELOPMENT PROJECTS👇👇</h2>
