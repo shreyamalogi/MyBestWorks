@@ -43,7 +43,7 @@ Here are the links to my best works so far
 --
 [keepbox app](https://github.com/5hre9a/keepbox-app)
 --
-[Birthday Countdown](https://github.com/5hre9a/Bday-countdown)
+[BDay Countdown app](https://github.com/5hre9a/Bday-countdown)
 --
 [Scorer-game](https://github.com/5hre9a/scorer-game)
 --
