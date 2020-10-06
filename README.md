@@ -37,6 +37,8 @@ Here are the links to my best works so far
 --
 [Bubbly-boo Website](https://github.com/5hre9a/bubbly-boo)
 --
+[Schedule app](https://github.com/5hre9a/schedule-schema)
+--
 [recipe app](https://github.com/5hre9a/recipe-app)
 --
 [TODOlist app](https://github.com/5hre9a/TODO-list-app)
