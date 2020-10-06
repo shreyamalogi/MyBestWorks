@@ -27,19 +27,15 @@ Here are the links to my best works so far
 <h2>FRONTEND WEBDEVELOPMENT PROJECTS:-👇👇</h2>
 (Websites,Onlinegames,web apps)
 
-[StMarysMagz Website](https://github.com/5hre9a/emagz-website)
+[St.Mary's Magazine Website](https://github.com/5hre9a/emagz-website)
 --
 [MyPortfolio](https://github.com/5hre9a/MyPortfolio)
 --
 [Personal Website](https://github.com/5hre9a/my-ezyro-webby)
 --
-[Kamalamagz Website](https://github.com/5hre9a/kamala-magz)
+[Kamala Magazine Website](https://github.com/5hre9a/kamala-magz)
 --
 [Bubbly-boo Website](https://github.com/5hre9a/bubbly-boo)
---
-[MyWebpage](https://github.com/5hre9a/MyWebpage)
---
-[Login page Styling](https://github.com/5hre9a/login-page)
 --
 [recipe app](https://github.com/5hre9a/recipe-app)
 --
