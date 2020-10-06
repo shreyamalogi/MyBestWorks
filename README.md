@@ -43,7 +43,7 @@ Here are the links to my best works so far
 --
 [TODOlist app](https://github.com/5hre9a/TODO-list-app)
 --
-[keepbox app](https://github.com/5hre9a/keepbox-app)
+[Google keep clone](https://github.com/5hre9a/keepbox-app)
 --
 [BDay Countdown app](https://github.com/5hre9a/Bday-countdown)
 --
