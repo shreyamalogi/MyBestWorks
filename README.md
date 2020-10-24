@@ -84,7 +84,7 @@ Here are the links to my best works so far.
 --
 [Telegram_bot](https://github.com/5hre9a/zac-bot)
 --
-[Corona cases notifier](https://github.com/5hre9a/corona-cases-notifyer)
+[Corona cases desktop notifier](https://github.com/5hre9a/corona-cases-notifyer)
 --
 [QR code maker](https://github.com/5hre9a/QRcode-maker)
 --
