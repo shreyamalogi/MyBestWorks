@@ -2,6 +2,16 @@
 <h6>Malogi Shreya's Best works</h6>
 Here are the links to my best works so far.
 
+<h2>COMPUTER VISION PROJECTS:-👇👇</h2>
+(OPENCV, NUMPY, PYTHON, DEEP-LEARNING, AI)
+
+[Color Detection](https://github.com/5hre9a/computer-vision)
+--
+[face Recognition](https://github.com/5hre9a/face_recognition)
+--
+[tennis Video Game](https://github.com/5hre9a/Tennis_Video-Game)
+--
+
 <h2>FLUTTER PROJECTS:-👇👇</h2>
 (apps for iOS and android)
 
@@ -82,6 +92,8 @@ Here are the links to my best works so far.
 
 [Zac-My Virtual Assistant](https://github.com/5hre9a/ZAC)
 --
+[coffee Machine](https://github.com/5hre9a/Coffee-Machine)
+--
 [Telegram_bot](https://github.com/5hre9a/zac-bot)
 --
 [Corona cases desktop notifier](https://github.com/5hre9a/corona-cases-notifyer)
@@ -100,6 +112,7 @@ Here are the links to my best works so far.
 --
 [Defective Calculator](https://github.com/5hre9a/defective_calculator)
 --
+
 <h2>Extras👇👇</h2>
 
 [Digital/virtual arts,editings](https://github.com/5hre9a/vsco)
