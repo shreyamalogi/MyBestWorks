@@ -31,8 +31,6 @@ Here are the links to my best works so far.
 --
 [Destini app](https://github.com/5hre9a/destini-app)
 --
-[The Bible App](https://github.com/5hre9a/TheBible_app)
---
 
 <h2>FRONTEND WEBDEVELOPMENT PROJECTS:-👇👇</h2>
 (Websites,Onlinegames,web apps)
