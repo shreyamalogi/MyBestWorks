@@ -115,5 +115,5 @@ Here are the links to my best works so far.
 
 [Digital/virtual arts,editings](https://github.com/5hre9a/vsco)
 --
-[YouTube playlist](bit.ly/3la3lvz)
+[YouTube playlist](https://www.youtube.com/channel/UCZQkssgRd4o2jcxT3c55bbg/playlists?view_as=subscriber)
 --
