@@ -22,6 +22,34 @@ Here are the links to my best works so far.
 --
 [Doraemon](https://github.com/shreyamalogi/doraemon)
 --
+
+<h2>PYTHON PROJECTS👇👇</h2>
+
+[Zac-My Virtual Assistant](https://github.com/5hre9a/ZAC)
+--
+[coffee Machine](https://github.com/5hre9a/Coffee-Machine)
+--
+[Telegram_bot](https://github.com/5hre9a/zac-bot)
+--
+[Corona cases desktop notifier](https://github.com/5hre9a/corona-cases-notifyer)
+--
+[QR code maker](https://github.com/5hre9a/QRcode-maker)
+--
+[Text To Speech](https://github.com/5hre9a/corona-cases-notifyer)
+--
+[Top News](https://github.com/5hre9a/TopNews)
+--
+[Snake game](https://github.com/5hre9a/snake-game)
+--
+[Lady Hunter Tiger game](https://github.com/5hre9a/LHT-game)
+--
+[Defective Calculator](https://github.com/5hre9a/defective_calculator)
+--
+[GIF converter](https://github.com/shreyamalogi/mp4-to-gif)
+--
+[URL shortener](https://github.com/shreyamalogi/URL-shortener)
+--
+
 <h2>FLUTTER PROJECTS:-👇👇</h2>
 (apps for iOS and android)
 
@@ -96,32 +124,6 @@ Here are the links to my best works so far.
 [crypto currency converter app](https://github.com/5hre9a/cryptocurrency_converter)
 --
 
-<h2>PYTHON PROJECTS👇👇</h2>
-
-[Zac-My Virtual Assistant](https://github.com/5hre9a/ZAC)
---
-[coffee Machine](https://github.com/5hre9a/Coffee-Machine)
---
-[Telegram_bot](https://github.com/5hre9a/zac-bot)
---
-[Corona cases desktop notifier](https://github.com/5hre9a/corona-cases-notifyer)
---
-[QR code maker](https://github.com/5hre9a/QRcode-maker)
---
-[Text To Speech](https://github.com/5hre9a/corona-cases-notifyer)
---
-[Top News](https://github.com/5hre9a/TopNews)
---
-[Snake game](https://github.com/5hre9a/snake-game)
---
-[Lady Hunter Tiger game](https://github.com/5hre9a/LHT-game)
---
-[Defective Calculator](https://github.com/5hre9a/defective_calculator)
---
-[GIF converter](https://github.com/shreyamalogi/mp4-to-gif)
---
-[URL shortener)(https://github.com/shreyamalogi/URL-shortener)
---
 
 <h2>Extras👇👇</h2>
 
