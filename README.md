@@ -12,6 +12,15 @@ Here are the links to my best works so far.
 [tennis Video Game](https://github.com/5hre9a/Tennis_Video-Game)
 --
 
+<h2>TURTLE GRAPHICS PROJECTS:-👇👇</h2>
+[Indian Flag](https://github.com/shreyamalogi/Indian_flag)
+--
+[Spirograph](https://github.com/shreyamalogi/spirograph)
+--
+[The Hirst painting](https://github.com/shreyamalogi/the_hirst_painting)
+--
+[Doraemon](https://github.com/shreyamalogi/doraemon)
+--
 <h2>FLUTTER PROJECTS:-👇👇</h2>
 (apps for iOS and android)
 
