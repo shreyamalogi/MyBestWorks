@@ -6,20 +6,20 @@ Here are the links to my best works so far.
 (OPENCV, NUMPY, PYTHON, DEEP-LEARNING, AI)
 
 [Color Detection](https://github.com/5hre9a/computer-vision)
---
+
 [face Recognition](https://github.com/5hre9a/face_recognition)
---
+
 [tennis Video Game](https://github.com/5hre9a/Tennis_Video-Game)
 --
 
 <h2>TURTLE GRAPHICS PROJECTS:-👇👇</h2>
 
 [Indian Flag](https://github.com/shreyamalogi/Indian_flag)
---
+
 [Spirograph](https://github.com/shreyamalogi/spirograph)
---
+
 [The Hirst painting](https://github.com/shreyamalogi/the_hirst_painting)
---
+
 [Doraemon](https://github.com/shreyamalogi/doraemon)
 --
 
