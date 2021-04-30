@@ -55,21 +55,21 @@ Here are the links to my best works so far.
 (apps for iOS and android)
 
 [Rich app](https://github.com/5hre9a/rich-app)
---
+
 [WIYS app](https://github.com/5hre9a/WIYS-APP)
---
+
 [Bizcard app](https://github.com/5hre9a/bizcard-app)
---
+
 [Dicee app](https://github.com/5hre9a/dicee-app)
---
+
 [Magic 8 ball app](https://github.com/5hre9a/magic-ball-app)
---
+
 [Xylophone app](https://github.com/5hre9a/xylophone-app)
---
+
 [Quizzler app](https://github.com/5hre9a/quizzler-app)
---
+
 [Destini app](https://github.com/5hre9a/destini-app)
---
+
 
 <h2>FRONTEND WEBDEVELOPMENT PROJECTS:-👇👇</h2>
 (Websites,Onlinegames,web apps)
