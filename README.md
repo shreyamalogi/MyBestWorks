@@ -102,19 +102,6 @@ Here are the links to my best works so far.
 <h2>BACKEND WEBDEVELOPMENT PROJECTS👇👇</h2>
 (api's,web apps,challenges)
 
-[RESTful API from scratch](https://github.com/5hre9a/RestAPI)
-
-[Newsletter signup app](https://github.com/5hre9a/Newsletter-app)
-
-[Secrets app](https://github.com/5hre9a/secrets-app)
-
-[2 in 1 calculator app](https://github.com/5hre9a/Calculator-app)
-
-[Agenda app](https://github.com/5hre9a/agenda-app)
-
-[Blog app](https://github.com/5hre9a/blog-app)
-
-[crypto currency converter app](https://github.com/5hre9a/cryptocurrency_converter)
 
 
 
