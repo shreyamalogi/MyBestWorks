@@ -85,11 +85,6 @@ The Google logo in turtle graphics consists of six colorful circles that are arr
 The virtual assistant is programmed to recognize voice commands and respond accordingly.
 It is capable of performing various tasks like opening websites, sending emails, providing information using Wolfram Alpha and Wikipedia, and more.
 
-[coffee Machine](https://github.com/5hre9a/Coffee-Machine)
-
-The coffee machine has three drink options - espresso, latte, and cappuccino - each with different ingredients and costs.
-The coffee machine keeps track of its resources, including water, milk, and coffee, and will not make a drink if there are insufficient resources available. It also accepts coins for payment and will return change if applicable.
-
 [PyApi](https://github.com/5hre9a/pyapi)
 
 This code defines a Flask web application with two routes - a home route and a user route that takes a user query parameter.
@@ -195,20 +190,19 @@ The Destini app in Flutter is a story-based game where the user makes choices th
 
 [XOXO game](https://github.com/5hre9a/XOXO-game)
 
-This web app is built using **Javascript, Jquery, HTML, CSS3, and Bootstrap** to allow users to play a game of XOXO with a game-BOT, choose their side, and reset the game for a new round. It provides an interactive and engaging experience for users who enjoy playing this classic game.
+This web app allows users to play a game of XOXO with a game-BOT, choose their side, and reset the game for a new round. It provides an interactive and engaging experience for users who enjoy playing this classic game.
 
 [MyPortfolio](https://github.com/5hre9a/MyPortfolio)
 
-A personal website showcasing a portfolio of work and skills.
-Utilizes HTML, CSS, and JavaScript to create an interactive and visually appealing user experience.
+A personal website showcasing a portfolio of work and skills created an interactive and visually appealing user experience.
 
 [Memory-game](https://github.com/5hre9a/memory-game)
 
-This is a memory game built using **JavaScript, jQuery, and CSS,HTML**. Players must memorize a sequence of flashing colors and repeat it back correctly to progress to the next level. It offers an entertaining and challenging experience for users who enjoy testing their memory skills.
+In this Game, The players must memorize a sequence of flashing colors and repeat it back correctly to progress to the next level. It offers an entertaining and challenging experience for users who enjoy testing their memory skills.
 
 [Drums kit](https://github.com/5hre9a/drums-kit)
 
-This is a frontend app that simulates a drum kit using HTML, CSS, and JavaScript. It allows users to play different drum sounds by clicking on the drum elements or pressing the corresponding keys on their keyboard.
+This web app simulates a drum kit. It allows users to play different drum sounds by clicking on the drum elements or pressing the corresponding keys on their keyboard.
 
 [Dice game](https://github.com/5hre9a/Dice-game)
 
