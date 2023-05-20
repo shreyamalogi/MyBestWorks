@@ -4,7 +4,7 @@
 ### ~ Youtube Full-length Videos:
 
  ### [ a) Playlist: Commercial Hydroponics Farm Setup (15)](https://www.youtube.com/playlist?list=PLE1_rINIw84w6odUTM27JyfAwLpT3omPB) 
-  ### [ b) Playlist: Farm Visit (2) ](https://www.youtube.com/watch?v=duRCuVcUD8M&list=PLE1_rINIw84xzhAxMX51UtvKVfwcWJNt0&pp=iAQB) 
+  ### [ b) Playlist: Farm Visit (2) ](https://youtube.com/playlist?list=PLE1_rINIw84xzhAxMX51UtvKVfwcWJNt0) 
  ### [ c) Playlist: Educational Animated Videos (15)](https://youtube.com/playlist?list=PLE1_rINIw84yIajIBVDHj1MSbAmPfRU-M) 
  
  
