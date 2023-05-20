@@ -14,8 +14,10 @@ I independently taught students a series of chapters, taking on the responsibili
  ### [  Chapter 9: Introduction to Python Modules ](https://github.com/CodeMacrocosm/py_modules-BOOK) 
  ### [  Chapter 10: 45 days of Full Stack Web Development ](https://github.com/CodeMacrocosm/WEBD-BOOK) 
 
+---
 
  <h1> Workshops or Seminars Given </h1>
+ I independently facilitated workshops and presented engaging seminars, covering diverse topics
  
   ### [  1) GitHub Hello-World Workshop: A Step-by-Step Guide to Getting Started  ](https://github.com/CodeMacrocosm/Github-BOOK) 
    ### [  2) Workshop: Tools Installation and CMD Basics - A Hands-on Guide ](https://github.com/CodeMacrocosm/Github-BOOK) 
