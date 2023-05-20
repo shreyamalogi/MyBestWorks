@@ -3,15 +3,15 @@
  
 ### ~ Youtube Full-length Videos:
 
- ### [ a) Playlist: Commercial Hydroponics Farm Setup ](https://www.youtube.com/playlist?list=PLE1_rINIw84w6odUTM27JyfAwLpT3omPB) 
-  ### [ b) Playlist: Farm Visit ](https://youtube.com/playlist?list=PLE1_rINIw84yIajIBVDHj1MSbAmPfRU-M) 
- ### [ c) Playlist: Educational Animated Videos](https://youtube.com/playlist?list=PLE1_rINIw84yIajIBVDHj1MSbAmPfRU-M) 
+ ### [ a) Playlist: Commercial Hydroponics Farm Setup (15)](https://www.youtube.com/playlist?list=PLE1_rINIw84w6odUTM27JyfAwLpT3omPB) 
+  ### [ b) Playlist: Farm Visit (2) ](https://www.youtube.com/watch?v=duRCuVcUD8M&list=PLE1_rINIw84xzhAxMX51UtvKVfwcWJNt0&pp=iAQB) 
+ ### [ c) Playlist: Educational Animated Videos (15)](https://youtube.com/playlist?list=PLE1_rINIw84yIajIBVDHj1MSbAmPfRU-M) 
  
  
 
 ### ~ Youtube Shorts:
 
- ### [ a) Playlist: All Youtube shorts ](https://youtube.com/playlist?list=PLE1_rINIw84x-TLnRiZ7t-_uWJCAubgXQ) 
+ ### [ a) Playlist: All Youtube shorts (40) ](https://youtube.com/playlist?list=PLE1_rINIw84x-TLnRiZ7t-_uWJCAubgXQ) 
  ### [ b) Playlist: Instagram reels ](https://github.com/shreyamalogi/MyBestWorks/blob/master/pyprojects.md) 
  
  ---
