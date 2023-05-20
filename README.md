@@ -10,7 +10,13 @@ Here are the links to my best works so far.
 
 ## [3) Video Editing ](https://github.com/shreyamalogi/MyBestWorks/blob/master/videoediting.md)
 
-## [3) Graphic Designing ](https://github.com/shreyamalogi/MyBestWorks/blob/master/graphicdesign.md)
+## [4) Graphic Designing ](https://github.com/shreyamalogi/MyBestWorks/blob/master/graphicdesign.md)
+
+## [5) Teaching ](https://github.com/shreyamalogi/MyBestWorks/blob/master/teaching.md)
+
+## [6) Publication ](https://github.com/shreyamalogi/MyBestWorks/blob/master/publication.md)
+
+
 
 
 
