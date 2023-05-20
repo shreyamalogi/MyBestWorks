@@ -27,4 +27,4 @@ I independently taught students a series of chapters, taking on the responsibili
    ### [  6) Hacktoberfest 2022 Workshop: CodeMacrocosm Open Source Contribution Demo](https://github.com/CodeMacrocosm/Github-BOOK)
    ### [  7) Google Driverless Cars Seminar: Transforming Transportation through Autonomous Technology](https://github.com/CodeMacrocosm/Github-BOOK)
    ### [  8) Dev Jam Hackathon: Final Round Presentation](https://github.com/CodeMacrocosm/Github-BOOK)
-   
+   ### [  9) Frontend Dev: 101 Coaching for Beginner girl(https://github.com/CodeMacrocosm/Github-BOOK)
