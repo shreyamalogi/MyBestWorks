@@ -94,7 +94,7 @@ The simple HTML project is a personal webpage that showcases an individual's abo
 
 The dice game is a simple game where two players roll dice and the player with the highest number wins. The game is played by clicking a button and the winner is determined after a few seconds of rolling the dice.
 
-### [Teal Minimal Portfolio](https://github.com/5hre9a/Dice-game)
+### [Teal Minimal Portfolio](https://github.com/shreyamalogi/Teal-Minimal-Portfolio.)
 
 The webpage has a minimalist aesthetic design, featuring a grey color scheme with pops of teal and white. It's divided into three main sections: a top container with an animated cloud image, a middle container showcasing the owner's skills and background, and a bottom container with social media links and contact information.
 
