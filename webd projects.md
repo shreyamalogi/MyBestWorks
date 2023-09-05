@@ -45,6 +45,8 @@ The tech stack used for building the application includes React, JavaScript, HTM
 - Project planning and management skills.
 
 
+### 1) [Text Editor ](https://github.com/shreyamalogi/Basic-text-Editor/tree/main)
+This basic text editor web application is a project that combines fundamental web development technologies, including HTML5, CSS3, JavaScript, and jQuery, to create a simple yet functional text editor accessible through a web browser.
 
 ### 1) [XOXO game](https://github.com/5hre9a/XOXO-game)
 
