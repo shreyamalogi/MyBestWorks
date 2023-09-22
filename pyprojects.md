@@ -13,6 +13,9 @@
 
 The code uses OpenCV library to detect colors in an image and provides their RGB values and color names by comparing them with pre-defined colors in a CSV file. It allows the user to select a color in the image by double-clicking the mouse, and it displays the selected color's information such as color name and RGB values in real-time on the image.
 
+![Color Detection GIF](https://github.com/shreyamalogi/color-detector/blob/main/computer%20vision/Color%20detection/media/clrdetgif.gif)
+
+
 ### 2) [Zac-My Virtual Assistant](https://github.com/5hre9a/ZAC)
 
 The virtual assistant is programmed to recognize voice commands and respond accordingly.
