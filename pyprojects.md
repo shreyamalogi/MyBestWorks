@@ -62,12 +62,7 @@ It uses randomly generated dot sizes and colors to create a unique pattern on a 
 
 Doraemon, a popular robotic cat from the Japanese manga series, has been recreated using turtle graphics. The turtle graphics program uses a combination of simple commands to draw the character's distinct features, such as his blue body, red collar, and bell.
 
-### a5) [Among Us Drawing Tool](https://github.com/shreyamalogi/among-us)
-
-The code draws a red Among Us character using turtle graphics. The code creates a turtle object and a turtle screen object.
-It also includes a cyan-colored backpack
-
-### a6) [Google Logo Animation](https://github.com/shreyamalogi/google-logo)
+### a5) [Google Logo Animation](https://github.com/shreyamalogi/google-logo)
 
 Google logo drawn in turtle graphics with 6 circles arranged in order, each drawn using turtle's pen and fill functions with RGB values to match official logo colors.
 
@@ -95,27 +90,13 @@ The Kanye quotes generator API is a web service that allows developers to progra
 
 Flask API integration involves building a RESTful API using the Flask web framework, providing features for URL routing, request parsing, and response formatting. It is a popular choice for building web APIs due to its simplicity, flexibility, and scalability.
 
-### b3) [Real-time ISS Tracker](https://github.com/shreyamalogi/kanye-quotes-generator)
-
-It retrieves the real-time location of the International Space Station (ISS) from the Open Notify API using the requests library and outputs the latitude and longitude in a tuple. Also demonstrates how to handle errors and parse JSON data from an API.
 
 
 <br>
 
 --- 
 
-<h3> c) OTHER PROJECTS </h3>
 
-### c1) [Pomodoro Time tracker](https://github.com/shreyamalogi/kanye-quotes-generator)
-
-<h4>Skills: </h4>
-
-- Proficiency in Python programming language
-- Knowledge of Tkinter GUI library
-- Understanding of time management principles and the Pomodoro technique
-
-Pomodoro technique is a time management method that breaks down work into intervals separated by short breaks.
-The Pomodoro project involves implementing this technique with timer functionality using Python and Tkinter GUI.
 
 ### c2) [Automated Personalized Email](https://github.com/shreyamalogi/Automated-personalized-Email)
 
@@ -158,32 +139,23 @@ Contributed my Python coffee machine code to the "hacking scripts" repository, a
 <h4> SKILLS </h4> 
 
 - Programming in Python
-- Working with libraries such as Flask, pyqrcode, pyshorteners, moviepy, and mpg321
+- Working with libraries such as Flask, pyqrcode, , moviepy
 
 
-### 1) [COVID-19 Alert System](https://github.com/5hre9a/corona-cases-notifyer)
+### 1) [MP4 to GIF Converter for README](https://github.com/shreyamalogi/mp4-to-gif)
 
-Corona cases desktop notifier is a software application that provides real-time updates on the number of COVID-19 cases in various parts of the world.It works by fetching the latest data from reliable sources and displaying notifications on the desktop 
+The mp4 to gif converter is a Python program that uses the moviepy library to load a video file and convert it into a gif format.
+The program allows users to specify the start and end time of the video clip they want to convert and then saves the resulting gif file.
 
 ### 2) [QR Code Producer](https://github.com/5hre9a/QRcode-maker)
 
 Python QR code generator that uses pyqrcode library to programmatically create QR codes for any text or URL input. The generated QR code can be saved as an image file for use in various applications like advertising, marketing, and inventory management.
 
-### 3) [Text To Speech Converter](https://github.com/shreyamalogi/TTS)
 
-The text to speech converter is a program that converts written text into spoken words.The program uses the Google Text-to-Speech API to generate an audio file in mp3 format that can be played using the mpg321 library in Python.
+### 3) [COVID-19 Alert System](https://github.com/5hre9a/corona-cases-notifyer)
 
-### 4) [Animated MP4 Conversion](https://github.com/shreyamalogi/mp4-to-gif)
-
-The mp4 to gif converter is a Python program that uses the moviepy library to load a video file and convert it into a gif format.
-The program allows users to specify the start and end time of the video clip they want to convert and then saves the resulting gif file.
-
-### 5) [Compact URL Generator](https://github.com/shreyamalogi/URL-shortener)
-
-The URL shortener is a Python program that converts long URLs to short and easily shareable ones. It uses the pyshorteners library to generate a short URL for a given link.
+Corona cases desktop notifier is a software application that provides real-time updates on the number of COVID-19 cases in various parts of the world.It works by fetching the latest data from reliable sources and displaying notifications on the desktop 
 
 
-### 6) [Miles to Kilometre Converter](https://github.com/shreyamalogi/miles-to-km-converter)
-This Python program uses the Tkinter library to create a GUI for converting miles to kilometers. It updates the output in real-time when the "Calculate" button is pressed based on user input.
 
 ----
