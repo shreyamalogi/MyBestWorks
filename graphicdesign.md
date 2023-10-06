@@ -1,15 +1,19 @@
 # 🎨 Graphic Designing 🖼️
 
-Explore my creative journey through various graphic design projects:
+Embark on a visual odyssey through over **300** creatively designed projects🌟 🎨, featuring the dynamic essence of CodeMacrocosm 🚀✨, the natural allure of Kamala Farms 🌾📸, the captivating narratives of St. Mary's Magz 🎭📚, and the entrepreneurial spirit in Shreya Entrepreneur 💼🌈Explore my creative journey through various graphic design projects:
+
+## Here is the breakdown  📖
+
+<details>
+
+<summary> Click here to view my Graphic Designing portfolio: </summary>
 
 ### [a) CodeMacrocosm (200+ posts)](https://www.instagram.com/codemacrocosm/) 🌐
-Dive into a vibrant collection of over 200 design posts showcasing the essence of CodeMacrocosm. 🚀✨
 
 ### [b) Kamala Farms (40 posts)](https://www.instagram.com/kamalafarms/) 🌾
-Discover 40 visually appealing posts capturing the beauty and essence of Kamala Farms. 📸🍃
 
 ### [c) St. Mary's Magz (40 posts)](https://www.instagram.com/emagz_stmarys/) 📖
-Experience the visual storytelling of St. Mary's Magz through 40 captivating design posts. 🎭📚
 
 ### [d) Shreya Entrepreneur (50 posts)](https://drive.google.com/file/d/1EyfPf2rjzpQgn1CM4z82vSdLd76Ip5sn/view?usp=sharing) 💼🎥
-Explore a portfolio of 50 design creations that embody the entrepreneurial spirit of Shreya. 🌟💡
+
+</details>
