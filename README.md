@@ -1,10 +1,11 @@
 
-# Shreya Malogi's Dynamic Portfolio 🚀
+# [Shreya Malogi's Dynamic Portfolio 🚀 ](https://codemacrocosm.my.canva.site/shreyamalogi)
 
 ## Overview
 
 "👋 Hey there! I'm Shreya Malogi, a **Software Developer, Tech Mentor, Facilitator, Entrepreneur**, and dedicated **Creativity Enthusiast**. Let's dive into my coding journey — where it's not just about algorithms, but a mindset I passionately share. 💻🚀✨"
 
+[view demo website](https://codemacrocosm.my.canva.site/shreyamalogi)
 
  ## 1) [DEVELOPER PORTFOLIO: ](https://github.com/shreyamalogi/MyBestWorks/blob/master/developerportfolio.md)
 
