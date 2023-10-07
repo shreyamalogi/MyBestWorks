@@ -1,4 +1,33 @@
-<h1> WEB DEVELOPMENT PROJECTS:-👇👇</h1>
+
+
+
+# Table of Contents:
+
+| Web Development Projects            | Python Projects                     |
+|-------------------------------------|-------------------------------------|
+| 1. [Task Management App](https://github.com/shreyamalogi/todolist-app) 📅     | 1. [Zac-My Virtual Assistant](https://github.com/5hre9a/ZAC) 🤖                   |
+| 2. [Google Keep Clone](https://github.com/shreyamalogi/Google-Keep-Clone) 📝   | 2. [Real-time Color Identifier](https://github.com/5hre9a/computer-vision) 🎨   |
+| 3. [Gourmet Recipe Hub](https://github.com/5hre9a/recipe-app) 🍲               | 3. [Personalized-Travel-Planning-System](https://github.com/shreyamalogi/Personalized-travel-planning-system) 🌍 |
+| 4. [Secret Key Web app](https://github.com/shreyamalogi/secret-key-web-app) 🔐 | 4. [AI Attendance System](https://github.com/shreyamalogi/AI_Attendance) 📚     |
+| 5. [Robust APIs Builder](https://github.com/shreyamalogi/REST-API) 🚀          | 5. [Typing-Speed-Test-App](https://github.com/shreyamalogi/Typing-Speed-Test-app) ⌨️ |
+| 6. [Teal Minimal Portfolio](https://github.com/shreyamalogi/Teal-Minimal-Portfolio.) 🌐 | 6. [Road-Lane-Detection ](https://github.com/shreyamalogi/Road-Lane-Detection) 🛣️ |
+| 7. [Text Editor](https://github.com/shreyamalogi/Basic-text-Editor/tree/main) 📝 | 7. [Google Logo Animation](https://github.com/shreyamalogi/google-logo) 🌈     |
+| 8. [XOXO Game](https://github.com/5hre9a/XOXO-game) 🤖                        | 8. [Automated Personalized Email](https://github.com/shreyamalogi/Automated-personalized-Email) ✉️ |
+|  | 9. [MP4 to GIF Converter for README](https://github.com/shreyamalogi/mp4-to-gif) 🎬 |
+
+### b) Contributed to:
+
+ 1. [Awesome Python Scripts 🚀](https://github.com/prathimacode-hub/Awesome_Python_Scripts)
+    
+ 2. [Hacking Scripts ⚙️](https://github.com/Tejas1510/Hacking-Scripts) 
+
+---
+
+
+<h3> Web Development Projects:-👇👇</h3>
+
+<details>
+<summary>📷 Click here: For a detailed breakdown of web development, including functionality and tech stack. : </summary>
 
 1) ### [Task Management App](https://github.com/shreyamalogi/todolist-app)📅
    - **Functionality:** A dynamic web application for task management.
@@ -32,10 +61,14 @@
    - **Functionality:** Allows users to play a game of XOXO with AI.
    - **Tech Stack:** `HTML5`, `CSS3`, `JavaScript`, `jQuery`
 
----
 
-<h2>PYTHON PROJECTS:-👇👇</h2>
+</details>
 
+
+<h3>Python Projects:-👇👇</h3>
+
+<details>
+<summary> 📷 Click here: For a detailed breakdown of python projects, including functionality and tech stack.  : </summary>
 
 ### 1) [Zac-My Virtual Assistant](https://github.com/5hre9a/ZAC) 🤖
    - **Functionality:** Recognizes voice commands for various tasks, such as opening websites, sending emails, 
@@ -84,6 +117,9 @@
 ### 2) [Hacking Scripts](https://github.com/Tejas1510/Hacking-Scripts) ⚙️
    - **Contributions:** Contributed Python coffee machine code to the "hacking scripts" repository, promoting collaboration and innovation.
    - **Tech Stack:** `Python`
+
+</details>
+
 --- 
 
 
