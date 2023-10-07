@@ -3,12 +3,12 @@
 
 ## Overview
 
-👋 Hi there! I'm Shreya Malogi, a versatile Software Developer, Tech Mentor, Facilitator, Entrepreneur and Creativity Enthusiast. Let's dive into my journey where coding is not just about algorithms, but a mindset that I love sharing. 📱🚀✨
+"👋 Hey there! I'm Shreya Malogi, a **Software Developer, Tech Mentor, Facilitator, Entrepreneur**, and dedicated **Creativity Enthusiast**. Let's dive into my coding journey — where it's not just about algorithms, but a mindset I passionately share. 💻🚀✨"
 
 
  ## 1) [DEVELOPER PORTFOLIO: ](https://github.com/shreyamalogi/MyBestWorks/blob/master/developerportfolio.md)
 
-Discover 'Web Dev Wonders' 💻🔍 and 'Python Projects Excellence' 🐍🚀 in Shreya Malogi's portfolio. Explore an 'Interactive Table of Contents Adventure' 🌐✨ for project insights. Uncover Shreya's crafted world.
+Discover 'Web Dev Wonders' 💻🔍 and 'Python Projects Excellence' 🐍🚀 . Explore an 'Interactive Table of Contents Adventure' 🌐✨ for project insights. Uncover Shreya's crafted world.🎈
 
 
  ## 2) [TECH MENTORSHIP PORTFOLIO: ](https://github.com/shreyamalogi/MyBestWorks/blob/master/techmentorshipportfolio.md)
