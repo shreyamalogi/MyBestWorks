@@ -1,5 +1,25 @@
+### 🚀 1) Curated and Hosted Open Source Contest's 🌐
 
-### 🚀 1) Gave Tech Talks in Seminars and Workshops 🌐
+Hosted a series of 10 dynamic coding contests, guiding participants through creative challenges
+
+
+| S.No | Name of Contest        | Description                                                   |
+|------|------------------------|---------------------------------------------------------------|
+| 🏆 Contest 1 | Start-a-Thon-20        | 🌟 The Hello World Spectacular Extravaganza🌟                   |
+| 🌟 Contest 2 | Design-a-Thon-20       | 🌟Storyteller's Canvas - Design Your Narrative 🌟              |
+| 💻 Contest 3 | Web-a-Thon-20          | 🌟 Get Ready for the Ultimate Web Development Showdown! 🌟     |
+| 🌐 Contest 4 | Pull-a-Thon-21         | 🌟 Your Entry Point to Open Source Collaboration 🌟            |
+| 🚀 Contest 5 | Dev-a-Thon-21          | 🌟 Your Gateway to Express Your Dev Journey 🌟                |
+| ✂️ Contest 6 | Snip-a-Thon-21         | 🌟 Code Brilliance, One Snippet at a Time! 🌟                 |
+| 📖 Contest 7 | Vocab-a-Thon-22        | 🌟 Your Passport to Word Wonderland!🌟                         |
+
+
+
+
+
+---
+
+### 🚀 2) Gave Tech Talks in Seminars and Workshops 🌐
 I took the initiative to independently organize workshops and deliver compelling seminars, addressing a variety of Technical topics.💡
 
 <details>
