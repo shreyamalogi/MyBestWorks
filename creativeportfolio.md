@@ -1,4 +1,4 @@
-#  🌈 CREATIVE PORTFOLIO:🌟 
+#  🌈 Shreya Malogi's Creative Portfolio :🌟 
 
  Welcome to my World of **Graphic Designing, Video Editing and Digital Marketing.** 
 
