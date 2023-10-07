@@ -1,4 +1,4 @@
-# 🎓🌐 "Shreya Malogi's Tech Facilitation Portfolio"💻
+# 🎓 "Shreya Malogi's Tech Facilitation Portfolio"
 
 "Passionate Tech Facilitator, curating and hosting open-source contests, organizing workshops, and delivering enlightening seminars. 🚀🌟"
 
@@ -7,9 +7,11 @@
 
 Hosted a captivating series of **14 dynamic coding contests**, guiding participants through innovative and creative challenges. 🌟🔍💡💻
 
+###  Here is the breakdown  📖
+
 <details>
 
-<summary> Click here: Table of Contents - Tech Talks </summary>
+<summary> 📸 Click here to view:  </summary>
 
 | S.No | Name of Contest        | Description                                                   |
 |------|------------------------|---------------------------------------------------------------|
@@ -39,9 +41,13 @@ Hosted a captivating series of **14 dynamic coding contests**, guiding participa
 ### 🚀 2) Gave Tech Talks in Seminars and Workshops 🌐
 I took the initiative to independently organize **9 workshops and deliver compelling seminars**, addressing a variety of Technical topics.💡
 
+
+
+###  Here is the breakdown  📖
+
 <details>
 
-<summary> Click here: Table of Contents - Tech Talks </summary>
+<summary> 📸 Click here to view:  </summary>
 
 | Event | Workshop / Seminar Name | Description |
 |-------|-------------------------|-------------|
