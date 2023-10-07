@@ -6,9 +6,11 @@
 
 - **Click the links** from the **Table of Contents** to find resources to each project 
 
+###  Here is the breakdown  📖
+
 <details>
 
-<summary> Click here: Table of Contents - Projects </summary>
+<summary> 📸 Click here to view:  </summary>
  
 ## Table of Contents: 
 
@@ -45,9 +47,11 @@ I've independently facilitated comprehensive learning experiences for students, 
 
 - **Click the links** from the **Table of Contents** to find resources to each project 
 
+###  Here is the breakdown  📖
+
 <details>
 
-<summary> Click here: Table of Contents - Trainings </summary>
+<summary> 📸 Click here to view:  </summary>
  
 | Chapter | Name of Chapter                                      |
 |---------|------------------------------------------------------|
