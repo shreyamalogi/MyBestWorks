@@ -6,15 +6,18 @@ Hosted a series of 10 dynamic coding contests, guiding participants through crea
 |------|------------------------|---------------------------------------------------------------|
 | 🏆 Contest 1 | Write-a-Thon-20        | 🌟 Unleash the Creative Power of Magic Words                |
 | 🌟 Contest 2 | Start-a-Thon-20        | 🌟 The Hello World Spectacular Extravaganza                  |
-| 💻 Contest 3 | Design-a-Thon-20       | 🌟Storyteller's Canvas - Design Your Narrative              |
-| 🌐 Contest 4 | Web-a-Thon-20          | 🌟 Get Ready for the Web Development Showdown!               |
-| 🚀 Contest 5 | Pull-a-Thon-21         | 🌟 Your Entry Point to Open Source Collaboration!            |
+| 💻 Contest 3 | Design-a-Thon-20       | 🌟 Storyteller's Canvas - Design Your Narrative              |
+| 🌐 Contest 4 | Web-a-Thon-20          | 🌟 Ultimate Web Development Showdown!               |
+| 🚀 Contest 5 | Pull-a-Thon-21         | 🌟 Entry Point to Open Source Collaboration!            |
 | ✂️ Contest 6 | Dev-a-Thon-21          | 🌟 Your Gateway to Express Your Dev Journey!                 |
 | 🌐 Contest 7 | Snip-a-Thon-21         | 🌟 Code Brilliance, One Snippet at a Time!                 |
 | 📖 Contest 8 | Vocab-a-Thon-22        | 🌟 Your Passport to Word Wonderland!                       |
 | 💻 Contest 9  | Patternathon-22:       | 🌟 Artistic Expressive Canvas in Code                               |
 | 🚀 Contest 10 | Algoathon-22:         | 🌟 Ingeniously Crafting Algorithms Anew                               |
-| ✨ Contest 11 | Profileathon-22:        | 🌟 Sharing your Tech Journeys                              |
+| ✨ Contest 11 | Profileathon-22:        | 🌟  Tech Journeys Unveiled Together.                    |
+| 🌊 Contest 12 | Turtle-a-Thon '23         | 🌟 Explore Turtle Graphics Bliss. |
+| 💡 Contest 13 | LeetArray-a-thon'23       | 🌟 Leetcode Array Mastery Unleashed. |
+| 🧩 Contest 14 | LeetString-a-thon'23      | 🌟 Innovate Strings, Crack Leetcode Challenges.|
 
 
 
