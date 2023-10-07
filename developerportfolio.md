@@ -1,7 +1,11 @@
+# 🚀 Shreya Malogi's Developer Portfolio 🌐✨
+
+"All my projects feature meticulously structured documentation 📄, an engaging demo GIF 🎥, project files readily available in the repository 📂, a breakdown of the tech stack used 💻, a succinct problem statement ❓, a detailed account of how I tackled the challenge 🛠️, instructions on how to run the project 🏃‍♂️, and guidance on contributing 🤝"
+
+- **Click the links** in the **table of contents** to view all the exciting details of each project.
 
 
-
-# Table of Contents:
+## Table of Contents:
 
 | Web Development Projects            | Python Projects                     |
 |-------------------------------------|-------------------------------------|
