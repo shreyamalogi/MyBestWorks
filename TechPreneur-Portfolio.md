@@ -1,16 +1,18 @@
-# Shreya Malogi's Tech Mentorship: 🚀👩‍💻
+# 🤝Shreya Malogi's TechPreneurship Portfolio👣🦾
+
+As a Tech Entrepreneur🎓, who started CodeMacrocosm💙, I was able to provide Tech Mentorship📒 and Tech Facilitation 📢.
+
+## 👩‍💻Tech Mentorship:
 
 ###  🚀 1) Crafting & Teaching Beginner Brilliance!
 
-🌟 I've passionately crafted and taught a treasure trove of **20 beginner-friendly programming projects**, guiding my stakeholders into coding brilliance. 🚀 Each project is carefully designed - a hands-on coding adventure. 🌌 Get ready for a coding escapade like no other! 🚀👩‍💻
+🌟 I've passionately crafted and taught a treasure trove of **20 beginner-friendly programming projects**, guiding my stakeholders into coding brilliance. Each project is carefully designed - a hands-on coding adventure. 🌌
 
-- **Click the links** from the **Table of Contents** to find resources to each project 
-
-###  Here is the breakdown  📖
+###  Here is the breakdown⬇️
 
 <details>
 
-<summary> 📸 Click here to view:  </summary>
+<summary> 👉📸 Click here👈  </summary>
  
 ## Table of Contents: 
 
@@ -45,13 +47,12 @@ This learning path will take you on a journey from Python basics to web technolo
 
 I've independently facilitated comprehensive learning experiences for students, taking charge of providing all essential resources.💡
 
-- **Click the links** from the **Table of Contents** to find resources to each project 
 
-###  Here is the breakdown  📖
+###  Here is the breakdown⬇️
 
 <details>
 
-<summary> 📸 Click here to view:  </summary>
+<summary> 👉📸 Click here👈 </summary>
  
 | Chapter | Name of Chapter                                      |
 |---------|------------------------------------------------------|
