@@ -11,8 +11,7 @@ Energizing as a Tech Entrepreneur ⚡, I lead CodeMacrocosm with dynamic Tech Me
 
 #####  🚀 1) Crafting & Teaching Beginner Brilliance!
 
-🌟 I've passionately crafted and taught **20 beginner-friendly Hands-On Coding projects**, guiding my stakeholders into coding brilliance. 
-🌌
+🌟 Passionately designed and taught **20** beginner-friendly **hands-on coding projects 💻**, ushering stakeholders into coding brilliance.🌌
 
 #####  Here is the breakdown⬇️
 
@@ -51,7 +50,9 @@ This learning path will take you on a journey from Python basics to web technolo
 
 ##### 🚀 2) Conducted Comprehensive Trainings & Provided Resources 📚
 
-I've independently Conducted **10 rigorous Technical Trainings**, taking charge of providing and open sourcing all the essential **resources**.💡
+
+Led and executed **10 intensive technical trainings**, overseeing the provision and open-sourcing of crucial **resources**. 💡
+
 
 
 #####  Here is the breakdown⬇️
@@ -117,9 +118,8 @@ I've independently Conducted **10 rigorous Technical Trainings**, taking charge 
 ---
 
 ### 🚀 2) Gave Tech Seminars / Workshops 🎤
-I took the initiative to independently **organize and deliver 9 compelling Workshops or seminars**, addressing a variety of Technical topics.💡
 
-
+Executed **9** engaging **workshops**, autonomously orchestrating and presenting diverse technical topics to audiences. 💡
 
 ##### Here is the breakdown⬇️
 
