@@ -1,6 +1,7 @@
 # 🤝Shreya Malogi's TechPreneur Portfolio👣🦾
 
-As a Tech Entrepreneur🎓, Leading CodeMacrocosm 💙, I was able to provide Tech Mentorship📒 and Tech Facilitation 📢.
+
+Energizing as a Tech Entrepreneur ⚡, I lead CodeMacrocosm with dynamic Tech Mentorship📚 and drive progress through impactful Tech Facilitation🎙.
 
 ---
 
