@@ -14,10 +14,9 @@
 | 3. [Gourmet Recipe Hub](https://github.com/5hre9a/recipe-app) 🍲               | 3. [Personalized-Travel-Planning-System](https://github.com/shreyamalogi/Personalized-travel-planning-system) 🌍 |
 | 4. [Secret Key Web app](https://github.com/shreyamalogi/secret-key-web-app) 🔐 | 4. [AI Attendance System](https://github.com/shreyamalogi/AI_Attendance) 📚     |
 | 5. [Robust APIs Builder](https://github.com/shreyamalogi/REST-API) 🚀          | 5. [Typing-Speed-Test-App](https://github.com/shreyamalogi/Typing-Speed-Test-app) ⌨️ |
-| 6. [Teal Minimal Portfolio](https://github.com/shreyamalogi/Teal-Minimal-Portfolio.) 🌐 | 6. [Road-Lane-Detection ](https://github.com/shreyamalogi/Road-Lane-Detection) 🛣️ |
-| 7. [Text Editor](https://github.com/shreyamalogi/Basic-text-Editor/tree/main) 📝 | 7. [Google Logo Animation](https://github.com/shreyamalogi/google-logo) 🌈     |
-| 8. [XOXO Game](https://github.com/5hre9a/XOXO-game) 🤖                        | 8. [Automated Personalized Email](https://github.com/shreyamalogi/Automated-personalized-Email) ✉️ |
-|  | 9. [MP4 to GIF Converter for README](https://github.com/shreyamalogi/mp4-to-gif) 🎬 |
+| 6. [Text Editor](https://github.com/shreyamalogi/Basic-text-Editor/tree/main) 📝 | 6. [Road-Lane-Detection ](https://github.com/shreyamalogi/Road-Lane-Detection) 🛣️ |
+| 7. [XOXO Game](https://github.com/5hre9a/XOXO-game) 🤖                        | 7. [Automated Personalized Email](https://github.com/shreyamalogi/Automated-personalized-Email) ✉️ |
+
 
 ### b) Contributed to:
 
@@ -53,15 +52,12 @@
    - **Functionality:** RESTful API built from scratch supporting HTTP requests (GET, PUT, POST, DELETE) 
    - **Tech Stack:** `Node.js`, `Express.js`, `EJS`, `Postman`, `Robo3t`, `MongoDB`
 
-6) ### [Teal Minimal Portfolio](https://github.com/shreyamalogi/Teal-Minimal-Portfolio.) 🌐
-   - **Design:** Minimalist portfolio webpage with a grey color scheme, teal accents, and three main sections.
-   - **Tech Stack:** `HTML`, `CSS`
   
-7) ### [Text Editor](https://github.com/shreyamalogi/Basic-text-Editor/tree/main) 📝
+6) ### [Text Editor](https://github.com/shreyamalogi/Basic-text-Editor/tree/main) 📝
    - **Functionality:** A basic text editor web application.
    - **Tech Stack:** `HTML5`, `CSS3`, `JavaScript`, `jQuery`, `Flask`
  
-8) ### [XOXO Game](https://github.com/5hre9a/XOXO-game) 🤖
+7) ### [XOXO Game](https://github.com/5hre9a/XOXO-game) 🤖
    - **Functionality:** Allows users to play a game of XOXO with AI.
    - **Tech Stack:** `HTML5`, `CSS3`, `JavaScript`, `jQuery`
 
@@ -98,17 +94,9 @@
    - **Functionality:** computer vision technique used to identify and mark the lanes on a road in images or videos.
    - **Tech Stack:** `Python`, `OpenCV`, `Data Science`, `Jupyter Notebook`
 
-### 7) [Google Logo Animation](https://github.com/shreyamalogi/google-logo) 🌈
-   - **Functionality:** Draws the Google logo in turtle graphics with RGB values matching official logo colors.
-   - **Tech Stack:** `Turtle Graphics - GUI`, `Python`
-
-### 8) [Automated Personalized Email](https://github.com/shreyamalogi/Automated-personalized-Email) ✉️
+### 7) [Automated Personalized Email](https://github.com/shreyamalogi/Automated-personalized-Email) ✉️
    - **Functionality:** Automates mail merging, generating personalized letters for a list of names.
    - **Tech Stack:** `Python`
-
-### 9) [MP4 to GIF Converter for README](https://github.com/shreyamalogi/mp4-to-gif) 🎬
-   - **Functionality:** Converts video files to GIF format using the moviepy library, allowing users to specify start and end times.
-   - **Tech Stack:** `Python`, `Moviepy`
 
 
 ---
