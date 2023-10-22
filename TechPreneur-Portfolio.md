@@ -26,10 +26,11 @@ Energizing as a Tech Entrepreneur ⚡, I lead CodeMacrocosm with dynamic Tech Me
 
 | Project Name                                                                   | Tech Stack                      |
 |--------------------------------------------------------------------------------|---------------------------------|
-| [🦠1) COVID-19 Cases Notifier](https://github.com/shreyamalogi/corona-cases-notifyer) | 📊 Python                      |
+| [🦠1) Pandemic Alert ](https://github.com/shreyamalogi/corona-cases-notifyer) | 📊 Python                      |
 | [🗣️ 2) Text-to-Speech (TTS)](https://github.com/shreyamalogi/TTS)                    | 📝 Python                      |
-| [📄 3) Bio Data ](https://github.com/shreyamalogi/Bio-Data)                   | 🔍 HTML                        |
-| [🐶 4) Tinder for Dogs](https://github.com/shreyamalogi/tindog)                               | 💻 HTML, CSS, Bootstrap        |
+| [📄 3) Bio Data ](https://github.com/shreyamalogi/Bio-Data)          | 🔍 HTML                        |
+| [🎽 4) Teal Minimal Portfolio ](https://github.com/shreyamalogi/Teal-Minimal-Portfolio.)  | 🔍 HTML, CSS        |)             
+| [🐶 5) Tinder for Dogs](https://github.com/shreyamalogi/tindog)                               | 💻 HTML, CSS, Bootstrap        |
 | [🎨 5) Polka Dot](https://github.com/shreyamalogi/the_hirst_painting)                 | 🔵 Turtle GUI                  |
 | [✏️ 6) Spirograph](https://github.com/shreyamalogi/spirograph)                       | 🌀 Turtle GUI                  |
 | [🤖 7) Doraemon](https://github.com/shreyamalogi/doraemon)                           | 🎨 Turtle GUI                  |
