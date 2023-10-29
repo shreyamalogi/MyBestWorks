@@ -1,12 +1,10 @@
-# 🚀 SHREYA MALOGI'S DYNAMIC PORTFOLIO 🌐✨
+# 🚀 SHREYA MALOGI'S DYNAMIC PORTFOLIO 🌐
 
 "📝 Welcome to my dynamic portfolio! Explore my 🖥️ Developer Portfolio for coding expertise, 🚀 Tech Entrepreneur Portfolio for business ventures, and 🎨 Creative Portfolio for artistic endeavors. Join me in the intersection of technology, entrepreneurship, and creativity! ✨"
-
 
 ## 📚 Shreya Malogi's Developer Portfolio 🤖   
 
 "All my projects feature meticulously structured documentation 📄, an engaging demo GIF 🎥, project files readily available in the repository 📂along with **functionality, tech stack, year of project , problem statement ❓, a detailed account of how I tackled the challenge 🛠️, instructions on how to run the project 🏃‍♂️, and guidance on contributing 🤝"**
-
 
 ### Skills Summary:
 `HTML5`, `JavaScript`, `Node.js`, `Express.js`, `EJS`, `Heroku`, `MongoDB Atlas`, `AWS cluster` , `CSS3`, `NPM`, `Netlify`, `Edamam API`, `Awesome UI`, `React.js` , `MongoDB`, `MD5`, `bcrypt`, `passportjs`, `GoogleOAuth2.0`, `Bootstrap`, `Postman`, `Robo3t`, `jQuery`, `Flask`, `Python`, `Wolfram Alpha API`, `Wikipedia API`, `OpenCV`, `NumPy`, `scikit-learn`, `Pandas`, `Matplotlib`, `Tkinter GUI`, `SQLAlchemy`, `Jupyter Notebook`
@@ -25,18 +23,15 @@
 | 6. [Text Editor](https://github.com/shreyamalogi/Basic-text-Editor/tree/main) 📝 | 6. [Road-Lane-Detection ](https://github.com/shreyamalogi/Road-Lane-Detection) 🛣️ |
 | 7. [XOXO Game](https://github.com/5hre9a/XOXO-game) 🤖                        | 7. [Automated Personalized Email](https://github.com/shreyamalogi/Automated-personalized-Email) ✉️ |
 
-
 ### b) Contributed to:
 
  1. [Awesome Python Scripts 🚀](https://github.com/prathimacode-hub/Awesome_Python_Scripts)
     
  2. [Hacking Scripts ⚙️](https://github.com/Tejas1510/Hacking-Scripts) 
 
-
 --- 
 
 ## 🤝Shreya Malogi's TechPreneur Portfolio👣🦾
-
 
 Energizing as a Tech Entrepreneur ⚡, I lead CodeMacrocosm with dynamic Tech Mentorship📚 and Tech Facilitation🎙.
 
@@ -68,13 +63,9 @@ This learning path will take you on a journey from Python basics to web technolo
 </details>
 
 
-
 #### 🚀 2) Conducted Comprehensive Trainings & Provided Resources 📚
 
-
 Led and executed **10 intensive technical trainings**, overseeing the provision and open-sourcing of crucial **resources**. 💡
-
-
 
 | Chapter | Name of Chapter                                      | Chapter | Name of Chapter                                      |
 |---------|------------------------------------------------------|---------|------------------------------------------------------|
@@ -83,15 +74,11 @@ Led and executed **10 intensive technical trainings**, overseeing the provision 
 | 3       | [🔧 15 days of 'HTML/CSS' Training.](https://github.com/CodeMacrocosm/HTMLCSS-BOOK)         | 8       | [☕ 10 days of 'Java' Training.](https://github.com/CodeMacrocosm/JAVA-BOOK)                |
 | 4       | [⚛️ 10 Days of 'React.js' Training.](https://github.com/CodeMacrocosm/react.js-BOOK)       | 9       | [🌐 45 days of 'Full Stack Web Development'.](https://github.com/CodeMacrocosm/WEBD-BOOK) |
 | 5       | [🌐 10 days of 'C' Training.](https://github.com/CodeMacrocosm/C-BOOK)                      |         |                                                                                      |
-
-
 ### 🎓Tech Facilitation
-
 
 #### 🚀 1) Produced Open Source Contest's 🌐
 
 **Orchestrated** and **Hosted** a series of **14 coding contests**, guiding participants through innovative challenges. 🌟🔍💡💻
-
 
 | S.No | Name of Contest        | Description                                                   | S.No | Name of Contest        | Description                                                   |
 |-----------------------|-------------------------------------|---------------------------------------------------------------|----------------------|------------------------|---------------------------------------------------------------|
@@ -101,7 +88,6 @@ Led and executed **10 intensive technical trainings**, overseeing the provision 
 | 🌐 Contest 4 | Web-a-Thon-20          | 🌟 Ultimate Web Development Showdown!               | 🚀 Contest 10 | Algoathon-22:         | 🌟 Ingeniously Crafting Algorithms Anew                               |
 | 🚀 Contest 5 | Pull-a-Thon-21         | 🌟 Entry Point to Open Source Collaboration!            | ✨ Contest 11 | Profileathon-22:        | 🌟  Tech Journeys Unveiled Together.                    |
 | ✂️ Contest 6 | Dev-a-Thon-21          | 🌟 Your Gateway to Express Your Dev Journey!                 | 🌊 Contest 12 | Turtle-a-Thon '23         | 🌟 Explore Turtle Graphics Bliss. |
-
 
 #### 🚀 2) Gave Tech Seminars / Workshops 🎤
 
@@ -117,13 +103,11 @@ Executed **9** engaging **workshops**, autonomously orchestrating and presenting
 
 ---
 
- 
 ##  🌈 Shreya Malogi's Creative Portfolio :🌟 
 
 ###  🎨 1) Graphic Designing 🖼️
 
 Embark on a visual odyssey through over **300** creatively designed projects🌟 🎨, featuring the dynamic essence of CodeMacrocosm 🚀✨, the natural allure of Kamala Farms 🌾📸, the captivating narratives of St. Mary's Magz 🎭📚, and the entrepreneurial spirit in Shreya Entrepreneur 💼🌈Explore my creative journey through various graphic design projects:
-
 
 | Instagram Account | Number of Posts | Link                                           | Description      |
 |-------------------|------------------|------------------------------------------------|------------------|
@@ -132,15 +116,12 @@ Embark on a visual odyssey through over **300** creatively designed projects🌟
 | [c) St. Mary's Magz](https://www.instagram.com/emagz_stmarys/) 📖 | 40 posts | [Link](https://www.instagram.com/emagz_stmarys/) | St. Mary's Magz Instagram with 40 posts. |
 | [d) Shreya Entrepreneur](https://drive.google.com/file/d/1EyfPf2rjzpQgn1CM4z82vSdLd76Ip5sn/view?usp=sharing) 💼 | 50 posts | [Link](https://drive.google.com/file/d/1EyfPf2rjzpQgn1CM4z82vSdLd76Ip5sn/view?usp=sharing) | Shreya Entrepreneur with 50 posts. |
 
-
 ###  2) Video Editing✨ and Digital Marketing✨
 
 "🎥✨ Experienced in video editing and digital marketing, "I've created and marketed more than **500** videos.", showcasing proficiency in content creation, video production, editing, graphic design, animation, and a passion for unleashing creativity. 🚀🎨 #VideoEditing #DigitalMarketing"
 
-
 ####  Youtube Channel Name: 🌿 @kamalafarms🌱
 Produced an extensive collection of over **250** videos including full length and shorts/reels, resulting in a substantial growth of channel views to 20,000 within a span of 9 months. 📹✨
-
 
 ##### ~ 🚀 YouTube Full-length Videos:
 
@@ -165,8 +146,6 @@ Produced an extensive collection of over **250** videos including full length an
 
 🌟 Crafted with passion, I've personally produced over **25 videos** across various captivating playlists, including CMV Album  🎶, Aesthetic Collections  🌌, Productions - AMV  🎬, Beats  🎵, and Soundtracks 🎼. Dive into this collection for a delightful blend of auditory and visual experiences! 📽️🎨
 
-
-
 | Playlist | Number of Items | Link | Description |
 |---|---|---|---|
 | [a) Stargirl 5hre9a CMV Album](https://www.youtube.com/watch?v=p_oNyOqDr3M&list=PLZ6XBdDIlBR9TkOgxDubd1P1dtHWt6onl&pp=gAQBiAQB) 🎶 | 3 | [Link](https://www.youtube.com/watch?v=p_oNyOqDr3M&list=PLZ6XBdDIlBR9TkOgxDubd1P1dtHWt6onl&pp=gAQBiAQB) | Stargirl 5hre9a CMV Album with 3 items. |
@@ -175,12 +154,9 @@ Produced an extensive collection of over **250** videos including full length an
 | [d) Beats](https://www.youtube.com/watch?v=Cvv30YJ9MAI&list=PLZ6XBdDIlBR_nfhHKZZ0GWYx2nDb9v3HR&pp=gAQBiAQB) 🎵 | 9 | [Link](https://www.youtube.com/watch?v=Cvv30YJ9MAI&list=PLZ6XBdDIlBR_nfhHKZZ0GWYx2nDb9v3HR&pp=gAQBiAQB) | Beats Playlist with 9 items. |
 | [e) Stargirl 5hre9a Sound Tracks](https://www.youtube.com/watch?v=bvkN-xgagMM&list=PLZ6XBdDIlBR8rggYx2zjlA_VgXQBfgbRq&pp=gAQBiAQB) 🎼 | 2 | [Link](https://www.youtube.com/watch?v=bvkN-xgagMM&list=PLZ6XBdDIlBR8rggYx2zjlA_VgXQBfgbRq&pp=gAQBiAQB) | Stargirl 5hre9a Sound Tracks with 2 items. |
 
-
 ##### ~ 🚀 YouTube Shorts - @5hre9a and 🚀 Instagram reels - @heaven1y_horizons: 
 
 Crafted an eclectic portfolio over **200 videos**, surpassing a million views on Instagram and 15k on YouTube in just 7 months! 🌟🌟 With unwavering dedication, I commit to crafting these videos each month. From highlighting a specific New Testament book in-order, like Matthew in April, Mark in May..... to delivering daily, visually enchanting Bible verses in reel format. 📖 This continuous cycle, paired with the same content on Instagram : **5hre9a || HeavenlyHorizons**,  🎥✨
-
-
 
 | Playlist | Number of Videos | Link | Description |
 |---|---|---|---|
@@ -188,10 +164,8 @@ Crafted an eclectic portfolio over **200 videos**, surpassing a million views on
 | [b) Stargirl 5hre9a Heavenly Horizons (Mark - May)](https://www.youtube.com/watch?v=75K4Gh26Hg4&list=PLZ6XBdDIlBR_o95avSo4Eu5pLvLTY8iTG&pp=gAQBiAQB) 🌄 | 31 | [Link](https://www.youtube.com/watch?v=75K4Gh26Hg4&list=PLZ6XBdDIlBR_o95avSo4Eu5pLvLTY8iTG&pp=gAQBiAQB) | Stargirl 5hre9a Heavenly Horizons (Mark - May) with 31 videos. |
 | [c) Stargirl 5hre9a Heavenly Horizons (Luke - June)](https://www.youtube.com/watch?v=75K4Gh26Hg4&list=PLZ6XBdDIlBR_o95avSo4Eu5pLvLTY8iTG&pp=gAQBiAQB) 🌇 | 30 | [Link](https://www.youtube.com/watch?v=75K4Gh26Hg4&list=PLZ6XBdDIlBR_o95avSo4Eu5pLvLTY8iTG&pp=gAQBiAQB) | Stargirl 5hre9a Heavenly Horizons (Luke - June) with 30 videos. |
 
-
 <details>
 <summary> Show Playlists from July 2023 :  </summary>
-
 
 | Playlist | Number of Videos | Link | Description |
 |---|---|---|---|
@@ -202,15 +176,4 @@ Crafted an eclectic portfolio over **200 videos**, surpassing a million views on
 | [h) Stargirl 5hre9a Heavenly Horizons (2 Cor - Nov)](https://www.youtube.com/watch?v=75K4Gh26Hg4&list=PLZ6XBdDIlBR_o95avSo4Eu5pLvLTY8iTG&pp=gAQBiAQB) 🌈 | 30 | [Link](https://www.youtube.com/watch?v=75K4Gh26Hg4&list=PLZ6XBdDIlBR_o95avSo4Eu5pLvLTY8iTG&pp=gAQBiAQB) | Stargirl 5hre9a Heavenly Horizons (2 Cor - Nov) with 30 videos. |
 | [i) Stargirl 5hre9a Heavenly Horizons (Gal - Dec)](https://www.youtube.com/watch?v=75K4Gh26Hg4&list=PLZ6XBdDIlBR_o95avSo4Eu5pLvLTY8iTG&pp=gAQBiAQB) ❄️ | 31 | [Link](https://www.youtube.com/watch?v=75K4Gh26Hg4&list=PLZ6XBdDIlBR_o95avSo4Eu5pLvLTY8iTG&pp=gAQBiAQB) | Stargirl 5hre9a Heavenly Horizons (Gal - Dec) with 31 videos. |
 
-
-
-
 </details>
-
-
-  
-       
-       
-
-  
-
