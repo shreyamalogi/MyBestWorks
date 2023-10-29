@@ -2,16 +2,24 @@
 
 "📝 Welcome to my dynamic portfolio! Explore my 🖥️ Developer Portfolio for coding expertise, 🚀 Tech Entrepreneur Portfolio for business ventures, and 🎨 Creative Portfolio for artistic endeavors. Join me in the intersection of technology, entrepreneurship, and creativity! ✨"
 
+- [ Developer Portfolio](https://github.com/shreyamalogi/MyBestWorks/edit/master/README.md#-shreya-malogis-developer-portfolio-)
+
+- [ Tech-Preneur Portfolio](https://github.com/shreyamalogi/MyBestWorks/edit/master/README.md#shreya-malogis-techpreneur-portfolio)
+
+- [ Creative Portfolio](https://github.com/shreyamalogi/MyBestWorks/edit/master/README.md#-shreya-malogis-creative-portfolio-)
+
+---
+
 ## 📚 Shreya Malogi's Developer Portfolio 🤖   
 
 "All my projects feature meticulously structured documentation 📄, an engaging demo GIF 🎥, project files readily available in the repository 📂along with **functionality, tech stack, year of project , problem statement ❓, a detailed account of how I tackled the challenge 🛠️, instructions on how to run the project 🏃‍♂️, and guidance on contributing 🤝"**
 
-### Skills Summary:
+#### Skills Summary:
 `HTML5`, `JavaScript`, `Node.js`, `Express.js`, `EJS`, `Heroku`, `MongoDB Atlas`, `AWS cluster` , `CSS3`, `NPM`, `Netlify`, `Edamam API`, `Awesome UI`, `React.js` , `MongoDB`, `MD5`, `bcrypt`, `passportjs`, `GoogleOAuth2.0`, `Bootstrap`, `Postman`, `Robo3t`, `jQuery`, `Flask`, `Python`, `Wolfram Alpha API`, `Wikipedia API`, `OpenCV`, `NumPy`, `scikit-learn`, `Pandas`, `Matplotlib`, `Tkinter GUI`, `SQLAlchemy`, `Jupyter Notebook`
 
 - **Click the links** in the **table of contents** to view all the exciting details of each project.
 
-### Table of Contents:
+#### Table of Contents:
 
 | Web Development Projects            | Python Projects                     |
 |-------------------------------------|-------------------------------------|
@@ -23,7 +31,7 @@
 | 6. [Text Editor](https://github.com/shreyamalogi/Basic-text-Editor/tree/main) 📝 | 6. [Road-Lane-Detection ](https://github.com/shreyamalogi/Road-Lane-Detection) 🛣️ |
 | 7. [XOXO Game](https://github.com/5hre9a/XOXO-game) 🤖                        | 7. [Automated Personalized Email](https://github.com/shreyamalogi/Automated-personalized-Email) ✉️ |
 
-### b) Contributed to:
+#### b) Contributed to:
 
  1. [Awesome Python Scripts 🚀](https://github.com/prathimacode-hub/Awesome_Python_Scripts)
     
@@ -35,7 +43,7 @@
 
 Energizing as a Tech Entrepreneur ⚡, I lead CodeMacrocosm with dynamic Tech Mentorship📚 and Tech Facilitation🎙.
 
-### Skills Summary 😱
+####  Skills Summary 😱
 `HTML` ,`CSS` , `Javascript`, `jQuery`, `JSON`, `Rest API`, `Python`, `Flask`, `Turtle-GUI` , ` Tkinter`, `Flutter`, `Git`, `Github` , ` CI/CD`, `Competitive Programming ` , `Data Structures` , ` Algorithms`, `C++`, `Java` , `C`, `Full Stack Development`, `Vscode`, `React.js`, `Bootstrap`, `Open Source`, `Problem Solving`, `Technical Teaching`, ` Program Management `
 
 ### 👩‍💻Tech Mentorship
