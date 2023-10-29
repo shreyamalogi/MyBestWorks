@@ -1,14 +1,19 @@
-# 🚀 Shreya Malogi's Developer Portfolio 🌐✨
+# 🚀 SHREYA MALOGI'S DYNAMIC PORTFOLIO 🌐✨
 
-"All my projects feature meticulously structured documentation 📄, an engaging demo GIF 🎥, project files readily available in the repository 📂, a breakdown of the tech stack used 💻, a succinct problem statement ❓, a detailed account of how I tackled the challenge 🛠️, instructions on how to run the project 🏃‍♂️, and guidance on contributing 🤝"
+"📝 Welcome to my dynamic portfolio! Explore my 🖥️ Developer Portfolio for coding expertise, 🚀 Tech Entrepreneur Portfolio for business ventures, and 🎨 Creative Portfolio for artistic endeavors. Join me in the intersection of technology, entrepreneurship, and creativity! ✨"
+
+
+## 📚 Shreya Malogi's Developer Portfolio 🤖   
+
+"All my projects feature meticulously structured documentation 📄, an engaging demo GIF 🎥, project files readily available in the repository 📂along with **functionality, tech stack, year of project , problem statement ❓, a detailed account of how I tackled the challenge 🛠️, instructions on how to run the project 🏃‍♂️, and guidance on contributing 🤝"**
+
+
+### Skills Summary:
+`HTML5`, `JavaScript`, `Node.js`, `Express.js`, `EJS`, `Heroku`, `MongoDB Atlas`, `AWS cluster` , `CSS3`, `NPM`, `Netlify`, `Edamam API`, `Awesome UI`, `React.js` , `MongoDB`, `MD5`, `bcrypt`, `passportjs`, `GoogleOAuth2.0`, `Bootstrap`, `Postman`, `Robo3t`, `jQuery`, `Flask`, `Python`, `Wolfram Alpha API`, `Wikipedia API`, `OpenCV`, `NumPy`, `scikit-learn`, `Pandas`, `Matplotlib`, `Tkinter GUI`, `SQLAlchemy`, `Jupyter Notebook`
 
 - **Click the links** in the **table of contents** to view all the exciting details of each project.
 
-
-## Skills Summary:
-`HTML5`, `JavaScript`, `Node.js`, `Express.js`, `EJS`, `Heroku`, `MongoDB Atlas`, `AWS cluster` , `CSS3`, `NPM`, `Netlify`, `Edamam API`, `Awesome UI`, `React.js` , `MongoDB`, `MD5`, `bcrypt`, `passportjs`, `GoogleOAuth2.0`, `Bootstrap`, `Postman`, `Robo3t`, `jQuery`, `Flask`, `Python`, `Wolfram Alpha API`, `Wikipedia API`, `OpenCV`, `NumPy`, `scikit-learn`, `Pandas`, `Matplotlib`, `Tkinter GUI`, `SQLAlchemy`, `Jupyter Notebook`
-
-## Table of Contents:
+### Table of Contents:
 
 | Web Development Projects            | Python Projects                     |
 |-------------------------------------|-------------------------------------|
@@ -30,21 +35,21 @@
 
 --- 
 
-# 🤝Shreya Malogi's TechPreneur Portfolio👣🦾
+## 🤝Shreya Malogi's TechPreneur Portfolio👣🦾
 
 
 Energizing as a Tech Entrepreneur ⚡, I lead CodeMacrocosm with dynamic Tech Mentorship📚 and Tech Facilitation🎙.
 
-## Skills Summary 😱
+### Skills Summary 😱
 `HTML` ,`CSS` , `Javascript`, `jQuery`, `JSON`, `Rest API`, `Python`, `Flask`, `Turtle-GUI` , ` Tkinter`, `Flutter`, `Git`, `Github` , ` CI/CD`, `Competitive Programming ` , `Data Structures` , ` Algorithms`, `C++`, `Java` , `C`, `Full Stack Development`, `Vscode`, `React.js`, `Bootstrap`, `Open Source`, `Problem Solving`, `Technical Teaching`, ` Program Management `
 
-## 👩‍💻Tech Mentorship
+### 👩‍💻Tech Mentorship
 
-###  🚀 1) Crafting & Teaching Beginner Brilliance!
+####  🚀 1) Crafting & Teaching Beginner Brilliance!
 
 🌟 Passionately designed and taught **20** beginner-friendly **hands-on coding projects 💻**, ushering stakeholders into coding brilliance.🌌
 
-## Table of Contents:
+### Table of Contents:
 
 | Project Name                                                                   | Tech Stack                      | Project Name                                                                   | Tech Stack                      |
 |--------------------------------------------------------------------------------|---------------------------------|--------------------------------------------------------------------------------|---------------------------------|
@@ -64,7 +69,7 @@ This learning path will take you on a journey from Python basics to web technolo
 
 
 
-### 🚀 2) Conducted Comprehensive Trainings & Provided Resources 📚
+#### 🚀 2) Conducted Comprehensive Trainings & Provided Resources 📚
 
 
 Led and executed **10 intensive technical trainings**, overseeing the provision and open-sourcing of crucial **resources**. 💡
@@ -80,10 +85,10 @@ Led and executed **10 intensive technical trainings**, overseeing the provision 
 | 5       | [🌐 10 days of 'C' Training.](https://github.com/CodeMacrocosm/C-BOOK)                      |         |                                                                                      |
 
 
-## 🎓Tech Facilitation
+### 🎓Tech Facilitation
 
 
-### 🚀 1) Produced Open Source Contest's 🌐
+#### 🚀 1) Produced Open Source Contest's 🌐
 
 **Orchestrated** and **Hosted** a series of **14 coding contests**, guiding participants through innovative challenges. 🌟🔍💡💻
 
@@ -98,7 +103,7 @@ Led and executed **10 intensive technical trainings**, overseeing the provision 
 | ✂️ Contest 6 | Dev-a-Thon-21          | 🌟 Your Gateway to Express Your Dev Journey!                 | 🌊 Contest 12 | Turtle-a-Thon '23         | 🌟 Explore Turtle Graphics Bliss. |
 
 
-### 🚀 2) Gave Tech Seminars / Workshops 🎤
+#### 🚀 2) Gave Tech Seminars / Workshops 🎤
 
 Executed **9** engaging **workshops**, autonomously orchestrating and presenting diverse technical topics to audiences. 💡
 
@@ -113,7 +118,7 @@ Executed **9** engaging **workshops**, autonomously orchestrating and presenting
 ---
 
  
-#  🌈 Shreya Malogi's Creative Portfolio :🌟 
+##  🌈 Shreya Malogi's Creative Portfolio :🌟 
 
 ###  🎨 1) Graphic Designing 🖼️
 
@@ -125,7 +130,7 @@ Embark on a visual odyssey through over **300** creatively designed projects🌟
 | [a) CodeMacrocosm](https://www.instagram.com/codemacrocosm/) 🌐 | 200+ posts | [Link](https://www.instagram.com/codemacrocosm/) | CodeMacrocosm Instagram with 200+ posts. |
 | [b) Kamala Farms](https://www.instagram.com/kamalafarms/) 🌾 | 40 posts | [Link](https://www.instagram.com/kamalafarms/) | Kamala Farms Instagram with 40 posts. |
 | [c) St. Mary's Magz](https://www.instagram.com/emagz_stmarys/) 📖 | 40 posts | [Link](https://www.instagram.com/emagz_stmarys/) | St. Mary's Magz Instagram with 40 posts. |
-| [d) Shreya Entrepreneur](https://drive.google.com/file/d/1EyfPf2rjzpQgn1CM4z82vSdLd76Ip5sn/view?usp=sharing) 💼🎥 | 50 posts | [Link](https://drive.google.com/file/d/1EyfPf2rjzpQgn1CM4z82vSdLd76Ip5sn/view?usp=sharing) | Shreya Entrepreneur with 50 posts. |
+| [d) Shreya Entrepreneur](https://drive.google.com/file/d/1EyfPf2rjzpQgn1CM4z82vSdLd76Ip5sn/view?usp=sharing) 💼 | 50 posts | [Link](https://drive.google.com/file/d/1EyfPf2rjzpQgn1CM4z82vSdLd76Ip5sn/view?usp=sharing) | Shreya Entrepreneur with 50 posts. |
 
 
 ###  2) Video Editing✨ and Digital Marketing✨
