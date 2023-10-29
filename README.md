@@ -2,11 +2,11 @@
 
 "📝 Welcome to my dynamic portfolio! Explore my 🖥️ Developer Portfolio for coding expertise, 🚀 Tech Entrepreneur Portfolio for business ventures, and 🎨 Creative Portfolio for artistic endeavors. Join me in the intersection of technology, entrepreneurship, and creativity! ✨"
 
-- [ Developer Portfolio](https://github.com/shreyamalogi/MyBestWorks/edit/master/README.md#-shreya-malogis-developer-portfolio-)
+- [ Developer Portfolio](#-shreya-malogis-developer-portfolio-)
 
-- [ Tech-Preneur Portfolio](https://github.com/shreyamalogi/MyBestWorks/edit/master/README.md#shreya-malogis-techpreneur-portfolio)
+- [ Tech-Preneur Portfolio](#shreya-malogis-techpreneur-portfolio)
 
-- [ Creative Portfolio](https://github.com/shreyamalogi/MyBestWorks/edit/master/README.md#-shreya-malogis-creative-portfolio-)
+- [ Creative Portfolio](#-shreya-malogis-creative-portfolio-)
 
 ---
 
