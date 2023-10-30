@@ -26,8 +26,8 @@
 | 1. [Task Management App](https://github.com/shreyamalogi/todolist-app) 📅     | 1. [Zac-My Virtual Assistant](https://github.com/5hre9a/ZAC) 🤖                   |
 | 2. [Google Keep Clone](https://github.com/shreyamalogi/Google-Keep-Clone) 📝   | 2. [Real-time Color Identifier](https://github.com/5hre9a/computer-vision) 🎨   |
 | 3. [Gourmet Recipe Hub](https://github.com/5hre9a/recipe-app) 🍲               | 3. [Personalized-Travel-Planning-System](https://github.com/shreyamalogi/Personalized-travel-planning-system) 🌍 |
-| 4. [Secret Key Web app](https://github.com/shreyamalogi/secret-key-web-app) 🔐 | 4. [AI Attendance System](https://github.com/shreyamalogi/AI_Attendance) 📚     |
-| 5. [Robust APIs Builder](https://github.com/shreyamalogi/REST-API) 🚀          | 5. [Typing-Speed-Test-App](https://github.com/shreyamalogi/Typing-Speed-Test-app) ⌨️ |
+| 4. [Full-Stack-Authentication-App](https://github.com/shreyamalogi/Full-Stack-Authentication-App) 🔐 | 4. [AI Attendance System](https://github.com/shreyamalogi/AI_Attendance) 📚     |
+| 5. [WikiDB REST API](https://github.com/shreyamalogi/WikiDB-REST-API) 🚀          | 5. [Typing-Speed-Test-App](https://github.com/shreyamalogi/Typing-Speed-Test-app) ⌨️ |
 | 6. [Text Editor](https://github.com/shreyamalogi/Basic-text-Editor/tree/main) 📝 | 6. [Road-Lane-Detection ](https://github.com/shreyamalogi/Road-Lane-Detection) 🛣️ |
 | 7. [XOXO Game](https://github.com/5hre9a/XOXO-game) 🤖                        | 7. [Automated Personalized Email](https://github.com/shreyamalogi/Automated-personalized-Email) ✉️ |
 
