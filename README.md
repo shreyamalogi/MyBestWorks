@@ -1,6 +1,6 @@
 # 🚀 SHREYA MALOGI'S DYNAMIC PORTFOLIO 🌐
 
-"📝 Welcome to my dynamic portfolio! Explore my 🖥️ Developer Portfolio for coding expertise, 🚀 Tech Entrepreneur Portfolio for business ventures, and 🎨 Creative Portfolio for artistic endeavors. Join me in the intersection of technology, entrepreneurship, and creativity! ✨"
+"📝 Welcome to my dynamic portfolio! Explore my 🖥️ Developer Portfolio for coding expertise, 🚀 Tech Entrepreneur Portfolio for Mentorship ventures, and 🎨 Creative Portfolio for artistic endeavors. Join me in the intersection of Technology, Mentorship, and Creativity! ✨"
 
 - [ Developer Portfolio](#-shreya-malogis-developer-portfolio-)
 
