@@ -1,6 +1,6 @@
 # 🚀 SHREYA MALOGI'S DYNAMIC PORTFOLIO 🤍🌐
 
-"📝 Welcome to my dynamic portfolio! Explore my 🖥️ Developer Portfolio for coding expertise, 🚀 Tech Entrepreneur Portfolio for Mentorship ventures, and 🎨 Creative Portfolio for artistic endeavors. Join me in the intersection of Technology, Mentorship, and Creativity! ✨"
+"📝 Welcome to the dynamic portfolio! Explore Shreya Malogi's 🖥️ Developer Portfolio for coding expertise, 🚀 Tech Entrepreneur Portfolio for Mentorship ventures, and 🎨 Creative Portfolio for artistic endeavors. Join Shreya in the intersection of Technology, Mentorship, and Creativity! ✨"
 
 - [ Developer Portfolio](#-shreya-malogis-developer-portfolio-)
 
@@ -12,7 +12,7 @@
 
 ## 📚 Shreya Malogi's Developer Portfolio 🤖   
 
-"All my projects feature meticulously structured documentation 📄, an engaging demo GIF 🎥, project files readily available in the repository 📂along with **functionality, tech stack, year of project , problem statement ❓, a detailed account of how I tackled the challenge 🛠️, instructions on how to run the project 🏃‍♂️, and guidance on contributing 🤝"**
+"All of her projects feature meticulously structured documentation 📄, an engaging demo GIF 🎥, project files readily available in the repository 📂along with **functionality, tech stack, year of project , problem statement ❓, a detailed account of how I tackled the challenge 🛠️, instructions on how to run the project 🏃‍♂️, and guidance on contributing 🤝"**
 
 #### Skills Summary:
 `HTML5`, `JavaScript`, `Node.js`, `Express.js`, `EJS`, `Heroku`, `MongoDB Atlas`, `AWS cluster` , `CSS3`, `NPM`, `Netlify`, `Edamam API`, `Awesome UI`, `React.js` , `MongoDB`, `MD5`, `bcrypt`, `passportjs`, `GoogleOAuth2.0`, `Bootstrap`, `Postman`, `Robo3t`, `jQuery`, `Flask`, `Python`, `Wolfram Alpha API`, `Wikipedia API`, `OpenCV`, `NumPy`, `scikit-learn`, `Pandas`, `Matplotlib`, `Tkinter GUI`, `SQLAlchemy`, `Jupyter Notebook`
@@ -41,7 +41,7 @@
 
 ## 🤝Shreya Malogi's TechPreneur Portfolio👣🦾
 
-Energizing as a Tech Entrepreneur ⚡, I lead CodeMacrocosm with dynamic Tech Mentorship📚 and Tech Facilitation🎙.
+Energizing as a Tech Entrepreneur ⚡, Shreya leads CodeMacrocosm with dynamic Tech Mentorship📚 and Tech Facilitation🎙.
 
 ####  Skills Summary 😱
 `HTML` ,`CSS` , `Javascript`, `jQuery`, `JSON`, `Rest API`, `Python`, `Flask`, `Turtle-GUI` , ` Tkinter`, `Flutter`, `Git`, `Github` , ` CI/CD`, `Competitive Programming ` , `Data Structures` , ` Algorithms`, `C++`, `Java` , `C`, `Full Stack Development`, `Vscode`, `React.js`, `Bootstrap`, `Open Source`, `Problem Solving`, `Technical Teaching`, ` Program Management `
@@ -115,7 +115,7 @@ Executed **9** engaging **workshops**, autonomously orchestrating and presenting
 
 ###  🎨 1) Graphic Designing 🖼️
 
-Embark on a visual odyssey through over **300** creatively designed projects🌟 🎨, featuring the dynamic essence of CodeMacrocosm 🚀✨, the natural allure of Kamala Farms 🌾📸, the captivating narratives of St. Mary's Magz 🎭📚, and the entrepreneurial spirit in Shreya Entrepreneur 💼🌈Explore my creative journey through various graphic design projects:
+Embark on a visual odyssey through over **300** creatively designed projects🌟 🎨, featuring the dynamic essence of CodeMacrocosm 🚀✨, the natural allure of Kamala Farms 🌾📸, the captivating narratives of St. Mary's Magz 🎭📚, and the entrepreneurial spirit in Shreya Entrepreneur 💼🌈Explore her creative journey through various graphic design projects:
 
 | Instagram Account | Number of Posts | Link                                           | Description      |
 |-------------------|------------------|------------------------------------------------|------------------|
@@ -126,7 +126,7 @@ Embark on a visual odyssey through over **300** creatively designed projects🌟
 
 ###  2) Video Editing✨ and Digital Marketing✨
 
-"🎥✨ Experienced in video editing and digital marketing, "I've created and marketed more than **500** videos.", showcasing proficiency in content creation, video production, editing, graphic design, animation, and a passion for unleashing creativity. 🚀🎨 #VideoEditing #DigitalMarketing"
+"🎥✨ Experienced in video editing and digital marketing, Shreya created and marketed more than **500** videos.", showcasing proficiency in content creation, video production, editing, graphic design, animation, and a passion for unleashing creativity. 🚀🎨 #VideoEditing #DigitalMarketing"
 
 ####  Youtube Channel Name: 🌿 @kamalafarms🌱
 Produced an extensive collection of over **250** videos including full length and shorts/reels, resulting in a substantial growth of channel views to 20,000 within a span of 9 months. 📹✨
@@ -152,7 +152,7 @@ Produced an extensive collection of over **250** videos including full length an
 
 ##### ~🚀 YouTube Full-length Videos:
 
-🌟 Crafted with passion, I've personally produced over **25 videos** across various captivating playlists, including CMV Album  🎶, Aesthetic Collections  🌌, Productions - AMV  🎬, Beats  🎵, and Soundtracks 🎼. Dive into this collection for a delightful blend of auditory and visual experiences! 📽️🎨
+🌟 Crafted with passion, Shreya personally produced over **25 videos** across various captivating playlists, including CMV Album  🎶, Aesthetic Collections  🌌, Productions - AMV  🎬, Beats  🎵, and Soundtracks 🎼. Dive into this collection for a delightful blend of auditory and visual experiences! 📽️🎨
 
 | Playlist | Number of Items | Link | Description |
 |---|---|---|---|
@@ -164,7 +164,7 @@ Produced an extensive collection of over **250** videos including full length an
 
 ##### ~ 🚀 YouTube Shorts - @5hre9a and 🚀 Instagram reels - @heaven1y_horizons: 
 
-Crafted an eclectic portfolio over **200 videos**, surpassing a million views on Instagram and 15k on YouTube in just 7 months! 🌟🌟 With unwavering dedication, I commit to crafting these videos each month. From highlighting a specific New Testament book in-order, like Matthew in April, Mark in May..... to delivering daily, visually enchanting Bible verses in reel format. 📖 This continuous cycle, paired with the same content on Instagram : **5hre9a || HeavenlyHorizons**,  🎥✨
+Crafted an eclectic portfolio over **200 videos**, surpassing a million views on Instagram and 15k on YouTube in just 7 months! 🌟🌟 With unwavering dedication, she commit to crafting these videos each month. From highlighting a specific New Testament book in-order, like Matthew in April, Mark in May..... to delivering daily, visually enchanting Bible verses in reel format. 📖 This continuous cycle, paired with the same content on Instagram : **5hre9a || HeavenlyHorizons**,  🎥✨
 
 | Playlist | Number of Videos | Link | Description |
 |---|---|---|---|
