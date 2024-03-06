@@ -14,21 +14,24 @@ using my Project Management Abilities.
 ## 🚀 Directed Open Source Contest's 🌐
 
  
-💡💻 **Individually Managed a global community of 500+ developers** through innovative challenges by crafting and hosting a series of **12 open-source coding contests**.🔍
+💡💻 **Individually Managed a global community of 500+ developers** through innovative challenges by crafting and hosting a series of **11 open-source coding contests**.🔍
 Crafted ideas, Planned and performed analysis, organized everything properly, co-ordinated with the developers of different time zones, Orchestrated documentation, resolved conflicts, conducted code reviews, gave feedbacks, supervised CI/CD, merged pull requests.
 
 | S.No | Name of Contest        | Stars | Forks | Contributors |
 |------|------------------------|-------|-------|--------------|
-| 🏆 Contest 1 | Write-a-Thon-20        |       |       |              |
-| 🌟 Contest 2 | Start-a-Thon-20        |       |       |              |
-| 💻 Contest 3 | Design-a-Thon-20       |       |       |              |
-| 🌐 Contest 4 | Web-a-Thon-20          |       |       |              |
-| 🚀 Contest 5 | Pull-a-Thon-21         |       |       |              |
-| ✂️ Contest 6 | Dev-a-Thon-21          |       |       |              |
-| 🌟 Contest 7 | Snip-a-Thon-21         |       |       |              |
-| 📖 Contest 8 | Vocab-a-Thon-22        |       |       |              |
-| 💻 Contest 9 | Patternathon-22        |       |       |              |
-| 🚀 Contest 10 | Algoathon-22           |       |       |              |
+| 🏆 Contest 1 | Write-a-Thon-20        |   11    |    3   |     10         |
+| 🌟 Contest 2 | Start-a-Thon-20        |     11  |    6   |      32        |
+| 💻 Contest 3 | Design-a-Thon-20       |    12  |    10   |      9        |
+| 🌐 Contest 4 | Web-a-Thon-20          |     38 |  127     |      120        |
+| 🚀 Contest 5 | Pull-a-Thon-21         |     25  |   117    |       135       |
+| ✂️ Contest 6 | Dev-a-Thon-21          |    10   |  30     |    31          |
+| 🌟 Contest 7 | Snip-a-Thon-21         |    11   |  32     |   28           |
+| 📖 Contest 8 | Vocab-a-Thon-22        |     26  |    31   |      33        |
+| 💻 Contest 9 | Pattern-a-thon-22        |    27   |     39  |     39         |
+| 🚀 Contest 10 | Algo-a-thon-22           |   35    |  78     |   83           |
+| 🚀 Contest 11 | Turtle-a-thon-23          |   8   |  8     |   8           |
+
+Total stars: 214, total forks: 471, and total contributors: 508.
 
 ---
 
