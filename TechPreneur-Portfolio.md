@@ -17,14 +17,18 @@ using my Project Management Abilities.
 💡💻 **Individually Managed a global community of 500+ developers** through innovative challenges by crafting and hosting a series of **12 open-source coding contests**.🔍
 Crafted ideas, Planned and performed analysis, organized everything properly, co-ordinated with the developers of different time zones, Orchestrated documentation, resolved conflicts, conducted code reviews, gave feedbacks, supervised CI/CD, merged pull requests.
 
-| S.No | Name of Contest        | Description                                                   | S.No | Name of Contest        | Description                                                   |
-|-----------------------|-------------------------------------|---------------------------------------------------------------|----------------------|------------------------|---------------------------------------------------------------|
-| 🏆 Contest 1 | Write-a-Thon-20        | 🌟 Unleash the Creative Power of Magic Words                | 🌐 Contest 7 | Snip-a-Thon-21         | 🌟 Code Brilliance, One Snippet at a Time!                 |
-| 🌟 Contest 2 | Start-a-Thon-20        | 🌟 The Hello World Spectacular Extravaganza                  | 📖 Contest 8 | Vocab-a-Thon-22        | 🌟 Your Passport to Word Wonderland!                       |
-| 💻 Contest 3 | Design-a-Thon-20       | 🌟 Storyteller's Canvas - Design Your Narrative              | 💻 Contest 9  | Patternathon-22:       | 🌟 Artistic Expressive Canvas in Code                               |
-| 🌐 Contest 4 | Web-a-Thon-20          | 🌟 Ultimate Web Development Showdown!               | 🚀 Contest 10 | Algoathon-22:         | 🌟 Ingeniously Crafting Algorithms Anew                               |
-| 🚀 Contest 5 | Pull-a-Thon-21         | 🌟 Entry Point to Open Source Collaboration!            | ✨ Contest 11 | Profileathon-22:        | 🌟  Tech Journeys Unveiled Together.                    |
-| ✂️ Contest 6 | Dev-a-Thon-21          | 🌟 Your Gateway to Express Your Dev Journey!                 | 🌊 Contest 12 | Turtle-a-Thon '23         | 🌟 Explore Turtle Graphics Bliss. |
+| S.No | Name of Contest        | Stars | Forks | Contributors |
+|------|------------------------|-------|-------|--------------|
+| 🏆 Contest 1 | Write-a-Thon-20        |       |       |              |
+| 🌟 Contest 2 | Start-a-Thon-20        |       |       |              |
+| 💻 Contest 3 | Design-a-Thon-20       |       |       |              |
+| 🌐 Contest 4 | Web-a-Thon-20          |       |       |              |
+| 🚀 Contest 5 | Pull-a-Thon-21         |       |       |              |
+| ✂️ Contest 6 | Dev-a-Thon-21          |       |       |              |
+| 🌟 Contest 7 | Snip-a-Thon-21         |       |       |              |
+| 📖 Contest 8 | Vocab-a-Thon-22        |       |       |              |
+| 💻 Contest 9 | Patternathon-22        |       |       |              |
+| 🚀 Contest 10 | Algoathon-22           |       |       |              |
 
 ---
 
