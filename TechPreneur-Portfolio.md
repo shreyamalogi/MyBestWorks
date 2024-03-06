@@ -1,18 +1,37 @@
-# 🤝Shreya Malogi's TechPreneur Portfolio👣🦾
+# 🤝Shreya Malogi's Technical Project Manager Portfolio👣🦾
 
 
 Energizing as a Tech Entrepreneur ⚡, I lead CodeMacrocosm with dynamic Tech Mentorship📚 and Tech Facilitation🎙.
+using my Project Management Abilities.
 
 ## Skills Summary 😱
-`HTML` ,`CSS` , `Javascript`, `jQuery`, `JSON`, `Rest API`, `Python`, `Flask`, `Turtle-GUI` , ` Tkinter`, `Flutter`, `Git`, `Github` , ` CI/CD`, `Competitive Programming ` , `Data Structures` , ` Algorithms`, `C++`, `Java` , `C`, `Full Stack Development`, `Vscode`, `React.js`, `Bootstrap`, `Open Source`, `Problem Solving`, `Technical Teaching`, ` Program Management `
+`Project Management`, `HTML` ,`CSS` , `Javascript`, `jQuery`, `JSON`, `Rest API`, `Python`, `Flask`, `Turtle-GUI` , ` Tkinter`, `Flutter`, `Git`, `Github` , ` CI/CD`, `Competitive Programming ` , `Data Structures` , ` Algorithms`, `C++`, `Java` , `C`, `Full Stack Development`, `Vscode`, `React.js`, `Bootstrap`, `Open Source`, `Problem Solving`, `Technical Teaching`, `Communication`, `Organization`, `Collaboration `, `Open Source Development`, `Lead Management`, `Documentation`, `Research`, ` Project- Co-ordination`, `Design`, `Marketing`
 
-## 👩‍💻Tech Mentorship
+**Result: Successfully Managed 50+ projects, earned 1200+ stars, 600+ forks**
 
-###  🚀 1) Crafting & Teaching Beginner Brilliance!
+---
 
-🌟 Passionately designed and taught **20** beginner-friendly **hands-on coding projects 💻**, ushering stakeholders into coding brilliance.🌌
+## 🚀 Directed Open Source Contest's 🌐
 
-## Table of Contents:
+ 
+💡💻 **Individually Managed a global community of 500+ developers** through innovative challenges by crafting and hosting a series of **12 open-source coding contests**.🔍
+Crafted ideas, Planned and performed analysis, organized everything properly, co-ordinated with the developers of different time zones, Orchestrated documentation, resolved conflicts, conducted code reviews, gave feedbacks, supervised CI/CD, merged pull requests.
+
+| S.No | Name of Contest        | Description                                                   | S.No | Name of Contest        | Description                                                   |
+|-----------------------|-------------------------------------|---------------------------------------------------------------|----------------------|------------------------|---------------------------------------------------------------|
+| 🏆 Contest 1 | Write-a-Thon-20        | 🌟 Unleash the Creative Power of Magic Words                | 🌐 Contest 7 | Snip-a-Thon-21         | 🌟 Code Brilliance, One Snippet at a Time!                 |
+| 🌟 Contest 2 | Start-a-Thon-20        | 🌟 The Hello World Spectacular Extravaganza                  | 📖 Contest 8 | Vocab-a-Thon-22        | 🌟 Your Passport to Word Wonderland!                       |
+| 💻 Contest 3 | Design-a-Thon-20       | 🌟 Storyteller's Canvas - Design Your Narrative              | 💻 Contest 9  | Patternathon-22:       | 🌟 Artistic Expressive Canvas in Code                               |
+| 🌐 Contest 4 | Web-a-Thon-20          | 🌟 Ultimate Web Development Showdown!               | 🚀 Contest 10 | Algoathon-22:         | 🌟 Ingeniously Crafting Algorithms Anew                               |
+| 🚀 Contest 5 | Pull-a-Thon-21         | 🌟 Entry Point to Open Source Collaboration!            | ✨ Contest 11 | Profileathon-22:        | 🌟  Tech Journeys Unveiled Together.                    |
+| ✂️ Contest 6 | Dev-a-Thon-21          | 🌟 Your Gateway to Express Your Dev Journey!                 | 🌊 Contest 12 | Turtle-a-Thon '23         | 🌟 Explore Turtle Graphics Bliss. |
+
+---
+
+##  🚀 Tech Mentorship
+
+🌟 **Crafted and Taught 20+ coding projects** from scratch to beginner stakeholders utilizing HTML, CSS, Bootstrap, UI/UX, Javascript, Turtle-GUI, Tkinter, Python, Flutter. This contributed to a **30%** reduction in the time it took for these stakeholders to develop their own projects.🌌
+
 
 | Project Name                                                                   | Tech Stack                      | Project Name                                                                   | Tech Stack                      |
 |--------------------------------------------------------------------------------|---------------------------------|--------------------------------------------------------------------------------|---------------------------------|
@@ -30,12 +49,12 @@ Energizing as a Tech Entrepreneur ⚡, I lead CodeMacrocosm with dynamic Tech Me
 This learning path will take you on a journey from Python basics to web technologies, API integration, GUI development, and finally, mobile app development with Flutter. Enjoy the coding adventure!🚀✨
 </details>
 
+---
+
+## 🚀 Conducted Comprehensive Trainings & Provided Resources 📚
 
 
-### 🚀 2) Conducted Comprehensive Trainings & Provided Resources 📚
-
-
-Led and executed **10 intensive technical trainings**, overseeing the provision and open-sourcing of crucial **resources**. 💡
+Provided rigorous **technical training and resources to programmers worldwide**, guiding them in C, C++, Java, Data Structures, Git, GitHub, Algorithms, and Web Development. Resulted in the creation/open-sourcing of **9 learning paths** with a current Social Engagement of **954**.
 
 
 
@@ -48,27 +67,13 @@ Led and executed **10 intensive technical trainings**, overseeing the provision 
 | 5       | [🌐 10 days of 'C' Training.](https://github.com/CodeMacrocosm/C-BOOK)                      |         |                                                                                      |
 
 
-## 🎓Tech Facilitation
+
+---
 
 
-### 🚀 1) Produced Open Source Contest's 🌐
+## 🚀  Gave Tech Seminars / Workshops 🎤
 
-**Orchestrated** and **Hosted** a series of **14 coding contests**, guiding participants through innovative challenges. 🌟🔍💡💻
-
-
-| S.No | Name of Contest        | Description                                                   | S.No | Name of Contest        | Description                                                   |
-|-----------------------|-------------------------------------|---------------------------------------------------------------|----------------------|------------------------|---------------------------------------------------------------|
-| 🏆 Contest 1 | Write-a-Thon-20        | 🌟 Unleash the Creative Power of Magic Words                | 🌐 Contest 7 | Snip-a-Thon-21         | 🌟 Code Brilliance, One Snippet at a Time!                 |
-| 🌟 Contest 2 | Start-a-Thon-20        | 🌟 The Hello World Spectacular Extravaganza                  | 📖 Contest 8 | Vocab-a-Thon-22        | 🌟 Your Passport to Word Wonderland!                       |
-| 💻 Contest 3 | Design-a-Thon-20       | 🌟 Storyteller's Canvas - Design Your Narrative              | 💻 Contest 9  | Patternathon-22:       | 🌟 Artistic Expressive Canvas in Code                               |
-| 🌐 Contest 4 | Web-a-Thon-20          | 🌟 Ultimate Web Development Showdown!               | 🚀 Contest 10 | Algoathon-22:         | 🌟 Ingeniously Crafting Algorithms Anew                               |
-| 🚀 Contest 5 | Pull-a-Thon-21         | 🌟 Entry Point to Open Source Collaboration!            | ✨ Contest 11 | Profileathon-22:        | 🌟  Tech Journeys Unveiled Together.                    |
-| ✂️ Contest 6 | Dev-a-Thon-21          | 🌟 Your Gateway to Express Your Dev Journey!                 | 🌊 Contest 12 | Turtle-a-Thon '23         | 🌟 Explore Turtle Graphics Bliss. |
-
-
-### 🚀 2) Gave Tech Seminars / Workshops 🎤
-
-Executed **9** engaging **workshops**, autonomously orchestrating and presenting diverse technical topics to audiences. 💡
+Curated and Executed **9** engaging **workshops**, autonomously orchestrating and presenting diverse technical topics to audiences. 💡
 
 | Event | Workshop / Seminar Name | Description | Event | Workshop / Seminar Name | Description |
 |-------|-------------------------|-------------|-------|-------------------------|-------------|
@@ -79,7 +84,7 @@ Executed **9** engaging **workshops**, autonomously orchestrating and presenting
 | 🌟 5 | 🗺️ Technical Placement Seminar: | 🌐 Coursemap.  |            |                             |              |
 
 ---
-
+contact: 5hre9a@gmail.com to learn more about my experiences
 
 
 
