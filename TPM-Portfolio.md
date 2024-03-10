@@ -1,8 +1,7 @@
 # 🤝Shreya Malogi's Technical Project Manager Portfolio👣🦾
 
 
-Energizing as a Tech Entrepreneur ⚡, I lead CodeMacrocosm with dynamic Tech Mentorship📚 and Tech Facilitation🎙.
-using my Project Management Abilities.
+**"Founding and leading CodeMacrocosm as CEO, while also serving as an entrepreneur and TPM**, drives the company's trajectory with visionary leadership and hands-on tech expertise. Fostering global tech communities through innovative contests 🏆 and personalized mentorship 📚, I propel projects and developers to new heights 🚀."
 
 ## Skills Summary 😱
 `Project Management`, `HTML` ,`CSS` , `Javascript`, `jQuery`, `JSON`, `Rest API`, `Python`, `Flask`, `Turtle-GUI` , ` Tkinter`, `Flutter`, `Git`, `Github` , ` CI/CD`, `Competitive Programming ` , `Data Structures` , ` Algorithms`, `C++`, `Java` , `C`, `Full Stack Development`, `Vscode`, `React.js`, `Bootstrap`, `Open Source`, `Problem Solving`, `Technical Teaching`, `Communication`, `Organization`, `Collaboration `, `Open Source Development`, `Lead Management`, `Documentation`, `Research`, ` Project- Co-ordination`, `Design`, `Marketing`
@@ -18,7 +17,6 @@ using my Project Management Abilities.
 - **540+** forks earned 🍴..
 
 
----
 
 ## 🚀 Directed Open Source Contest's 🌐
 
@@ -40,9 +38,9 @@ Crafted ideas, Planned and performed analysis, organized everything properly, co
 | 🚀 Contest 10 | Algo-a-thon-22           |   35    |  78     |   83           |
 | 🚀 Contest 11 | Turtle-a-thon-23          |   8   |  8     |   8           |
 
-Total stars: **214**, total forks: **471**, and total contributors: **508**.
+- Total stars: **214**, total forks: **471**, and total contributors: **508**.
 
----
+
 
 ##  🚀 Tech Mentorship
 
@@ -72,9 +70,9 @@ Total stars: **214**, total forks: **471**, and total contributors: **508**.
 | 17   | [💎 I Am Rich App](https://github.com/shreyamalogi/rich-app)                      | 💰 Flutter                     |    13   |    1   |
 | 18   | [📇 BizCard App](https://github.com/shreyamalogi/bizcard-app)                    | 🔄 Flutter                     |  13     |    1   |
 
-Total stars **230**, total forks **25**
+- Total stars **230**, total forks **25**
 
----
+
 
 ## 🚀 Conducted Comprehensive Trainings & Provided Resources 📚
 
@@ -96,9 +94,9 @@ Provided rigorous **technical training to multiple batches and resources to prog
 | 8       | [☕ 10 days of 'Java' Training.](https://github.com/CodeMacrocosm/JAVA-BOOK)                |   10    |       2|
 | 9       | [🌐 45 days of 'Full Stack Web Development'.](https://github.com/CodeMacrocosm/WEBD-BOOK) |    5   |      2 |
 
-Total Stars : **106**, forks : **45**
+- Total Stars : **106**, forks : **45**
 
----
+
 
 
 ## 🚀  Gave Tech Seminars / Workshops 🎤
