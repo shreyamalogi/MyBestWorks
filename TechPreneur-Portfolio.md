@@ -31,7 +31,7 @@ Crafted ideas, Planned and performed analysis, organized everything properly, co
 | 🚀 Contest 10 | Algo-a-thon-22           |   35    |  78     |   83           |
 | 🚀 Contest 11 | Turtle-a-thon-23          |   8   |  8     |   8           |
 
-Total stars: 214, total forks: 471, and total contributors: 508.
+Total stars: **214**, total forks: **471**, and total contributors: **508**.
 
 ---
 
@@ -40,21 +40,30 @@ Total stars: 214, total forks: 471, and total contributors: 508.
 🌟 **Crafted and Taught 20+ coding projects** from scratch to beginner stakeholders utilizing HTML, CSS, Bootstrap, UI/UX, Javascript, Turtle-GUI, Tkinter, Python, Flutter. This contributed to a **30%** reduction in the time it took for these stakeholders to develop their own projects.🌌
 
 
-| Project Name                                                                   | Tech Stack                      | Project Name                                                                   | Tech Stack                      |
-|--------------------------------------------------------------------------------|---------------------------------|--------------------------------------------------------------------------------|---------------------------------|
-| [🦠1) Pandemic Alert](https://github.com/shreyamalogi/corona-cases-notifyer)   | 📊 Python                      | [🥁 11) Drums Kit](https://github.com/shreyamalogi/drums-app)                        | 🚀 HTML, CSS, JavaScript       |
-| [🗣️ 2) Text-to-Speech (TTS)](https://github.com/shreyamalogi/TTS)              | 📝 Python                      | [🎲 12) Dice Game](https://github.com/shreyamalogi/Dice-game)                        | 🎮 HTML, CSS, JavaScript       |
-| [📄 3) Bio Data](https://github.com/shreyamalogi/Bio-Data)                      | 🔍 HTML                        | [🌐 13) Favicon Fetcher](https://github.com/shreyamalogi/favicon-fetcher)              | 🔍 HTML, CSS, JavaScript       |
-| [🎽 4) Teal Minimal Portfolio](https://github.com/shreyamalogi/Teal-Minimal-Portfolio.) | 🔍 HTML, CSS           | [📜 14) Kanye Quotes Generator](https://github.com/shreyamalogi/kanye-quotes-generator)| 🎤 API                         |
-| [🐶 5) Tinder for Dogs](https://github.com/shreyamalogi/tindog)                | 💻 HTML, CSS, Bootstrap        | [🌐 15) Real-time ISS Tracker](https://github.com/shreyamalogi/Real-time-ISS-Tracker)  | 🚀 Python, Tkinter             |
-| [🎨 6) Polka Dot](https://github.com/shreyamalogi/the_hirst_painting)          | 🔵 Turtle GUI                  | [🌐 16) Flask API Integration](https://github.com/shreyamalogi/Flask-API-Integration)  | 🚀 Python, Flask               |
-| [✏️ 7) Spirograph](https://github.com/shreyamalogi/spirograph)                | 🌀 Turtle GUI                  | [🚗 17) Miles to Kilometers Converter](https://github.com/shreyamalogi/miles-to-km-converter)| ➡️🚶 Tkinter                |
-| [🤖 8) Doraemon](https://github.com/shreyamalogi/doraemon)                    | 🎨 Turtle GUI                  | [💎 18) I Am Rich App](https://github.com/shreyamalogi/rich-app)                      | 💰 Flutter                     |
-| [🚀 9) Among Us Tribute](https://github.com/shreyamalogi/among-us)             | 👥 Turtle GUI                  | [📇 19) BizCard App](https://github.com/shreyamalogi/bizcard-app)                    | 🔄 Flutter                     |
-|                |      |                                                                                   |                               |
 
-This learning path will take you on a journey from Python basics to web technologies, API integration, GUI development, and finally, mobile app development with Flutter. Enjoy the coding adventure!🚀✨
-</details>
+
+| S.N. | Project Name                                                                   | Tech Stack                      | Stars | Forks |
+|------|--------------------------------------------------------------------------------|---------------------------------|-------|-------|
+| 1    | [🦠 Pandemic Alert](https://github.com/shreyamalogi/corona-cases-notifyer)   | 📊 Python                      |  13     |    1   |
+| 2    | [🗣️ Text-to-Speech (TTS)](https://github.com/shreyamalogi/TTS)              | 📝 Python                      |  13     |    1   |
+| 3    | [📄 Bio Data](https://github.com/shreyamalogi/Bio-Data)                      | 🔍 HTML                        |  12     |  2     |
+| 4    | [🎽 Teal Minimal Portfolio](https://github.com/shreyamalogi/Teal-Minimal-Portfolio.) | 🔍 HTML, CSS           | 13      |    2   |
+| 5    | [🐶 Tinder for Dogs](https://github.com/shreyamalogi/tindog)                | 💻 HTML, CSS, Bootstrap        |   12    |   1    |
+| 6    | [🎨 Polka Dot](https://github.com/shreyamalogi/the_hirst_painting)          | 🔵 Turtle GUI                  | 14      |    2   |
+| 7    | [✏️ Spirograph](https://github.com/shreyamalogi/spirograph)                | 🌀 Turtle GUI                  |   17    |    3   |
+| 8    | [🤖 Doraemon](https://github.com/shreyamalogi/doraemon)                    | 🎨 Turtle GUI                  |  14     |    3   |
+| 9    | [🚀 Among Us Tribute](https://github.com/shreyamalogi/among-us)             | 👥 Turtle GUI                  |  11     |    1   |
+| 10   | [🥁 Drums Kit](https://github.com/shreyamalogi/drums-app)                        | 🚀 HTML, CSS, JavaScript       |  14     |  1     |
+| 11   | [🎲 Dice Game](https://github.com/shreyamalogi/Dice-game)                        | 🎮 HTML, CSS, JavaScript       | 13      |   1    |
+| 12   | [🌐 Favicon Fetcher](https://github.com/shreyamalogi/favicon-fetcher)              | 🔍 HTML, CSS, JavaScript       |   10    |    1   |
+| 13   | [📜 Kanye Quotes Generator](https://github.com/shreyamalogi/kanye-quotes-generator)| 🎤 API                         |   12    |  1     |
+| 14   | [🌐 Real-time ISS Tracker](https://github.com/shreyamalogi/Real-time-ISS-Tracker)  | 🚀 Python, Tkinter             |    12   |   1    |
+| 15   | [🌐 Flask API Integration](https://github.com/shreyamalogi/Flask-API-Integration)  | 🚀 Python, Flask               |     10  |    1   |
+| 16   | [🚗 Miles to Kilometers Converter](https://github.com/shreyamalogi/miles-to-km-converter)| ➡️🚶 Tkinter                |  13     |    1   |
+| 17   | [💎 I Am Rich App](https://github.com/shreyamalogi/rich-app)                      | 💰 Flutter                     |    13   |    1   |
+| 18   | [📇 BizCard App](https://github.com/shreyamalogi/bizcard-app)                    | 🔄 Flutter                     |  13     |    1   |
+
+Total stars **230**, total forks **25**
 
 ---
 
