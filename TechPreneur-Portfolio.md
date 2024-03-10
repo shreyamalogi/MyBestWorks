@@ -77,15 +77,15 @@ Provided rigorous **technical training and resources to programmers worldwide**,
 
 | Chapter | Name of Chapter                                      | Stars | Forks |
 |---------|------------------------------------------------------|-------|-------|
-| 1       | [📖 Introduction to 'Github'.](https://github.com/CodeMacrocosm/Github-BOOK)                  |       |       |
-| 2       | [👨‍💻 Understanding & Practicing 'Git'.](https://github.com/CodeMacrocosm/git-BOOK)            |       |       |
-| 3       | [🔧 15 days of 'HTML/CSS' Training.](https://github.com/CodeMacrocosm/HTMLCSS-BOOK)         |       |       |
-| 4       | [⚛️ 10 Days of 'React.js' Training.](https://github.com/CodeMacrocosm/react.js-BOOK)       |       |       |
-| 5       | [🌐 10 days of 'C' Training.](https://github.com/CodeMacrocosm/C-BOOK)                      |       |       |
-| 6       | [🔍 10 days of 'C++' Training.](https://github.com/CodeMacrocosm/CPP-BOOK)                  |       |       |
-| 7       | [💡 30 days of 'DSA basics' Training.](https://github.com/CodeMacrocosm/DSA-BOOK)          |       |       |
-| 8       | [☕ 10 days of 'Java' Training.](https://github.com/CodeMacrocosm/JAVA-BOOK)                |       |       |
-| 9       | [🌐 45 days of 'Full Stack Web Development'.](https://github.com/CodeMacrocosm/WEBD-BOOK) |       |       |
+| 1       | [📖 'Github Training'.](https://github.com/CodeMacrocosm/Github-BOOK)                  |    18   |     6  |
+| 2       | [👨‍💻  'Git Training'.](https://github.com/CodeMacrocosm/git-BOOK)            |  10     |    5   |
+| 3       | [🔧 15 days of 'HTML/CSS' Training.](https://github.com/CodeMacrocosm/HTMLCSS-BOOK)         |  11     |      9 |
+| 4       | [⚛️ 10 Days of 'React.js' Training.](https://github.com/CodeMacrocosm/react.js-BOOK)       |   11    |      5 |
+| 5       | [🌐 10 days of 'C' Training.](https://github.com/CodeMacrocosm/C-BOOK)                      | 17      |      7 |
+| 6       | [🔍 10 days of 'C++' Training.](https://github.com/CodeMacrocosm/CPP-BOOK)                  | 11      |      6 |
+| 7       | [💡 30 days of 'DSA basics' Training.](https://github.com/CodeMacrocosm/DSA-BOOK)          |  13     |      3 |
+| 8       | [☕ 10 days of 'Java' Training.](https://github.com/CodeMacrocosm/JAVA-BOOK)                |   10    |       2|
+| 9       | [🌐 45 days of 'Full Stack Web Development'.](https://github.com/CodeMacrocosm/WEBD-BOOK) |    5   |      2 |
 
 
 
