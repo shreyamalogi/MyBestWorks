@@ -49,11 +49,11 @@ using my Project Management Abilities.
 ## Skills Summary 😱
 `Project Management`, `HTML` ,`CSS` , `Javascript`, `jQuery`, `JSON`, `Rest API`, `Python`, `Flask`, `Turtle-GUI` , ` Tkinter`, `Flutter`, `Git`, `Github` , ` CI/CD`, `Competitive Programming ` , `Data Structures` , ` Algorithms`, `C++`, `Java` , `C`, `Full Stack Development`, `Vscode`, `React.js`, `Bootstrap`, `Open Source`, `Problem Solving`, `Technical Teaching`, `Communication`, `Organization`, `Collaboration `, `Open Source Development`, `Lead Management`, `Documentation`, `Research`, ` Project- Co-ordination`, `Design`, `Marketing`
 
-### ⭐️ Result: Successfully Managed ⭐️ 
+### ⭐️ Result: Individually Accomplished  ⭐️ 
 
-- **50+** Tech Projects 🛠️,
+- **50+** Tech Projects Management 🛠️,
 
-- **500+** Developers 👨‍💻,
+- **500+** Developers Management 👨‍💻,
 
 - **550+** stars earned ⭐️,
 
