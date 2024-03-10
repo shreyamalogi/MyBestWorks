@@ -42,9 +42,7 @@
 
 # 🤝Shreya Malogi's Technical Project Manager Portfolio👣🦾
 
-
-Energizing as a Tech Entrepreneur ⚡, I lead CodeMacrocosm with dynamic Tech Mentorship📚 and Tech Facilitation🎙.
-using my Project Management Abilities.
+Leading as a TPM at CodeMacrocosm, I guide our journey with visionary leadership and hands-on tech expertise, nurturing global tech communities through innovative contests 🏆 and personalized mentorship 📚, driving projects and developers to unparalleled success 🚀.
 
 ## Skills Summary 😱
 `Project Management`, `HTML` ,`CSS` , `Javascript`, `jQuery`, `JSON`, `Rest API`, `Python`, `Flask`, `Turtle-GUI` , ` Tkinter`, `Flutter`, `Git`, `Github` , ` CI/CD`, `Competitive Programming ` , `Data Structures` , ` Algorithms`, `C++`, `Java` , `C`, `Full Stack Development`, `Vscode`, `React.js`, `Bootstrap`, `Open Source`, `Problem Solving`, `Technical Teaching`, `Communication`, `Organization`, `Collaboration `, `Open Source Development`, `Lead Management`, `Documentation`, `Research`, ` Project- Co-ordination`, `Design`, `Marketing`
