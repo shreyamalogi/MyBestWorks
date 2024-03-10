@@ -7,7 +7,16 @@ using my Project Management Abilities.
 ## Skills Summary 😱
 `Project Management`, `HTML` ,`CSS` , `Javascript`, `jQuery`, `JSON`, `Rest API`, `Python`, `Flask`, `Turtle-GUI` , ` Tkinter`, `Flutter`, `Git`, `Github` , ` CI/CD`, `Competitive Programming ` , `Data Structures` , ` Algorithms`, `C++`, `Java` , `C`, `Full Stack Development`, `Vscode`, `React.js`, `Bootstrap`, `Open Source`, `Problem Solving`, `Technical Teaching`, `Communication`, `Organization`, `Collaboration `, `Open Source Development`, `Lead Management`, `Documentation`, `Research`, ` Project- Co-ordination`, `Design`, `Marketing`
 
-**Result: Successfully Managed 50+ projects, earned 1200+ stars, 600+ forks**
+### ⭐️ Result: Successfully Managed ⭐️ 
+
+**50+** Tech Projects 🛠️,
+
+**500+** Developers 👨‍💻,
+
+**550+** stars earned ⭐️,
+
+**540+** forks earned 🍴.
+
 
 ---
 
@@ -87,7 +96,7 @@ Provided rigorous **technical training and resources to programmers worldwide**,
 | 8       | [☕ 10 days of 'Java' Training.](https://github.com/CodeMacrocosm/JAVA-BOOK)                |   10    |       2|
 | 9       | [🌐 45 days of 'Full Stack Web Development'.](https://github.com/CodeMacrocosm/WEBD-BOOK) |    5   |      2 |
 
-
+Total Stars : **106**, forks : 45
 
 ---
 
