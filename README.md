@@ -4,7 +4,7 @@
 
 - [ Software Developer Portfolio](#-shreya-malogis-software-developer-portfolio-)
 
-- [ Technical Project Manager Portfolio](#shreya-malogis-technical-project-manager-portfolio)
+- [ Chief Technology Officer Portfolio](#shreya-malogis-chief-technology-officer-portfolio)
 
 - [ Creative Portfolio](#-shreya-malogis-creative-portfolio-)
 
@@ -40,9 +40,9 @@
 --- 
 
 
-# 🤝Shreya Malogi's Technical Project Manager Portfolio👣🦾
+# 🤝Shreya Malogi's Chief Technology Officer Portfolio👣🦾
 
-"**Founding and leading CodeMacrocosm as CEO, while also serving as an entrepreneur and TPM**, drives the company's trajectory with visionary leadership and hands-on tech expertise. Fostering global tech communities through innovative contests 🏆 and personalized mentorship 📚, I propel projects and developers to new heights 🚀."
+"**Founding and leading CodeMacrocosm as CEO, while also serving as an entrepreneur and CTO**, drives the company's trajectory with visionary leadership and hands-on tech expertise. Fostering global tech communities through innovative contests 🏆 and personalized mentorship 📚, I propel projects and developers to new heights 🚀."
 
 ## Skills Summary 😱
 `Project Management`, `HTML` ,`CSS` , `Javascript`, `jQuery`, `JSON`, `Rest API`, `Python`, `Flask`, `Turtle-GUI` , ` Tkinter`, `Flutter`, `Git`, `Github` , ` CI/CD`, `Competitive Programming ` , `Data Structures` , ` Algorithms`, `C++`, `Java` , `C`, `Full Stack Development`, `Vscode`, `React.js`, `Bootstrap`, `Open Source`, `Problem Solving`, `Technical Teaching`, `Communication`, `Organization`, `Collaboration `, `Open Source Development`, `Lead Management`, `Documentation`, `Research`, ` Project- Co-ordination`, `Design`, `Marketing`
