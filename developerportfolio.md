@@ -29,3 +29,17 @@
 
 
 --- 
+
+# Software Engineer Projects
+
+
+| Projects                             | Tech Stack                                             |
+|--------------------------------------|--------------------------------------------------------|
+| [Task Management App](https://github.com/shreyamalogi/todolist-app) 📅 | **Full-Stack**: HTML5, CSS3, JavaScript, Node.js, EJS, Express.js, MongoDB, Heroku |
+| [Full-Stack Authentication app](https://github.com/shreyamalogi/secret-key-web-app) 🔐 | **Full-Stack**: Node.js, Express.js, MongoDB, Passport.js, EJS, CSS                        |
+| [Google Keep Clone](https://github.com/shreyamalogi/Google-Keep-Clone) 📝 | **Frontend**: React, Material-UI, JavaScript, HTML5, CSS3, Netlify                              |
+| [Gourmet Recipe Hub](https://github.com/5hre9a/recipe-app) 🍲 | **Frontend**: React, JavaScript (ES6+), HTML, CSS, Edamam API, React Hooks, Fetch API, ReactDOM |
+| [WikiDB Rest API](https://github.com/shreyamalogi/REST-API) 🚀 | **Backend**: Node.js, Express.js, EJS, Postman, robo3t, mongoose, mongodb                        |
+
+
+
