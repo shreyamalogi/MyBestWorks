@@ -43,3 +43,17 @@
 
 
 
+
+---
+
+# Artificial Intelligence Engineering Projects
+
+| AI Projects                                                                                               | Tech Stack                                      |
+|----------------------------------------------------------------------------------------------------------------|-------------------------------------------------|
+| [AI Attendance System](https://github.com/shreyamalogi/AI_Attendance) 📚                                       | Python, TensorFlow, OpenCV                      |
+| [Zac-My Virtual Assistant](https://github.com/5hre9a/ZAC) 🤖                                                   | Python, Machine Learning                        |
+| [Personalized-Travel-Planning-System](https://github.com/shreyamalogi/Personalized-travel-planning-system) 🌍 | Python, Django                                  |
+| [Road-Lane-Detection](https://github.com/shreyamalogi/Road-Lane-Detection) 🛣️                                  | Python, OpenCV, Deep Learning                   |
+| [XOXO Game](https://github.com/5hre9a/XOXO-game) 🤖                                                            | Python, Pygame                                  |
+| [Credit Card Fraud Detection System](https://github.com/shreyamalogi/Credit-Card-Fraud-Detection-System) 🛡️                                                                      | Python, Machine Learning, Data Science           |
+
