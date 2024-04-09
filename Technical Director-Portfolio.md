@@ -12,7 +12,7 @@
 
 - **500+** Developers Management 👨‍💻,
 
-- **550+** stars earned ⭐️,
+- **640+** stars earned ⭐️,
 
 - **540+** forks earned 🍴..
 
@@ -47,7 +47,7 @@ Crafted ideas, Planned and performed analysis, organized everything properly, co
 
 ##  🚀 Tech Mentorship
 
-🌟 **Crafted and Taught 20+ coding projects** from scratch to beginner stakeholders utilizing HTML, CSS, Bootstrap, UI/UX, Javascript, Turtle-GUI, Tkinter, Python, Flutter. This contributed to a **30%** reduction in the time it took for these stakeholders to develop their own projects.🌌
+🌟 **Crafted and Taught 25+ coding projects** from scratch to beginner stakeholders utilizing HTML, CSS, Bootstrap, UI/UX, Javascript, Turtle-GUI, Tkinter, Python, Flutter. This contributed to a **30%** reduction in the time it took for these stakeholders to develop their own projects.🌌
 
 
 
@@ -72,16 +72,16 @@ Crafted ideas, Planned and performed analysis, organized everything properly, co
 | 17   | [💎 I Am Rich App](https://github.com/shreyamalogi/rich-app)                                   | 💰 Flutter                         | 13    | 1     |
 | 18   | [📇 BizCard App](https://github.com/shreyamalogi/bizcard-app)                                 | 🔄 Flutter                         | 13    | 1     |
 | 19   | [🖥️. Responsive Side Panel](https://github.com/shreyamalogi/Responsive-Side-Panel)                 | HTML, CSS, JavaScript             | -     | -     |
-| 20   | [📥 Automated Personalized Email](https://github.com/shreyamalogi/Automated-personalized-Email)   | Python, SMTP                      | -     | -     |
-| 21   | [🎈 Birthday Wisher App](https://github.com/shreyamalogi/BGC-app)                                             | -                                  | -     | -     |
-| 22   | [🍅 The Pomodoro](https://github.com/shreyamalogi/the-pomodoro)                               | -                                  | -     | -     |
-| 23   | [🌈 MP4 to GIF Converter](https://github.com/shreyamalogi/mp4-to-gif)                            | -                                  | -     | -     |
-| 24   | [🔗 URL Shortener](https://github.com/shreyamalogi/URL-shortener)                                 | -                                  | -     | -     |
-| 25   | [🇮🇳 Indian Flag](https://github.com/shreyamalogi/Indian_flag)                                     | -                                  | -     | -     |
-| 26   | [☕ Coffee Machine](https://github.com/shreyamalogi/Coffee-Machine)                               | -                                  | -     | -     |
+| 20   | [📥 Automated Personalized Email](https://github.com/shreyamalogi/Automated-personalized-Email)   | Python, SMTP                      | 13    | -     |
+| 21   | [🎈 Birthday Wisher App](https://github.com/shreyamalogi/BGC-app)                                             | -                                  | 14    | -     |
+| 22   | [🍅 The Pomodoro](https://github.com/shreyamalogi/the-pomodoro)                               | -                                  | 12   | -     |
+| 23   | [🌈 MP4 to GIF Converter](https://github.com/shreyamalogi/mp4-to-gif)                            | -                                  |   13 | 2    |
+| 24   | [🔗 URL Shortener](https://github.com/shreyamalogi/URL-shortener)                                 | -                                  | 13    | -     |
+| 25   | [🇮🇳 Indian Flag](https://github.com/shreyamalogi/Indian_flag)                                     | -                                  | 13     | -     |
+| 26   | [☕ Coffee Machine](https://github.com/shreyamalogi/Coffee-Machine)                               | -                                  | 13    | -     |
 
 
-- Total stars **230**, total forks **25**
+- Total stars **321**, total forks **27**
 
 
 
