@@ -50,10 +50,10 @@
 
 | AI Projects                                                                                               | Tech Stack                                      |
 |----------------------------------------------------------------------------------------------------------------|-------------------------------------------------|
-| [AI Attendance System](https://github.com/shreyamalogi/AI_Attendance) 📚                                       | Python, TensorFlow, OpenCV                      |
-| [Zac-My Virtual Assistant](https://github.com/5hre9a/ZAC) 🤖                                                   | Python, Machine Learning                        |
-| [Personalized-Travel-Planning-System](https://github.com/shreyamalogi/Personalized-travel-planning-system) 🌍 | Python, Django                                  |
-| [Road-Lane-Detection](https://github.com/shreyamalogi/Road-Lane-Detection) 🛣️                                  | Python, OpenCV, Deep Learning                   |
-| [XOXO Game](https://github.com/5hre9a/XOXO-game) 🤖                                                            | Python, Pygame                                  |
-| [Credit Card Fraud Detection System](https://github.com/shreyamalogi/Credit-Card-Fraud-Detection-System) 🛡️                                                                      | Python, Machine Learning, Data Science           |
+| [AI Attendance System](https://github.com/shreyamalogi/AI_Attendance) 📚                                       | Python, Flask, Flask-Bootstrap, Flask-SQLAlchemy, Flask-Login, Pandas, Werkzeug, OpenCV, SQLite, HTML/CSS/JavaScript                     |
+| [Zac-My Virtual Assistant](https://github.com/5hre9a/ZAC) 🤖                                                   | Python, pyttsx3, webbrowser, smtplib, random, speech_recognition, wikipedia, datetime, wolframalpha, os, sys                |
+| [Personalized-Travel-Planning-System](https://github.com/shreyamalogi/Personalized-travel-planning-system) 🌍 | Python, Tkinter, Matplotlib, NumPy, pandas, scikit-learn, TfidfVectorizer, matplotlib.pyplot, numpy, pandas, tkinter, ttk, filedialog, simpledialog, messagebox, operator, math |
+| [Road-Lane-Detection](https://github.com/shreyamalogi/Road-Lane-Detection) 🛣️                                  | Python, OpenCV , NumPy , Matplotlib          |
+| [XOXO Game](https://github.com/5hre9a/XOXO-game) 🤖                                                            | HTML, CSS, JavaScript , Bootstrap, Font Awesome, jQuery, AI (minimax algorithm for computer opponent)   |
+| [Credit Card Fraud Detection System](https://github.com/shreyamalogi/Credit-Card-Fraud-Detection-System) 🛡️                                                                      | JSP, HTML/CSS, JavaScript, Servlets, Java EE , JDBC , Apache Tomcat, Bootstrap, jQuery, MySQL , AJAX, JSON, RESTful API         |
 
