@@ -7,7 +7,7 @@
 
 1. **Full-stack web development** with expertise in `HTML5, CSS3, JavaScript, Node.js, Express.js, MongoDB, and React`. 💻
 2. Proficiency in **data science and analysis** using `Python libraries like Pandas, NumPy, and Matplotlib`. 📊
-3. Experience in **artificial intelligence and machine learning** with Python, Flask, and OpenCV. 🤖
+3. Experience in **artificial intelligence and machine learning** with `Python, Flask, and OpenCV`. 🤖
 4. **Database management** skills including `SQLite, MongoDB, and MySQL`. 🗃️
 5. **Deployment and hosting** knowledge using platforms like `AWS, Heroku and Netlify`. 🚀
 6. Additional skills in **API development, user interface design, and web technologies/frameworks** such as `Bootstrap, EJS, jQuery`. 🌐
@@ -22,7 +22,7 @@
 
 #### 3) Stars Summary:
 
-The total number of GitHub stars received for my projects is ⭐ 138.
+The total number of GitHub stars received for my projects is ⭐ 150.
 
 ---
 
@@ -39,6 +39,12 @@ The total number of GitHub stars received for my projects is ⭐ 138.
 | [Google Keep Clone](https://github.com/shreyamalogi/Google-Keep-Clone) 📝 | **Frontend**: React, Material-UI, JavaScript, HTML5, CSS3, Netlify | ⭐️15 |
 | [Gourmet Recipe Hub](https://github.com/5hre9a/recipe-app) 🍲 | **Frontend**: React, JavaScript (ES6+), HTML, CSS, Edamam API, React Hooks, Fetch API, ReactDOM | ⭐️15 |
 | [WikiDB Rest API](https://github.com/shreyamalogi/REST-API) 🚀 | **Backend**: Node.js, Express.js, EJS, Postman, robo3t, mongoose, mongodb | ⭐️13 |
+| [Email Aggregator ](https://github.com/shreyamalogi/Email-Aggregator) 📧 | **Backend**: Node.js, Express.js, body-parser, http, https, request, HTML/CSS, Mailchimp API | ⭐️12 |
+
+
+
+
+
 
 
 
