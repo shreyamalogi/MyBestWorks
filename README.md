@@ -14,6 +14,8 @@
 
 
 
+# 🚀 Shreya Malogi's Software Developer Portfolio 🌐✨
+
 "All my projects feature meticulously structured documentation 📄, an engaging demo GIF 🎥, project files readily available in the repository 📂, a breakdown of the tech stack used 💻, a succinct problem statement ❓, a detailed account of how I tackled the challenge 🛠️, instructions on how to run the project 🏃‍♂️, and guidance on contributing 🤝"
 
 
@@ -21,7 +23,7 @@
 
 1. **Full-stack web development** with expertise in `HTML5, CSS3, JavaScript, Node.js, Express.js, MongoDB, and React`. 💻
 2. Proficiency in **data science and analysis** using `Python libraries like Pandas, NumPy, and Matplotlib`. 📊
-3. Experience in **artificial intelligence and machine learning** with Python, Flask, and OpenCV. 🤖
+3. Experience in **artificial intelligence and machine learning** with `Python, Flask, and OpenCV`. 🤖
 4. **Database management** skills including `SQLite, MongoDB, and MySQL`. 🗃️
 5. **Deployment and hosting** knowledge using platforms like `AWS, Heroku and Netlify`. 🚀
 6. Additional skills in **API development, user interface design, and web technologies/frameworks** such as `Bootstrap, EJS, jQuery`. 🌐
@@ -32,11 +34,11 @@
 
 #### 2) Tech-Stack Summary:
 
-`HTML5`, `CSS3`, `JavaScript`, `Node.js`, `EJS`, `Express.js`, `MongoDB`, `Heroku`, `Node.js`, `Heroku`, `MongoDB Atlas`, `AWS cluster`, `Express.js`, `MongoDB`, `MD5`, `bcrypt`, `passportjs`, `GoogleOAuth2.0``Passport.js`, `EJS`, `CSS`, `React`, `Material-UI`, `JavaScript`, `HTML5`, `CSS3`, `Netlify`, `React`, `JavaScript (ES6+)`, `HTML`, `CSS`, `Edamam API`, `React Hooks`, `Fetch API`, `ReactDOM`, `Node.js`, `Express.js`, `EJS`, `Postman`, `robo3t`, `mongoose`, `mongodb`, `Python`, `Flask`, `Flask-Bootstrap`, `Flask-SQLAlchemy`, `Flask-Login`, `Pandas`, `Werkzeug`, `OpenCV`, `SQLite`, `HTML/CSS/JavaScript`, `Python`, `pyttsx3`, `webbrowser`, `smtplib`, `random`, `speech_recognition`, `wikipedia`, `datetime`, `wolframalpha`, `os`, `sys`, `Python`, `Tkinter`, `Matplotlib`, `NumPy`, `pandas`, `scikit-learn`, `TfidfVectorizer`, `matplotlib.pyplot`, `numpy`, `pandas`, `Jupyter Notebook`, `tkinter`, `ttk`, `filedialog`, `simpledialog`, `messagebox`, `operator`, `math`, `Python`, `OpenCV`, `NumPy`, `Matplotlib`, `HTML`, `CSS`, `JavaScript`, `Bootstrap`, `Font Awesome`, `jQuery`, `Algorithms`, `JSP`, `HTML/CSS`, `JavaScript`, `Servlets`, `Java EE`, `JDBC`, `Apache Tomcat`, `Bootstrap`, `jQuery`, `MySQL`, `AJAX`, `JSON`, `RESTful API`
+`HTML5`, `CSS3`, `JavaScript`, `Node.js`, `EJS`, `Express.js`, `MongoDB`, `Heroku`, `Node.js`, `Heroku`, `MongoDB Atlas`, `AWS cluster`, `Express.js`, `MongoDB`, `MD5`, `bcrypt`, `passportjs`, `GoogleOAuth2.0``Passport.js`, `EJS`, `CSS`, `React`, `Material-UI`, `JavaScript`, `HTML5`, `CSS3`, `Netlify`, `React`, `JavaScript (ES6+)`, `HTML`, `CSS`, `Edamam API`, `React Hooks`, `Fetch API`, `ReactDOM`, `Node.js`, `Express.js`, `EJS`, `Postman`, `robo3t`, `mongoose`, `mongodb`, `Python`, `Flask`, `Flask-Bootstrap`, `Flask-SQLAlchemy`, `Flask-Login`, `Pandas`, `Werkzeug`, `OpenCV`, `SQLite`, `HTML/CSS/JavaScript`, `Python`, `pyttsx3`, `webbrowser`, `smtplib`, `random`, `speech_recognition`, `wikipedia`, `datetime`, `wolframalpha`, `os`, `sys`, `Python`, `Tkinter`, `Matplotlib`, `NumPy`, `pandas`, `scikit-learn`, `TfidfVectorizer`, `matplotlib.pyplot`, `numpy`, `pandas`, `NLTK`, `Streamlit`,`Jupyter Notebook`, `tkinter`, `ttk`, `filedialog`, `simpledialog`, `messagebox`, `operator`, `math`, `Python`, `OpenCV`, `NumPy`, `Matplotlib`, `HTML`, `CSS`, `JavaScript`, `Bootstrap`, `Font Awesome`, `jQuery`, `Algorithms`, `JSP`, `HTML/CSS`, `JavaScript`, `Servlets`, `Java EE`, `JDBC`, `Apache Tomcat`, `Bootstrap`, `jQuery`, `MySQL`, `AJAX`, `JSON`, `RESTful API`
 
 #### 3) Stars Summary:
 
-The total number of GitHub stars received for my projects is ⭐ 138.
+The total number of GitHub stars received for my projects is ⭐ 152.
 
 ---
 
@@ -53,6 +55,12 @@ The total number of GitHub stars received for my projects is ⭐ 138.
 | [Google Keep Clone](https://github.com/shreyamalogi/Google-Keep-Clone) 📝 | **Frontend**: React, Material-UI, JavaScript, HTML5, CSS3, Netlify | ⭐️15 |
 | [Gourmet Recipe Hub](https://github.com/5hre9a/recipe-app) 🍲 | **Frontend**: React, JavaScript (ES6+), HTML, CSS, Edamam API, React Hooks, Fetch API, ReactDOM | ⭐️15 |
 | [WikiDB Rest API](https://github.com/shreyamalogi/REST-API) 🚀 | **Backend**: Node.js, Express.js, EJS, Postman, robo3t, mongoose, mongodb | ⭐️13 |
+| [Email Aggregator ](https://github.com/shreyamalogi/Email-Aggregator) 📧 | **Backend**: Node.js, Express.js, body-parser, http, https, request, HTML/CSS, Mailchimp API | ⭐️12 |
+
+
+
+
+
 
 
 
@@ -66,14 +74,16 @@ The total number of GitHub stars received for my projects is ⭐ 138.
 | [Road-Lane-Detection](https://github.com/shreyamalogi/Road-Lane-Detection) 🛣️                                  | Python, OpenCV , NumPy , Matplotlib          | ⭐3     |
 | [XOXO Game](https://github.com/5hre9a/XOXO-game) 🤖                                                            | HTML, CSS, JavaScript , Bootstrap, Font Awesome, jQuery, AI (minimax algorithm for computer opponent)   | ⭐16     |
 | [Credit Card Fraud Detection System](https://github.com/shreyamalogi/Credit-Card-Fraud-Detection-System) 🛡️                                                                      | JSP, HTML/CSS, JavaScript, Servlets, Java EE , JDBC , Apache Tomcat, Bootstrap, jQuery, MySQL , AJAX, JSON, RESTful API         | ⭐3     |
+| [SoulCare Bot](https://github.com/shreyamalogi/SoulCare-Bot) 🛡️                                                                      | Python, NLTK, Streamlit, Pandas        | ⭐12    |
+
+
+
 
 ### Open-Source Contributions - Contributed to:
 
  1. [Awesome Python Scripts 🚀](https://github.com/prathimacode-hub/Awesome_Python_Scripts)
     
  2. [Hacking Scripts ⚙️](https://github.com/Tejas1510/Hacking-Scripts) 
-
-
 --- 
 
 
