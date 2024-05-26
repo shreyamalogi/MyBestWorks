@@ -24,19 +24,22 @@
 💡💻 **Individually Managed a global community of 500+ developers** through innovative challenges by crafting and hosting a series of **11 open-source coding contests**.🔍
 Crafted ideas, Planned and performed analysis, organized everything properly, co-ordinated with the developers of different time zones, Orchestrated documentation, resolved conflicts, conducted code reviews, gave feedbacks, supervised CI/CD, merged pull requests.
 
-| S.No | Name of Contest        | Stars | Forks | Contributors |
-|------|------------------------|-------|-------|--------------|
-| 🏆 Contest 1 | Write-a-Thon-20        |   11    |    3   |     10         |
-| 🌟 Contest 2 | Start-a-Thon-20        |     11  |    6   |      32        |
-| 💻 Contest 3 | Design-a-Thon-20       |    12  |    10   |      9        |
-| 🌐 Contest 4 | Web-a-Thon-20          |     38 |  127     |      120        |
-| 🚀 Contest 5 | Pull-a-Thon-21         |     25  |   117    |       135       |
-| ✂️ Contest 6 | Dev-a-Thon-21          |    10   |  30     |    31          |
-| 🌟 Contest 7 | Snip-a-Thon-21         |    11   |  32     |   28           |
-| 📖 Contest 8 | Vocab-a-Thon-22        |     26  |    31   |      33        |
-| 💻 Contest 9 | Pattern-a-thon-22        |    27   |     39  |     39         |
-| 🚀 Contest 10 | Algo-a-thon-22           |   35    |  78     |   83           |
-| 🚀 Contest 11 | Turtle-a-thon-23          |   8   |  8     |   8           |
+
+
+| S.No | Name of Contest                                              | Stars | Forks | Contributors |
+|------|--------------------------------------------------------------|-------|-------|--------------|
+| 1    | 🏆 [Write-a-Thon-20](https://github.com/CodeMacrocosm/Write-a-Thon-20) | 11    | 3     | 10           |
+| 2    | 🌟 [Start-a-Thon-20](https://github.com/CodeMacrocosm/Start-a-Thon-20) | 11    | 6     | 32           |
+| 3    | 💻 [Design-a-Thon-20](https://github.com/CodeMacrocosm/Design-a-Thon-20) | 12    | 10    | 9            |
+| 4    | 🌐 [Web-a-Thon-20](https://github.com/CodeMacrocosm/Web-a-Thon-20)     | 38    | 127   | 120          |
+| 5    | 🚀 [Pull-a-Thon-21](https://github.com/CodeMacrocosm/Pull-a-Thon-21)   | 25    | 117   | 135          |
+| 6    | ✂️ [Dev-a-Thon-21](https://github.com/CodeMacrocosm/Dev-a-Thon-21)     | 10    | 30    | 31           |
+| 7    | 🌟 [Snip-a-Thon-21](https://github.com/CodeMacrocosm/Snip-a-Thon-21)   | 11    | 32    | 28           |
+| 8    | 📖 [Vocab-a-Thon-22](https://github.com/CodeMacrocosm/Vocab-a-Thon-22) | 26    | 31    | 33           |
+| 9    | 💻 [Pattern-a-Thon-22](https://github.com/CodeMacrocosm/Pattern-a-Thon-22) | 27    | 39    | 39           |
+| 10   | 🚀 [Algo-a-Thon-22](https://github.com/CodeMacrocosm/Algo-a-Thon-22)   | 35    | 78    | 83           |
+| 11   | 🚀 [Turtle-a-Thon-23](https://github.com/CodeMacrocosm/Turtle-a-Thon-23) | 8     | 8     | 8            |
+
 
 
 
@@ -114,13 +117,18 @@ Provided rigorous **technical training to multiple batches and resources to prog
 
 Curated and Executed **9** engaging **workshops**, autonomously orchestrating and presenting diverse technical topics to audiences. 💡
 
-| Event | Workshop / Seminar Name | Description | Event | Workshop / Seminar Name | Description |
-|-------|-------------------------|-------------|-------|-------------------------|-------------|
-| 🌟 1 | 📖 GitHub Hello-World Workshop: | 🚀 A Step-by-Step Guide to Getting Started. | 🌟 6 | 🚀 Hacktoberfest 2022 Workshop: | 🌟 CodeMacrocosm Open Source Contribution Demo. |
-| 🌟 2 | 🔧 Setup Training Workshop: | 🛠️ A Hands-on Guide for Tools Installation.  | 🌟 7 | 🚗 Google Driverless Cars Seminar: |  🚗 Transportation - Autonomous Technology. |
-| 🌟 3 | 🎉 Hacktoberfest 2021 Workshop: | 💡 CodeMacrocosm Open Source Contribution Demo. | 🌟 8 | 👩‍💻 Frontend Dev Week Workshop: | 💖 101 Coachings for Beginner girls for 1 week.  |
-| 🌟 4 | 🔍 Placement Preparation Seminar: | 🎓 Ace Your Job Search.  | 🌟 9 | 🌟 Hacktoberfest 2023 Workshop: | 📚 CodeMacrocosm Open Source Contribution Demo. |
-| 🌟 5 | 🗺️ Technical Placement Seminar: | 🌐 Coursemap.  |            |                             |              |
+
+| Event | Workshop / Seminar Name | Description |
+|-------|-------------------------|-------------|
+| 🌟 1 | 📖 GitHub Hello-World Workshop: | 🚀 A Step-by-Step Guide to Getting Started. |
+| 🌟 2 | 🔧 Setup Training Workshop: | 🛠️ A Hands-on Guide for Tools Installation. |
+| 🌟 3 | 🎉 Hacktoberfest 2021 Workshop: | 💡 CodeMacrocosm Open Source Contribution Demo. |
+| 🌟 4 | 🔍 Placement Preparation Seminar: | 🎓 Ace Your Job Search. |
+| 🌟 5 | 🗺️ Technical Placement Seminar: | 🌐 Coursemap. |
+| 🌟 6 | 🚀 Hacktoberfest 2022 Workshop: | 🌟 CodeMacrocosm Open Source Contribution Demo. |
+| 🌟 7 | 🚗 Google Driverless Cars Seminar: | 🚗 Transportation - Autonomous Technology. |
+| 🌟 8 | 👩‍💻 Frontend Dev Week Workshop: | 💖 101 Coachings for Beginner girls for 1 week. |
+| 🌟 9 | 🌟 Hacktoberfest 2023 Workshop: | 📚 CodeMacrocosm Open Source Contribution Demo. |
 
 ---
 contact: 5hre9a@gmail.com to learn more about my experiences
