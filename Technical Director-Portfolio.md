@@ -61,27 +61,27 @@ Crafted ideas, Planned and performed analysis, organized everything properly, co
 | 3    | [📄 Bio Data](https://github.com/shreyamalogi/Bio-Data)                                       | 🔍 HTML                             | 12    | 2     |
 | 4    | [🎽 Teal Minimal Portfolio](https://github.com/shreyamalogi/Teal-Minimal-Portfolio.)           | 🔍 HTML, CSS                       | 13    | 2     |
 | 5    | [🐶 Tinder for Dogs](https://github.com/shreyamalogi/tindog)                                   | 💻 HTML, CSS, Bootstrap            | 12    | 1     |
-| 6    | [🎨 Polka Dot](https://github.com/shreyamalogi/the_hirst_painting)                             | 🔵 Turtle GUI                      | 14    | 2     |
-| 7    | [✏️ Spirograph](https://github.com/shreyamalogi/spirograph)                                   | 🌀 Turtle GUI                      | 17    | 3     |
-| 8    | [🤖 Doraemon](https://github.com/shreyamalogi/doraemon)                                       | 🎨 Turtle GUI                      | 14    | 3     |
-| 9    | [🚀 Among Us Tribute](https://github.com/shreyamalogi/among-us)                                | 👥 Turtle GUI                      | 11    | 1     |
+| 6    | [🎨 Polka Dot](https://github.com/shreyamalogi/the_hirst_painting)                             | 🔵 Python, Turtle GUI                      | 14    | 2     |
+| 7    | [✏️ Spirograph](https://github.com/shreyamalogi/spirograph)                                   | 🌀 Python, Turtle GUI                      | 17    | 3     |
+| 8    | [🤖 Doraemon](https://github.com/shreyamalogi/doraemon)                                       | 🎨 Python, Turtle GUI                      | 14    | 3     |
+| 9    | [🚀 Among Us Tribute](https://github.com/shreyamalogi/among-us)                                | 👥 Python, Turtle GUI                      | 11    | 1     |
 | 10   | [🥁 Drums Kit](https://github.com/shreyamalogi/drums-app)                                      | 🚀 HTML, CSS, JavaScript           | 14    | 1     |
 | 11   | [🎲 Dice Game](https://github.com/shreyamalogi/Dice-game)                                      | 🎮 HTML, CSS, JavaScript           | 13    | 1     |
 | 12   | [🌐 Favicon Fetcher](https://github.com/shreyamalogi/favicon-fetcher)                           | 🔍 HTML, CSS, JavaScript           | 10    | 1     |
 | 13   | [📜 Kanye Quotes Generator](https://github.com/shreyamalogi/kanye-quotes-generator)             | 🎤 API                             | 12    | 1     |
 | 14   | [🌐 Real-time ISS Tracker](https://github.com/shreyamalogi/Real-time-ISS-Tracker)               | 🚀 Python, Tkinter                 | 12    | 1     |
-| 15   | [🌐 Flask API Integration](https://github.com/shreyamalogi/Flask-API-Integration)               | 🚀 Python, Flask                   | 10    | 1     |
-| 16   | [🚗 Miles to Kilometers Converter](https://github.com/shreyamalogi/miles-to-km-converter)       | ➡️🚶 Tkinter                       | 13    | 1     |
+| 15   | [🌐 Flask API Integration](https://github.com/shreyamalogi/Flask-API-Integration)               | 🎉  Python, Flask                   | 10    | 1     |
+| 16   | [🚗 Miles to Kilometers Converter](https://github.com/shreyamalogi/miles-to-km-converter)       | ➡️🚶 Python, Tkinter                       | 13    | 1     |
 | 17   | [💎 I Am Rich App](https://github.com/shreyamalogi/rich-app)                                   | 💰 Flutter                         | 13    | 1     |
 | 18   | [📇 BizCard App](https://github.com/shreyamalogi/bizcard-app)                                 | 🔄 Flutter                         | 13    | 1     |
-| 19   | [🖥️. Responsive Side Panel](https://github.com/shreyamalogi/Responsive-Side-Panel)                 | HTML, CSS, JavaScript             | -     | -     |
+| 19   | [🖥️. Responsive Side Panel](https://github.com/shreyamalogi/Responsive-Side-Panel)                 | 🌟 HTML, CSS, JavaScript             | -     | -     |
 | 20   | [📥 Automated Personalized Email](https://github.com/shreyamalogi/Automated-personalized-Email)   | Python, SMTP                      | 13    | -     |
-| 21   | [🎈 Birthday Wisher App](https://github.com/shreyamalogi/BGC-app)                                             | -                                  | 14    | -     |
-| 22   | [🍅 The Pomodoro](https://github.com/shreyamalogi/the-pomodoro)                               | -                                  | 12   | -     |
-| 23   | [🌈 MP4 to GIF Converter](https://github.com/shreyamalogi/mp4-to-gif)                            | -                                  |   13 | 2    |
-| 24   | [🔗 URL Shortener](https://github.com/shreyamalogi/URL-shortener)                                 | -                                  | 13    | -     |
-| 25   | [🇮🇳 Indian Flag](https://github.com/shreyamalogi/Indian_flag)                                     | -                                  | 13     | -     |
-| 26   | [☕ Coffee Machine](https://github.com/shreyamalogi/Coffee-Machine)                               | -                                  | 13    | -     |
+| 21   | [🎈 Birthday Wisher App](https://github.com/shreyamalogi/BGC-app)                                             | Kotlin, Java                                 | 14    | -     |
+| 22   | [🍅 The Pomodoro](https://github.com/shreyamalogi/the-pomodoro)                               | 💖    Python, Tkinter                              | 12   | -     |
+| 23   | [🌈 MP4 to GIF Converter](https://github.com/shreyamalogi/mp4-to-gif)                            | 🎓 Python. Pymovie                                |   13 | 2    |
+| 24   | [🔗 URL Shortener](https://github.com/shreyamalogi/URL-shortener)                                 | 💡 Python, Pyshortener                                  | 13    | -     |
+| 25   | [🇮🇳 Indian Flag](https://github.com/shreyamalogi/Indian_flag)                                     | 🎨 Python, Turtle GUI                                    | 13     | -     |
+| 26   | [☕ Coffee Machine](https://github.com/shreyamalogi/Coffee-Machine)                               | 🌐 Python                                 | 13    | -     |
 
 
 - Total stars **321**, total forks **27**
