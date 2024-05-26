@@ -8,9 +8,9 @@
 
 ### ⭐️ Result: Individually Accomplished  ⭐️ 
 
-- **50+** Tech Projects Management 🛠️,
+- **50+** Tech Projects Managed 🛠️,
 
-- **500+** Developers Management 👨‍💻,
+- **500+** Developers Managed 👨‍💻,
 
 - **640+** stars earned ⭐️,
 
@@ -75,8 +75,8 @@ Crafted ideas, Planned and performed analysis, organized everything properly, co
 | 17   | [💎 I Am Rich App](https://github.com/shreyamalogi/rich-app)                                   | 💰 Flutter                         | 13    | 1     |
 | 18   | [📇 BizCard App](https://github.com/shreyamalogi/bizcard-app)                                 | 🔄 Flutter                         | 13    | 1     |
 | 19   | [🖥️. Responsive Side Panel](https://github.com/shreyamalogi/Responsive-Side-Panel)                 | 🌟 HTML, CSS, JavaScript             | -     | -     |
-| 20   | [📥 Automated Personalized Email](https://github.com/shreyamalogi/Automated-personalized-Email)   | Python, SMTP                      | 13    | -     |
-| 21   | [🎈 Birthday Wisher App](https://github.com/shreyamalogi/BGC-app)                                             | Kotlin, Java                                 | 14    | -     |
+| 20   | [📥 Automated Personalized Email](https://github.com/shreyamalogi/Automated-personalized-Email)   | 📇 Python, SMTP                      | 13    | -     |
+| 21   | [🎈 Birthday Wisher App](https://github.com/shreyamalogi/BGC-app)                                             | 🎽 Kotlin, Java                                 | 14    | -     |
 | 22   | [🍅 The Pomodoro](https://github.com/shreyamalogi/the-pomodoro)                               | 💖    Python, Tkinter                              | 12   | -     |
 | 23   | [🌈 MP4 to GIF Converter](https://github.com/shreyamalogi/mp4-to-gif)                            | 🎓 Python. Pymovie                                |   13 | 2    |
 | 24   | [🔗 URL Shortener](https://github.com/shreyamalogi/URL-shortener)                                 | 💡 Python, Pyshortener                                  | 13    | -     |
@@ -85,7 +85,6 @@ Crafted ideas, Planned and performed analysis, organized everything properly, co
 
 
 - Total stars **321**, total forks **27**
-
 
 
 ## 🚀 Conducted Comprehensive Trainings & Provided Resources 📚
@@ -107,6 +106,7 @@ Provided rigorous **technical training to multiple batches and resources to prog
 | 7       | [💡 30 days of 'DSA basics' Training.](https://github.com/CodeMacrocosm/DSA-BOOK)          |  13     |      3 |
 | 8       | [☕ 10 days of 'Java' Training.](https://github.com/CodeMacrocosm/JAVA-BOOK)                |   10    |       2|
 | 9       | [🌐 45 days of 'Full Stack Web Development'.](https://github.com/CodeMacrocosm/WEBD-BOOK) |    5   |      2 |
+
 
 - Total Stars : **106**, forks : **45**
 
