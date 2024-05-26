@@ -18,11 +18,11 @@
 
 #### 2) Tech-Stack Summary:
 
-`HTML5`, `CSS3`, `JavaScript`, `Node.js`, `EJS`, `Express.js`, `MongoDB`, `Heroku`, `Node.js`, `Heroku`, `MongoDB Atlas`, `AWS cluster`, `Express.js`, `MongoDB`, `MD5`, `bcrypt`, `passportjs`, `GoogleOAuth2.0``Passport.js`, `EJS`, `CSS`, `React`, `Material-UI`, `JavaScript`, `HTML5`, `CSS3`, `Netlify`, `React`, `JavaScript (ES6+)`, `HTML`, `CSS`, `Edamam API`, `React Hooks`, `Fetch API`, `ReactDOM`, `Node.js`, `Express.js`, `EJS`, `Postman`, `robo3t`, `mongoose`, `mongodb`, `Python`, `Flask`, `Flask-Bootstrap`, `Flask-SQLAlchemy`, `Flask-Login`, `Pandas`, `Werkzeug`, `OpenCV`, `SQLite`, `HTML/CSS/JavaScript`, `Python`, `pyttsx3`, `webbrowser`, `smtplib`, `random`, `speech_recognition`, `wikipedia`, `datetime`, `wolframalpha`, `os`, `sys`, `Python`, `Tkinter`, `Matplotlib`, `NumPy`, `pandas`, `scikit-learn`, `TfidfVectorizer`, `matplotlib.pyplot`, `numpy`, `pandas`, `Jupyter Notebook`, `tkinter`, `ttk`, `filedialog`, `simpledialog`, `messagebox`, `operator`, `math`, `Python`, `OpenCV`, `NumPy`, `Matplotlib`, `HTML`, `CSS`, `JavaScript`, `Bootstrap`, `Font Awesome`, `jQuery`, `Algorithms`, `JSP`, `HTML/CSS`, `JavaScript`, `Servlets`, `Java EE`, `JDBC`, `Apache Tomcat`, `Bootstrap`, `jQuery`, `MySQL`, `AJAX`, `JSON`, `RESTful API`
+`HTML5`, `CSS3`, `JavaScript`, `Node.js`, `EJS`, `Express.js`, `MongoDB`, `Heroku`, `Node.js`, `Heroku`, `MongoDB Atlas`, `AWS cluster`, `Express.js`, `MongoDB`, `MD5`, `bcrypt`, `passportjs`, `GoogleOAuth2.0``Passport.js`, `EJS`, `CSS`, `React`, `Material-UI`, `JavaScript`, `HTML5`, `CSS3`, `Netlify`, `React`, `JavaScript (ES6+)`, `HTML`, `CSS`, `Edamam API`, `React Hooks`, `Fetch API`, `ReactDOM`, `Node.js`, `Express.js`, `EJS`, `Postman`, `robo3t`, `mongoose`, `mongodb`, `Python`, `Flask`, `Flask-Bootstrap`, `Flask-SQLAlchemy`, `Flask-Login`, `Pandas`, `Werkzeug`, `OpenCV`, `SQLite`, `HTML/CSS/JavaScript`, `Python`, `pyttsx3`, `webbrowser`, `smtplib`, `random`, `speech_recognition`, `wikipedia`, `datetime`, `wolframalpha`, `os`, `sys`, `Python`, `Tkinter`, `Matplotlib`, `NumPy`, `pandas`, `scikit-learn`, `TfidfVectorizer`, `matplotlib.pyplot`, `numpy`, `pandas`, `NLTK`, `Streamlit`,`Jupyter Notebook`, `tkinter`, `ttk`, `filedialog`, `simpledialog`, `messagebox`, `operator`, `math`, `Python`, `OpenCV`, `NumPy`, `Matplotlib`, `HTML`, `CSS`, `JavaScript`, `Bootstrap`, `Font Awesome`, `jQuery`, `Algorithms`, `JSP`, `HTML/CSS`, `JavaScript`, `Servlets`, `Java EE`, `JDBC`, `Apache Tomcat`, `Bootstrap`, `jQuery`, `MySQL`, `AJAX`, `JSON`, `RESTful API`
 
 #### 3) Stars Summary:
 
-The total number of GitHub stars received for my projects is ⭐ 150.
+The total number of GitHub stars received for my projects is ⭐ 152.
 
 ---
 
@@ -58,6 +58,10 @@ The total number of GitHub stars received for my projects is ⭐ 150.
 | [Road-Lane-Detection](https://github.com/shreyamalogi/Road-Lane-Detection) 🛣️                                  | Python, OpenCV , NumPy , Matplotlib          | ⭐3     |
 | [XOXO Game](https://github.com/5hre9a/XOXO-game) 🤖                                                            | HTML, CSS, JavaScript , Bootstrap, Font Awesome, jQuery, AI (minimax algorithm for computer opponent)   | ⭐16     |
 | [Credit Card Fraud Detection System](https://github.com/shreyamalogi/Credit-Card-Fraud-Detection-System) 🛡️                                                                      | JSP, HTML/CSS, JavaScript, Servlets, Java EE , JDBC , Apache Tomcat, Bootstrap, jQuery, MySQL , AJAX, JSON, RESTful API         | ⭐3     |
+| [SoulCare Bot](https://github.com/shreyamalogi/SoulCare-Bot) 🛡️                                                                      | Python, NLTK, Streamlit, Pandas        | ⭐12    |
+
+
+
 
 ### Open-Source Contributions - Contributed to:
 
