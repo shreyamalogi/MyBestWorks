@@ -97,13 +97,19 @@ The total number of GitHub stars received for my projects is ⭐ 152.
 
 ### ⭐️ Result: Individually Accomplished  ⭐️ 
 
-- **50+** Tech Projects Managed 🛠️,
+- **15+** Students and Graduates Interned 🔊 ,
 
-- **500+** Developers Managed 👨‍💻,
+- **50+** Novice Tech Projects Engineered 🛠️,
 
-- **640+** stars earned ⭐️,
+- **500+** Global Developers Participated 👨‍💻,
+  
+- **540+** Github forks earned 🍴
 
-- **540+** forks earned 🍴..
+- **640+** Github stars earned ⭐️,
+
+- **2500+** Students Trained 💻
+
+- **3000+** Students Empowered 🚀.
 
 
 
@@ -181,25 +187,29 @@ Crafted ideas, Planned and performed analysis, organized everything properly, co
 ## 🚀 Conducted Comprehensive Trainings & Provided Resources 📚
 
 
-Provided rigorous **technical training to multiple batches and resources to programmers worldwide**, guiding them in C, C++, Java, Data Structures, Git, GitHub, Algorithms, and Web Development. Resulted in the creation/open-sourcing of **9 learning paths** 
+Provided rigorous **technical training to multiple batches and resources to programmers worldwide**, guiding them in C, C++, Java, Data Structures, Git, GitHub, Algorithms, and Web Development, Python, Data analysis. Resulted in the creation/open-sourcing of **11 learning paths** 
 
 
 
+| Chapter | Name of Chapter | Stars | Forks |
+|---------|-----------------------------|-------|-------|
+| 1       | 📖 [Github Training](https://github.com/CodeMacrocosm/Github-BOOK)                  | 18   | 6   |
+| 2       | 👨‍💻 [Git Training](https://github.com/CodeMacrocosm/git-BOOK)                       | 10   | 5   |
+| 3       | 🔧 [15 days of HTML/CSS Training](https://github.com/CodeMacrocosm/HTMLCSS-BOOK)    | 11   | 9   |
+| 4       | ⚛️ [10 Days of React.js Training](https://github.com/CodeMacrocosm/react.js-BOOK)   | 11   | 5   |
+| 5       | 🌐 [10 days of C Training](https://github.com/CodeMacrocosm/C-BOOK)                 | 17   | 7   |
+| 6       | 🔍 [10 days of C++ Training](https://github.com/CodeMacrocosm/CPP-BOOK)             | 11   | 6   |
+| 7       | 💡 [30 days of DSA basics Training](https://github.com/CodeMacrocosm/DSA-BOOK)      | 13   | 3   |
+| 8       | ☕ [10 days of Java Training](https://github.com/CodeMacrocosm/JAVA-BOOK)           | 10   | 2   |
+| 9       | 🌐 [45 days of Full Stack Web Development](https://github.com/CodeMacrocosm/WEBD-BOOK) | 5   | 2   |
+| 10      | ⚛️ [10 Days of Python for Kids](https://github.com/CodeMacrocosm/Python-Kids)      | 3   | -   |
+| 11      | 📖 [10 Days of Data Analysis](https://github.com/CodeMacrocosm/Data-Analysis)       | 3   | -   |
 
-| Chapter | Name of Chapter                                      | Stars | Forks |
-|---------|------------------------------------------------------|-------|-------|
-| 1       | [📖 'Github Training'.](https://github.com/CodeMacrocosm/Github-BOOK)                  |    18   |     6  |
-| 2       | [👨‍💻  'Git Training'.](https://github.com/CodeMacrocosm/git-BOOK)            |  10     |    5   |
-| 3       | [🔧 15 days of 'HTML/CSS' Training.](https://github.com/CodeMacrocosm/HTMLCSS-BOOK)         |  11     |      9 |
-| 4       | [⚛️ 10 Days of 'React.js' Training.](https://github.com/CodeMacrocosm/react.js-BOOK)       |   11    |      5 |
-| 5       | [🌐 10 days of 'C' Training.](https://github.com/CodeMacrocosm/C-BOOK)                      | 17      |      7 |
-| 6       | [🔍 10 days of 'C++' Training.](https://github.com/CodeMacrocosm/CPP-BOOK)                  | 11      |      6 |
-| 7       | [💡 30 days of 'DSA basics' Training.](https://github.com/CodeMacrocosm/DSA-BOOK)          |  13     |      3 |
-| 8       | [☕ 10 days of 'Java' Training.](https://github.com/CodeMacrocosm/JAVA-BOOK)                |   10    |       2|
-| 9       | [🌐 45 days of 'Full Stack Web Development'.](https://github.com/CodeMacrocosm/WEBD-BOOK) |    5   |      2 |
 
+### Final Totals
+- **Stars**: **112**
+- **Forks**: **45**
 
-- Total Stars : **106**, forks : **45**
 
 
 
@@ -278,7 +288,7 @@ Produced an extensive collection of over **250** videos including full length an
 
 ##### ~ 🚀 YouTube Shorts - @5hre9a and 🚀 Instagram reels - @heaven1y_horizons: 
 
-Crafted an eclectic portfolio over **200 videos**, surpassing a million views on Instagram and 15k on YouTube in just 7 months! 🌟🌟 With unwavering dedication, she commit to crafting these videos each month. From highlighting a specific New Testament book in-order, like Matthew in April, Mark in May..... to delivering daily, visually enchanting Bible verses in reel format. 📖 This continuous cycle, paired with the same content on Instagram : **5hre9a || HeavenlyHorizons**,  🎥✨
+Crafted an eclectic portfolio over **600 videos**,on Instagram and on YouTube 🌟🌟 With unwavering dedication, she commit to crafting these videos each month. From highlighting a specific New Testament book in-order, like Matthew in April, Mark in May..... to delivering daily, visually enchanting Bible verses in reel format. 📖 This continuous cycle, paired with the same content on Instagram : **5hre9a || HeavenlyHorizons**,  🎥✨
 
 | Playlist | Number of Videos | Link | Description |
 |---|---|---|---|
@@ -289,13 +299,6 @@ Crafted an eclectic portfolio over **200 videos**, surpassing a million views on
 <details>
 <summary> Show Playlists from July 2023 :  </summary>
 
-| Playlist | Number of Videos | Link | Description |
-|---|---|---|---|
-| [d) Stargirl 5hre9a Heavenly Horizons (John - July)](https://www.youtube.com/watch?v=75K4Gh26Hg4&list=PLZ6XBdDIlBR_o95avSo4Eu5pLvLTY8iTG&pp=gAQBiAQB) 🌞 | 31 | [Link](https://www.youtube.com/watch?v=75K4Gh26Hg4&list=PLZ6XBdDIlBR_o95avSo4Eu5pLvLTY8iTG&pp=gAQBiAQB) | Stargirl 5hre9a Heavenly Horizons (John - July) with 31 videos. |
-| [e) Stargirl 5hre9a Heavenly Horizons (Acts - Aug)](https://www.youtube.com/watch?v=75K4Gh26Hg4&list=PLZ6XBdDIlBR_o95avSo4Eu5pLvLTY8iTG&pp=gAQBiAQB) 🌠 | 31 | [Link](https://www.youtube.com/watch?v=75K4Gh26Hg4&list=PLZ6XBdDIlBR_o95avSo4Eu5pLvLTY8iTG&pp=gAQBiAQB) | Stargirl 5hre9a Heavenly Horizons (Acts - Aug) with 31 videos. |
-| [f) Stargirl 5hre9a Heavenly Horizons (Rom - Sept)](https://www.youtube.com/watch?v=75K4Gh26Hg4&list=PLZ6XBdDIlBR_o95avSo4Eu5pLvLTY8iTG&pp=gAQBiAQB) 🌆 | 30 | [Link](https://www.youtube.com/watch?v=75K4Gh26Hg4&list=PLZ6XBdDIlBR_o95avSo4Eu5pLvLTY8iTG&pp=gAQBiAQB) | Stargirl 5hre9a Heavenly Horizons (Rom - Sept) with 30 videos. |
-| [g) Stargirl 5hre9a Heavenly Horizons (1 Cor - Oct)](https://www.youtube.com/watch?v=75K4Gh26Hg4&list=PLZ6XBdDIlBR_o95avSo4Eu5pLvLTY8iTG&pp=gAQBiAQB) 🌌 | 31 | [Link](https://www.youtube.com/watch?v=75K4Gh26Hg4&list=PLZ6XBdDIlBR_o95avSo4Eu5pLvLTY8iTG&pp=gAQBiAQB) | Stargirl 5hre9a Heavenly Horizons (1 Cor - Oct) with 31 videos. |
-| [h) Stargirl 5hre9a Heavenly Horizons (2 Cor - Nov)](https://www.youtube.com/watch?v=75K4Gh26Hg4&list=PLZ6XBdDIlBR_o95avSo4Eu5pLvLTY8iTG&pp=gAQBiAQB) 🌈 | 30 | [Link](https://www.youtube.com/watch?v=75K4Gh26Hg4&list=PLZ6XBdDIlBR_o95avSo4Eu5pLvLTY8iTG&pp=gAQBiAQB) | Stargirl 5hre9a Heavenly Horizons (2 Cor - Nov) with 30 videos. |
-| [i) Stargirl 5hre9a Heavenly Horizons (Gal - Dec)](https://www.youtube.com/watch?v=75K4Gh26Hg4&list=PLZ6XBdDIlBR_o95avSo4Eu5pLvLTY8iTG&pp=gAQBiAQB) ❄️ | 31 | [Link](https://www.youtube.com/watch?v=75K4Gh26Hg4&list=PLZ6XBdDIlBR_o95avSo4Eu5pLvLTY8iTG&pp=gAQBiAQB) | Stargirl 5hre9a Heavenly Horizons (Gal - Dec) with 31 videos. |
+[ New Testament ](https://www.youtube.com/@5hre9a/featured)
 
 </details>
