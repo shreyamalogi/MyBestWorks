@@ -50,12 +50,12 @@ The total number of GitHub stars received for my projects is ⭐ 152.
 
 | Projects | Tech Stack | Stars |
 |----------|------------|-------|
-| [Task Management App](https://github.com/shreyamalogi/todolist-app) 📅 | **Full-Stack**: HTML5, CSS3, JavaScript, Node.js, EJS, Express.js, MongoDB, Heroku | ⭐14 |
-| [Full-Stack Authentication app](https://github.com/shreyamalogi/secret-key-web-app) 🔐 | **Full-Stack**: Node.js, Express.js, MongoDB, Passport.js, EJS, CSS | ⭐️14 |
-| [Google Keep Clone](https://github.com/shreyamalogi/Google-Keep-Clone) 📝 | **Frontend**: React, Material-UI, JavaScript, HTML5, CSS3, Netlify | ⭐️15 |
-| [Gourmet Recipe Hub](https://github.com/5hre9a/recipe-app) 🍲 | **Frontend**: React, JavaScript (ES6+), HTML, CSS, Edamam API, React Hooks, Fetch API, ReactDOM | ⭐️15 |
-| [WikiDB Rest API](https://github.com/shreyamalogi/REST-API) 🚀 | **Backend**: Node.js, Express.js, EJS, Postman, robo3t, mongoose, mongodb | ⭐️13 |
-| [Email Aggregator ](https://github.com/shreyamalogi/Email-Aggregator) 📧 | **Backend**: Node.js, Express.js, body-parser, http, https, request, HTML/CSS, Mailchimp API | ⭐️12 |
+| [Task Management App](https://github.com/shreyamalogi/todolist-app) 📅 | **Full-Stack**: HTML5, CSS3, JavaScript, Node.js, EJS, Express.js, MongoDB, Heroku | ⭐13 |
+| [Full-Stack Authentication app](https://github.com/shreyamalogi/secret-key-web-app) 🔐 | **Full-Stack**: Node.js, Express.js, MongoDB, Passport.js, EJS, CSS | ⭐️13 |
+| [Google Keep Clone](https://github.com/shreyamalogi/Google-Keep-Clone) 📝 | **Frontend**: React, Material-UI, JavaScript, HTML5, CSS3, Netlify | ⭐️14 |
+| [Gourmet Recipe Hub](https://github.com/5hre9a/recipe-app) 🍲 | **Frontend**: React, JavaScript (ES6+), HTML, CSS, Edamam API, React Hooks, Fetch API, ReactDOM | ⭐️14 |
+| [WikiDB Rest API](https://github.com/shreyamalogi/REST-API) 🚀 | **Backend**: Node.js, Express.js, EJS, Postman, robo3t, mongoose, mongodb | ⭐️12 |
+| [Email Aggregator ](https://github.com/shreyamalogi/Email-Aggregator) 📧 | **Backend**: Node.js, Express.js, body-parser, http, https, request, HTML/CSS, Mailchimp API | ⭐️11 |
 
 
 
@@ -72,9 +72,9 @@ The total number of GitHub stars received for my projects is ⭐ 152.
 | [Zac-My Virtual Assistant](https://github.com/5hre9a/ZAC) 🤖                                                   | Python, pyttsx3, webbrowser, smtplib, random, speech_recognition, wikipedia, datetime, wolframalpha, os, sys                | ⭐15    |
 | [Personalized-Travel-Planning-System](https://github.com/shreyamalogi/Personalized-travel-planning-system) 🌍 | Python, Tkinter, Matplotlib, NumPy, pandas, scikit-learn, TfidfVectorizer, matplotlib.pyplot, numpy, pandas, tkinter, ttk, filedialog, simpledialog, messagebox, operator, math | ⭐3     |
 | [Road-Lane-Detection](https://github.com/shreyamalogi/Road-Lane-Detection) 🛣️                                  | Python, OpenCV , NumPy , Matplotlib          | ⭐3     |
-| [XOXO Game](https://github.com/5hre9a/XOXO-game) 🤖                                                            | HTML, CSS, JavaScript , Bootstrap, Font Awesome, jQuery, AI (minimax algorithm for computer opponent)   | ⭐16     |
+| [XOXO Game](https://github.com/5hre9a/XOXO-game) 🤖                                                            | HTML, CSS, JavaScript , Bootstrap, Font Awesome, jQuery, AI (minimax algorithm for computer opponent)   | ⭐15     |
 | [Credit Card Fraud Detection System](https://github.com/shreyamalogi/Credit-Card-Fraud-Detection-System) 🛡️                                                                      | JSP, HTML/CSS, JavaScript, Servlets, Java EE , JDBC , Apache Tomcat, Bootstrap, jQuery, MySQL , AJAX, JSON, RESTful API         | ⭐3     |
-| [SoulCare Bot](https://github.com/shreyamalogi/SoulCare-Bot) 🛡️                                                                      | Python, NLTK, Streamlit, Pandas        | ⭐12    |
+| [SoulCare Bot](https://github.com/shreyamalogi/SoulCare-Bot) 🛡️                                                                      | Python, NLTK, Streamlit, Pandas        | ⭐11    |
 
 
 
