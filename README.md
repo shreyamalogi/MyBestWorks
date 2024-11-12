@@ -190,20 +190,20 @@ Crafted ideas, Planned and performed analysis, organized everything properly, co
 Provided rigorous **technical training to multiple batches and resources to programmers worldwide**, guiding them in C, C++, Java, Data Structures, Git, GitHub, Algorithms, and Web Development, Python, Data analysis. Resulted in the creation/open-sourcing of **11 learning paths** 
 
 
+| **No.** | **Project** | **Description** | **Stars** | **Forks** |
+|---------|-------------|------------------|-----------|-----------|
+| 1 | [📖 Github Training](https://github.com/CodeMacrocosm/Github-BOOK) | Master Git & repo management. | ![GitHub stars](https://img.shields.io/github/stars/CodeMacrocosm/Github-BOOK?style=social) | ![GitHub forks](https://img.shields.io/github/forks/CodeMacrocosm/Github-BOOK?style=social) |
+| 2 | [👨‍💻 Git Training](https://github.com/CodeMacrocosm/git-BOOK) | Learn Git fundamentals & branching. | ![GitHub stars](https://img.shields.io/github/stars/CodeMacrocosm/git-BOOK?style=social) | ![GitHub forks](https://img.shields.io/github/forks/CodeMacrocosm/git-BOOK?style=social) |
+| 3 | [🔧 HTML/CSS Training](https://github.com/CodeMacrocosm/HTMLCSS-BOOK) | Build responsive websites. | ![GitHub stars](https://img.shields.io/github/stars/CodeMacrocosm/HTMLCSS-BOOK?style=social) | ![GitHub forks](https://img.shields.io/github/forks/CodeMacrocosm/HTMLCSS-BOOK?style=social) |
+| 4 | [⚛️ React.js Training](https://github.com/CodeMacrocosm/react.js-BOOK) | Dynamic UIs with React.js. | ![GitHub stars](https://img.shields.io/github/stars/CodeMacrocosm/react.js-BOOK?style=social) | ![GitHub forks](https://img.shields.io/github/forks/CodeMacrocosm/react.js-BOOK?style=social) |
+| 5 | [🌐 C Training](https://github.com/CodeMacrocosm/C-BOOK) | Master C programming basics. | ![GitHub stars](https://img.shields.io/github/stars/CodeMacrocosm/C-BOOK?style=social) | ![GitHub forks](https://img.shields.io/github/forks/CodeMacrocosm/C-BOOK?style=social) |
+| 6 | [🔍 C++ Training](https://github.com/CodeMacrocosm/CPP-BOOK) | Advanced C++ concepts. | ![GitHub stars](https://img.shields.io/github/stars/CodeMacrocosm/CPP-BOOK?style=social) | ![GitHub forks](https://img.shields.io/github/forks/CodeMacrocosm/CPP-BOOK?style=social) |
+| 7 | [💡 DSA Basics Training](https://github.com/CodeMacrocosm/DSA-BOOK) | Key data structures & algorithms. | ![GitHub stars](https://img.shields.io/github/stars/CodeMacrocosm/DSA-BOOK?style=social) | ![GitHub forks](https://img.shields.io/github/forks/CodeMacrocosm/DSA-BOOK?style=social) |
+| 8 | [☕ Java Training](https://github.com/CodeMacrocosm/JAVA-BOOK) | Java programming essentials. | ![GitHub stars](https://img.shields.io/github/stars/CodeMacrocosm/JAVA-BOOK?style=social) | ![GitHub forks](https://img.shields.io/github/forks/CodeMacrocosm/JAVA-BOOK?style=social) |
+| 9 | [🌐 Full Stack Development](https://github.com/CodeMacrocosm/WEBD-BOOK) | Full-stack web dev mastery. | ![GitHub stars](https://img.shields.io/github/stars/CodeMacrocosm/WEBD-BOOK?style=social) | ![GitHub forks](https://img.shields.io/github/forks/CodeMacrocosm/WEBD-BOOK?style=social) |
+| 10 | [⚛️ Python for Kids](https://github.com/CodeMacrocosm/Python-Training) | Python for kids (ages 7-12). | ![GitHub stars](https://img.shields.io/github/stars/CodeMacrocosm/Python-Training?style=social) | ![GitHub forks](https://img.shields.io/github/forks/CodeMacrocosm/Python-Training?style=social) |
+| 11 | [📖 Data Analysis](https://github.com/CodeMacrocosm/Data-Analytics-Training) | Complete data analysis guide. | ![GitHub stars](https://img.shields.io/github/stars/CodeMacrocosm/Data-Analytics-Training?style=social) | ![GitHub forks](https://img.shields.io/github/forks/CodeMacrocosm/Data-Analytics-Training?style=social) |
 
-| Chapter | Name of Chapter | Stars | Forks |
-|---------|-----------------------------|-------|-------|
-| 1       | 📖 [Github Training](https://github.com/CodeMacrocosm/Github-BOOK)                  | 18   | 6   |
-| 2       | 👨‍💻 [Git Training](https://github.com/CodeMacrocosm/git-BOOK)                       | 10   | 5   |
-| 3       | 🔧 [15 days of HTML/CSS Training](https://github.com/CodeMacrocosm/HTMLCSS-BOOK)    | 11   | 9   |
-| 4       | ⚛️ [10 Days of React.js Training](https://github.com/CodeMacrocosm/react.js-BOOK)   | 11   | 5   |
-| 5       | 🌐 [10 days of C Training](https://github.com/CodeMacrocosm/C-BOOK)                 | 17   | 7   |
-| 6       | 🔍 [10 days of C++ Training](https://github.com/CodeMacrocosm/CPP-BOOK)             | 11   | 6   |
-| 7       | 💡 [30 days of DSA basics Training](https://github.com/CodeMacrocosm/DSA-BOOK)      | 13   | 3   |
-| 8       | ☕ [10 days of Java Training](https://github.com/CodeMacrocosm/JAVA-BOOK)           | 10   | 2   |
-| 9       | 🌐 [45 days of Full Stack Web Development](https://github.com/CodeMacrocosm/WEBD-BOOK) | 5   | 2   |
-| 10      | ⚛️ [10 Days of Python for Kids](https://github.com/CodeMacrocosm/Python-Kids)      | 3   | -   |
-| 11      | 📖 [10 Days of Data Analysis](https://github.com/CodeMacrocosm/Data-Analysis)       | 3   | -   |
 
 
 ### Final Totals
