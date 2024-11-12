@@ -19,63 +19,71 @@
 "All my projects feature meticulously structured documentation 📄, an engaging demo GIF 🎥, project files readily available in the repository 📂, a breakdown of the tech stack used 💻, a succinct problem statement ❓, a detailed account of how I tackled the challenge 🛠️, instructions on how to run the project 🏃‍♂️, and guidance on contributing 🤝"
 
 
-#### 1) Skills Summary:
 
-1. **Full-stack web development** with expertise in `HTML5, CSS3, JavaScript, Node.js, Express.js, MongoDB, and React`. 💻
-2. Proficiency in **data science and analysis** using `Python libraries like Pandas, NumPy, and Matplotlib`. 📊
-3. Experience in **artificial intelligence and machine learning** with `Python, Flask, and OpenCV`. 🤖
-4. **Database management** skills including `SQLite, MongoDB, and MySQL`. 🗃️
-5. **Deployment and hosting** knowledge using platforms like `AWS, Heroku and Netlify`. 🚀
-6. Additional skills in **API development, user interface design, and web technologies/frameworks** such as `Bootstrap, EJS, jQuery`. 🌐
-7. Familiarity with **version control systems** like `Git`. 💻
-8. Proficiency in **testing and debugging**, demonstrated by experience with tools like `Postman`. 🔧
-9. **Project management** skills, evident from involvement in `full-stack projects`. 📈
-10. **Strong problem-solving abilities** showcased through `AI algorithm implementation and complex data analysis tasks`. 💡
+### 💻 Tech-Stack Summary
 
-#### 2) Tech-Stack Summary:
+#### 🚀 Frontend Development
+`HTML5` · `CSS3` · `JavaScript (ES6+)` · `React` · `React Hooks` · `Material-UI` · `Bootstrap` · `Font Awesome` · `EJS` · `jQuery` · `Netlify`
 
-`HTML5`, `CSS3`, `JavaScript`, `Node.js`, `EJS`, `Express.js`, `MongoDB`, `Heroku`, `Node.js`, `Heroku`, `MongoDB Atlas`, `AWS cluster`, `Express.js`, `MongoDB`, `MD5`, `bcrypt`, `passportjs`, `GoogleOAuth2.0``Passport.js`, `EJS`, `CSS`, `React`, `Material-UI`, `JavaScript`, `HTML5`, `CSS3`, `Netlify`, `React`, `JavaScript (ES6+)`, `HTML`, `CSS`, `Edamam API`, `React Hooks`, `Fetch API`, `ReactDOM`, `Node.js`, `Express.js`, `EJS`, `Postman`, `robo3t`, `mongoose`, `mongodb`, `Python`, `Flask`, `Flask-Bootstrap`, `Flask-SQLAlchemy`, `Flask-Login`, `Pandas`, `Werkzeug`, `OpenCV`, `SQLite`, `HTML/CSS/JavaScript`, `Python`, `pyttsx3`, `webbrowser`, `smtplib`, `random`, `speech_recognition`, `wikipedia`, `datetime`, `wolframalpha`, `os`, `sys`, `Python`, `Tkinter`, `Matplotlib`, `NumPy`, `pandas`, `scikit-learn`, `TfidfVectorizer`, `matplotlib.pyplot`, `numpy`, `pandas`, `NLTK`, `Streamlit`,`Jupyter Notebook`, `tkinter`, `ttk`, `filedialog`, `simpledialog`, `messagebox`, `operator`, `math`, `Python`, `OpenCV`, `NumPy`, `Matplotlib`, `HTML`, `CSS`, `JavaScript`, `Bootstrap`, `Font Awesome`, `jQuery`, `Algorithms`, `JSP`, `HTML/CSS`, `JavaScript`, `Servlets`, `Java EE`, `JDBC`, `Apache Tomcat`, `Bootstrap`, `jQuery`, `MySQL`, `AJAX`, `JSON`, `RESTful API`
+#### 🖥️ Backend Development
+`Node.js` · `Express.js` · `Python` · `Flask` · `Flask-Bootstrap` · `Flask-SQLAlchemy` · `Flask-Login` · `Postman` · `JSP` · `Java EE` · `Servlets` · `JDBC` · `RESTful API`
 
-#### 3) Stars Summary:
+#### 🗄️ Databases & ORMs
+`MongoDB` · `MongoDB Atlas` · `Mongoose` · `MySQL` · `SQLite` · `AWS Cluster`
 
-The total number of GitHub stars received for my projects is ⭐ 152.
+#### 🔒 Authentication & Security
+`bcrypt` · `MD5` · `passportjs` · `GoogleOAuth2.0` · `JWT`
 
+#### 🤖 Machine Learning & AI
+`Python` · `Pandas` · `NumPy` · `Matplotlib` · `scikit-learn` · `OpenCV` · `TfidfVectorizer` · `speech_recognition` · `NLTK` · `Streamlit` · `Jupyter Notebook`
+
+#### ⚙️ DevOps & Deployment
+`Heroku` · `AWS` · `Docker`
+
+#### 🛠️ Other Tools & Libraries
+`tkinter` · `ttk` · `filedialog` · `simpledialog` · `messagebox` · `operator` · `math` · `os` · `sys` · `smtplib` · `pyttsx3` · `webbrowser` · `random` · `datetime` · `wolframalpha`
+
+#### 🔗 APIs & Integrations
+`Fetch API` · `Edamam API` · `AJAX` · `JSON`
+
+
+
+```
+NOTE: The total number of GitHub stars received for my projects is ⭐ 152.
+```
 ---
 
 ## Table of Contents:
 
 - **Click the links** to view all the exciting details of each project.
 
-### `Web based projects`
-
-| Projects | Tech Stack | Stars |
-|----------|------------|-------|
-| [Task Management App](https://github.com/shreyamalogi/todolist-app) 📅 | **Full-Stack**: HTML5, CSS3, JavaScript, Node.js, EJS, Express.js, MongoDB, Heroku | ⭐13 |
-| [Full-Stack Authentication app](https://github.com/shreyamalogi/secret-key-web-app) 🔐 | **Full-Stack**: Node.js, Express.js, MongoDB, Passport.js, EJS, CSS | ⭐️13 |
-| [Google Keep Clone](https://github.com/shreyamalogi/Google-Keep-Clone) 📝 | **Frontend**: React, Material-UI, JavaScript, HTML5, CSS3, Netlify | ⭐️14 |
-| [Gourmet Recipe Hub](https://github.com/5hre9a/recipe-app) 🍲 | **Frontend**: React, JavaScript (ES6+), HTML, CSS, Edamam API, React Hooks, Fetch API, ReactDOM | ⭐️14 |
-| [WikiDB Rest API](https://github.com/shreyamalogi/REST-API) 🚀 | **Backend**: Node.js, Express.js, EJS, Postman, robo3t, mongoose, mongodb | ⭐️12 |
-| [Email Aggregator ](https://github.com/shreyamalogi/Email-Aggregator) 📧 | **Backend**: Node.js, Express.js, body-parser, http, https, request, HTML/CSS, Mailchimp API | ⭐️11 |
 
 
+### 🌐 **Web-Based Projects**
+
+| **Project** | **Description** | **Tech Stack** | **Stars** |
+|-------------|-----------------|----------------|-----------|
+| [Task Management App 📅](https://github.com/shreyamalogi/todolist-app) | A full-stack task management app with features like adding, editing, and deleting tasks. | **Full-Stack**: HTML5, CSS3, JavaScript, Node.js, EJS, Express.js, MongoDB, Heroku | ![Stars](https://img.shields.io/github/stars/shreyamalogi/todolist-app?style=social) |
+| [Full-Stack Authentication App 🔐](https://github.com/shreyamalogi/secret-key-web-app) | A secure authentication system with login, registration, and session management. | **Full-Stack**: Node.js, Express.js, MongoDB, Passport.js, EJS, CSS | ![Stars](https://img.shields.io/github/stars/shreyamalogi/secret-key-web-app?style=social) |
+| [Google Keep Clone 📝](https://github.com/shreyamalogi/Google-Keep-Clone) | A note-taking app with a user-friendly interface, similar to Google Keep. | **Frontend**: React, Material-UI, JavaScript, HTML5, CSS3, Netlify | ![Stars](https://img.shields.io/github/stars/shreyamalogi/Google-Keep-Clone?style=social) |
+| [Gourmet Recipe Hub 🍲](https://github.com/5hre9a/recipe-app) | A recipe app that allows users to search and view various recipes from the Edamam API. | **Frontend**: React, JavaScript (ES6+), HTML, CSS, Edamam API, React Hooks, Fetch API | ![Stars](https://img.shields.io/github/stars/5hre9a/recipe-app?style=social) |
+| [WikiDB Rest API 🚀](https://github.com/shreyamalogi/REST-API) | A RESTful API for managing a database of Wikipedia-like articles. | **Backend**: Node.js, Express.js, EJS, Postman, Mongoose, MongoDB | ![Stars](https://img.shields.io/github/stars/shreyamalogi/REST-API?style=social) |
+| [Email Aggregator 📧](https://github.com/shreyamalogi/Email-Aggregator) | A backend app to aggregate email campaigns via the Mailchimp API. | **Backend**: Node.js, Express.js, Body-parser, HTTP/HTTPS, Mailchimp API | ![Stars](https://img.shields.io/github/stars/shreyamalogi/Email-Aggregator?style=social) |
+
+---
 
 
+### **AI Projects**
 
-
-
-
-### `AI based projects`
-
-| AI Projects                                                                                               | Tech Stack                                      | Stars |
-|----------------------------------------------------------------------------------------------------------------|-------------------------------------------------|-------|
-| [AI Attendance System](https://github.com/shreyamalogi/AI_Attendance) 📚                                       | Python, Flask, Flask-Bootstrap, Flask-SQLAlchemy, Flask-Login, Pandas, Werkzeug, OpenCV, SQLite, HTML/CSS/JavaScript                     | ⭐17    |
-| [Zac-My Virtual Assistant](https://github.com/5hre9a/ZAC) 🤖                                                   | Python, pyttsx3, webbrowser, smtplib, random, speech_recognition, wikipedia, datetime, wolframalpha, os, sys                | ⭐15    |
-| [Personalized-Travel-Planning-System](https://github.com/shreyamalogi/Personalized-travel-planning-system) 🌍 | Python, Tkinter, Matplotlib, NumPy, pandas, scikit-learn, TfidfVectorizer, matplotlib.pyplot, numpy, pandas, tkinter, ttk, filedialog, simpledialog, messagebox, operator, math | ⭐3     |
-| [Road-Lane-Detection](https://github.com/shreyamalogi/Road-Lane-Detection) 🛣️                                  | Python, OpenCV , NumPy , Matplotlib          | ⭐3     |
-| [XOXO Game](https://github.com/5hre9a/XOXO-game) 🤖                                                            | HTML, CSS, JavaScript , Bootstrap, Font Awesome, jQuery, AI (minimax algorithm for computer opponent)   | ⭐15     |
-| [Credit Card Fraud Detection System](https://github.com/shreyamalogi/Credit-Card-Fraud-Detection-System) 🛡️                                                                      | JSP, HTML/CSS, JavaScript, Servlets, Java EE , JDBC , Apache Tomcat, Bootstrap, jQuery, MySQL , AJAX, JSON, RESTful API         | ⭐3     |
-| [SoulCare Bot](https://github.com/shreyamalogi/SoulCare-Bot) 🛡️                                                                      | Python, NLTK, Streamlit, Pandas        | ⭐11    |
-
+| **Project** | **Description** | **Tech Stack** | **Stars** |
+|-------------|-----------------|----------------|-----------|
+| [AI Attendance System 📚](https://github.com/shreyamalogi/AI_Attendance) | AI-based attendance system with facial recognition and record-keeping. | **Tech Stack**: Python, Flask, Flask-Bootstrap, Flask-SQLAlchemy, Flask-Login, Pandas, Werkzeug, OpenCV, SQLite, HTML/CSS/JavaScript | ![Stars](https://img.shields.io/github/stars/shreyamalogi/AI_Attendance?style=social) |
+| [Zac-My Virtual Assistant 🤖](https://github.com/5hre9a/ZAC) | Virtual assistant with voice interaction and various tasks. | **Tech Stack**: Python, pyttsx3, webbrowser, smtplib, random, speech_recognition, wikipedia, datetime, wolframalpha, os, sys | ![Stars](https://img.shields.io/github/stars/5hre9a/ZAC?style=social) |
+| [Personalized-Travel-Planning-System 🌍](https://github.com/shreyamalogi/Personalized-travel-planning-system) | Personalized travel planning system based on user preferences. | **Tech Stack**: Python, Tkinter, Matplotlib, NumPy, pandas, scikit-learn, TfidfVectorizer, matplotlib.pyplot, numpy, pandas, tkinter, ttk, filedialog, simpledialog, messagebox, operator, math | ![Stars](https://img.shields.io/github/stars/shreyamalogi/Personalized-travel-planning-system?style=social) |
+| [Road-Lane-Detection 🛣️](https://github.com/shreyamalogi/Road-Lane-Detection) | Lane detection system using computer vision techniques. | **Tech Stack**: Python, OpenCV, NumPy, Matplotlib | ![Stars](https://img.shields.io/github/stars/shreyamalogi/Road-Lane-Detection?style=social) |
+| [XOXO Game 🤖](https://github.com/5hre9a/XOXO-game) | AI-powered Tic-Tac-Toe game using the minimax algorithm for the computer opponent. | **Tech Stack**: HTML, CSS, JavaScript, Bootstrap, Font Awesome, jQuery, AI (minimax algorithm) | ![Stars](https://img.shields.io/github/stars/5hre9a/XOXO-game?style=social) |
+| [Credit Card Fraud Detection System 🛡️](https://github.com/shreyamalogi/Credit-Card-Fraud-Detection-System) | A system for detecting fraudulent credit card transactions using machine learning. | **Tech Stack**: JSP, HTML/CSS, JavaScript, Servlets, Java EE, JDBC, Apache Tomcat, Bootstrap, jQuery, MySQL, AJAX, JSON, RESTful API | ![Stars](https://img.shields.io/github/stars/shreyamalogi/Credit-Card-Fraud-Detection-System?style=social) |
+| [SoulCare Bot 🛡️](https://github.com/shreyamalogi/SoulCare-Bot) | A chatbot designed to provide mental health support through natural language processing. | **Tech Stack**: Python, NLTK, Streamlit, Pandas | ![Stars](https://img.shields.io/github/stars/shreyamalogi/SoulCare-Bot?style=social) |
 
 
 
@@ -92,24 +100,58 @@ The total number of GitHub stars received for my projects is ⭐ 152.
 
 **Leading as CEO and Director of Technical Initiatives at CodeMacrocosm**, I steer the company's growth with visionary leadership and hands-on tech expertise. Through innovative contests 🏆 and personalized mentorship 📚, I propel projects and developers to new heights 🚀.
 
-## Skills Summary 😱
-`Project Management`, `HTML` ,`CSS` , `Javascript`, `jQuery`, `JSON`, `Rest API`, `Python`, `Flask`, `Turtle-GUI` , ` Tkinter`, `Flutter`, `Git`, `Github` , ` CI/CD`, `Competitive Programming ` , `Data Structures` , ` Algorithms`, `C++`, `Java` , `C`, `Full Stack Development`, `Vscode`, `React.js`, `Bootstrap`, `Open Source`, `Problem Solving`, `Technical Teaching`, `Communication`, `Organization`, `Collaboration `, `Open Source Development`, `Lead Management`, `Documentation`, `Research`, ` Project- Co-ordination`, `Design`, `Marketing`
+
+### **Skills Summary** 😱
+
+#### **Web Development** 🌐
+`HTML`, `CSS`, `JavaScript`, `React.js`, `Bootstrap`, `jQuery`, `REST APIs`
+
+#### **Backend Development** 💻
+`Python`, `Flask`, `Node.js`, `Express.js`
+
+#### **Mobile Development** 📱
+`Flutter`
+
+#### **Programming Languages** 🧑‍💻
+`C`, `C++`, `Java`
+
+#### **Version Control** 🔧
+`Git`, `GitHub`
+
+#### **Dev Tools** 🛠️
+`VS Code`, `CI/CD`
+
+#### **Algorithms & Problem Solving** 🧩
+`Data Structures`, `Competitive Programming`
+
+#### **GUI Development** 🖥️
+`Tkinter`, `Turtle-GUI`
+
+#### **Project Management** 📅
+`Coordination`, `Lead Management`, `Documentation`
+
+#### **Collaboration** 🤝
+`Communication`, `Organization`, `Teamwork`
+
+#### **Additional Skills** 🔍
+`Full Stack Development`, `Open Source`, `Technical Teaching`, `Marketing`
+
+
 
 ### ⭐️ Result: Individually Accomplished  ⭐️ 
 
-- **15+** Students and Graduates Interned 🔊 ,
+##### 🚀 **TECH IMPACT METRICS** (Codemacrocosm Open Source Org) 🌐
 
-- **50+** Novice Tech Projects Engineered 🛠️,
+| **Achievement**                                    | **Metrics**                     |
+|----------------------------------------------------|--------------------------------|
+| 🎓 Talented Students & Graduates Interned          | **15+**                         |
+| 🛠️ Novice Tech Projects Engineered                 | **50+**                         |
+| 🌍 Global Developers Collaborated                  | **500+**                        |
+| 🍴 GitHub Forks Achieved                           | **540+**                        |
+| ⭐️ GitHub Stars Earned                             | **640+**                        |
+| 💻 Students Trained & Up-skilled                   | **2500+**                       |
+| 🚀 Students Empowered to Reach New Heights         | **3000+**                       |
 
-- **500+** Global Developers Participated 👨‍💻,
-  
-- **540+** Github forks earned 🍴
-
-- **640+** Github stars earned ⭐️,
-
-- **2500+** Students Trained 💻
-
-- **3000+** Students Empowered 🚀.
 
 
 
@@ -207,8 +249,8 @@ Provided rigorous **technical training to multiple batches and resources to prog
 
 
 ### Final Totals
-- **Stars**: **112**
-- **Forks**: **45**
+- **Stars**: **117**
+- **Forks**: **46**
 
 
 
