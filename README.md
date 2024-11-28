@@ -35,7 +35,7 @@
 `bcrypt` · `MD5` · `passportjs` · `GoogleOAuth2.0` · `JWT`
 
 #### 🤖 Machine Learning & AI
-`Python` · `Pandas` · `NumPy` · `Matplotlib` · `scikit-learn` · `OpenCV` · `TfidfVectorizer` · `speech_recognition` · `NLTK` · `Streamlit` · `Jupyter Notebook` · `tkinter` ·   `smtplib` · `pyttsx3` · `webbrowser` ·  `wolframalpha`
+`Python` · `Pandas` · `NumPy` · `Matplotlib` · `Seaborn` · `scikit-learn` · `OpenCV` · `TfidfVectorizer` · `speech_recognition` · `NLTK` · `Streamlit` · `Jupyter Notebook` · `tkinter` ·   `smtplib` · `pyttsx3` · `webbrowser` ·  `wolframalpha`
 
 #### ⚙️ DevOps & Deployment
 `Heroku` · `AWS` · `Docker` · `Netlify`
