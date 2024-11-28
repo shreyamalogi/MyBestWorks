@@ -23,25 +23,23 @@
 ### 💻 Tech-Stack Summary
 
 #### 🚀 Frontend Development
-`HTML5` · `CSS3` · `JavaScript (ES6+)` · `React` · `React Hooks` · `Material-UI` · `Bootstrap` · `Font Awesome` · `EJS` · `jQuery` · `Netlify`
+`HTML5` · `CSS3` · `JavaScript (ES6+)` · `React`  · `Material-UI` · `Bootstrap` · `EJS` · `jQuery` ·
 
 #### 🖥️ Backend Development
-`Node.js` · `Express.js` · `Python` · `Flask` · `Flask-Bootstrap` · `Flask-SQLAlchemy` · `Flask-Login` · `Postman` · `JSP` · `Java EE` · `Servlets` · `JDBC` · `RESTful API`
+`Node.js` · `Express.js` · `Python` · `Flask` · `Postman` ·  `RESTful API`
 
 #### 🗄️ Databases & ORMs
-`MongoDB` · `MongoDB Atlas` · `Mongoose` · `MySQL` · `SQLite` · `AWS Cluster`
+`MongoDB`  · `MySQL` · `SQLite` · `AWS Cluster`
 
 #### 🔒 Authentication & Security
 `bcrypt` · `MD5` · `passportjs` · `GoogleOAuth2.0` · `JWT`
 
 #### 🤖 Machine Learning & AI
-`Python` · `Pandas` · `NumPy` · `Matplotlib` · `scikit-learn` · `OpenCV` · `TfidfVectorizer` · `speech_recognition` · `NLTK` · `Streamlit` · `Jupyter Notebook`
+`Python` · `Pandas` · `NumPy` · `Matplotlib` · `scikit-learn` · `OpenCV` · `TfidfVectorizer` · `speech_recognition` · `NLTK` · `Streamlit` · `Jupyter Notebook` · `tkinter` ·   `smtplib` · `pyttsx3` · `webbrowser` ·  `wolframalpha`
 
 #### ⚙️ DevOps & Deployment
-`Heroku` · `AWS` · `Docker`
+`Heroku` · `AWS` · `Docker` · `Netlify`
 
-#### 🛠️ Other Tools & Libraries
-`tkinter` · `ttk` · `filedialog` · `simpledialog` · `messagebox` · `operator` · `math` · `os` · `sys` · `smtplib` · `pyttsx3` · `webbrowser` · `random` · `datetime` · `wolframalpha`
 
 #### 🔗 APIs & Integrations
 `Fetch API` · `Edamam API` · `AJAX` · `JSON`
