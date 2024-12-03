@@ -1,6 +1,6 @@
-# 🚀 SHREYA MALOGI'S DYNAMIC PORTFOLIO 🤍🌐
+# SHREYA MALOGI'S DYNAMIC PORTFOLIO 
 
-"📝 Welcome to the dynamic portfolio! Explore Shreya Malogi's 🖥️ Developer Portfolio for coding expertise, 🚀 Tech Entrepreneur Portfolio for TPM ventures, and 🎨 Creative Portfolio for artistic endeavors. Join Shreya in the intersection of Technology, Mentorship, and Creativity! ✨"
+" Welcome to the dynamic portfolio! Explore Shreya Malogi's 🖥Developer Portfolio for coding expertise, Tech Entrepreneur Portfolio for TPM ventures, and Creative Portfolio for artistic endeavors. Join Shreya in the intersection of Technology, Mentorship, and Creativity! "
 
 - [ Software Developer Portfolio](#-shreya-malogis-software-developer-portfolio-)
 
@@ -16,7 +16,7 @@
 
 # 🚀 Shreya Malogi's Software Developer Portfolio 🌐✨
 
-"All my projects feature meticulously structured documentation 📄, an engaging demo GIF 🎥, project files readily available in the repository 📂, a breakdown of the tech stack used 💻, a succinct problem statement ❓, a detailed account of how I tackled the challenge 🛠️, instructions on how to run the project 🏃‍♂️, and guidance on contributing 🤝"
+"All my projects feature meticulously structured documentation , project files readily available in the repository , a breakdown of the tech stack used 💻, a succinct problem statement ❓, a detailed account of how I tackled the challenge 🛠️, instructions on how to run the project 🏃‍♂️, and guidance on contributing 🤝"
 
 
 
