@@ -296,9 +296,9 @@ Curated and Executed **12** engaging **workshops**, autonomously orchestrating a
 
 **Creative professional with proven success in graphic design, video editing, and digital marketing (1+ year of experience).** 🚀 Bringing ideas to life through 300+ design projects and 500+ videos across diverse platforms.🎨
 
----
 
-## 🌟 Highlights  
+
+### 🌟 Highlights  
 - **Graphic Design:** 300+ projects including brand identities, social media posts, and marketing materials.  
   - Notable clients:  
     - ➡️ [CodeMacrocosm Instagram](https://www.instagram.com/codemacrocosm/)  
@@ -309,14 +309,13 @@ Curated and Executed **12** engaging **workshops**, autonomously orchestrating a
   - ➡️ [@kamalafarms YouTube](https://www.youtube.com/@kamalafarms): 250+ videos, 20K+ views in 9 months.  
   - ➡️ [@5hre9a YouTube](https://www.youtube.com/@5hre9a): CMV albums, AMVs, soundtracks.  
 
----
 
-## 🛠️ Tools & Skills  
+
+### 🛠️ Tools & Skills  
 Canva, VN, Inshot, VN, Visual storytelling, brand building, animation, marketing strategy, digital marketing, excel, lead generation.
 
----
 
-## 🚀 Let’s Connect!  
+### 🚀 Let’s Connect!  
 Check out my work on Instagram and YouTube — I’m always open to collaboration and new opportunities!
 
 
