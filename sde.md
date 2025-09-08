@@ -29,11 +29,11 @@ Full-Stack Developer, Python Developer, Node.js Developer, React Developer, Mach
 [GitHub Repo](https://github.com/shreya-malogi/Task-Management-App)  
 
 ### Gourmet Recipe Hub
-![Gourmet Recipe Hub](path/to/gourmet-recipe-image.png)  
+![Gourmet Recipe Hub](https://github.com/shreyamalogi/MyBestWorks/blob/master/assets/recipe.png)  
 **Description:** Recipe recommendation app with API integration and search functionality.  
 **Tech Stack:** React, JavaScript, Edamam API  
-**Stars/Forks:** ⭐ 14 / 🍴 —  
-[GitHub Repo](https://github.com/shreya-malogi/Gourmet-Recipe-Hub)  
+**Stars/Forks:** ⭐ 14 
+[GitHub Repo](https://github.com/shreyamalogi/Gourmet-Recipe-Hub)  
 
 ### Google Keep Clone
 ![Google Keep Clone](path/to/google-keep-image.png)  
