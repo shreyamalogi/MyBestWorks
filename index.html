@@ -1,0 +1,1271 @@
+<!DOCTYPE html>
+<html lang="en" data-theme="dark">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Shreya Malogi | Dynamic Portfolio</title>
+    <link href="https://fonts.googleapis.com/css2?family=Orbitron:wght@700;900&family=Plus+Jakarta+Sans:wght@400;500;600;700;800&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+    <style>
+        :root[data-theme="dark"] {
+            --primary: #0ea5e9;
+            --primary-light: #38bdf8;
+            --accent: #10b981;
+            --gradient-start: #06b6d4;
+            --gradient-end: #10b981;
+            --bg: #060913;
+            --card-bg: rgba(15, 23, 42, 0.75);
+            --card-border: rgba(56, 189, 248, 0.15);
+            --text-main: #f8fafc;
+            --text-muted: #94a3b8;
+            --nav-bg: rgba(6, 9, 19, 0.9);
+        }
+        :root[data-theme="light"] {
+            --primary: #0284c7;
+            --primary-light: #0ea5e9;
+            --accent: #059669;
+            --gradient-start: #0891b2;
+            --gradient-end: #059669;
+            --bg: #f8fafc;
+            --card-bg: rgba(255, 255, 255, 0.85);
+            --card-border: rgba(2, 132, 199, 0.2);
+            --text-main: #0f172a;
+            --text-muted: #64748b;
+            --nav-bg: rgba(255, 255, 255, 0.9);
+        }
+
+        * { box-sizing: border-box; margin: 0; padding: 0; scroll-behavior: smooth; transition: background 0.3s ease, color 0.3s ease, border 0.3s ease; }
+        body { font-family: 'Plus Jakarta Sans', sans-serif; background-color: var(--bg); color: var(--text-main); line-height: 1.6; min-height: 100vh; display: flex; flex-direction: column; justify-content: space-between; }
+        
+        nav {
+            position: fixed; top: 0; left: 0; width: 100%; background: var(--nav-bg); backdrop-filter: blur(12px);
+            border-bottom: 1px solid var(--card-border); z-index: 1000; padding: 1rem 2rem;
+            display: flex; justify-content: space-between; align-items: center;
+        }
+        .nav-brand { font-weight: 800; font-size: 1.2rem; background: linear-gradient(135deg, var(--gradient-start), var(--gradient-end)); -webkit-background-clip: text; -webkit-text-fill-color: transparent; cursor: pointer; }
+        
+        .nav-right { display: flex; align-items: center; gap: 1rem; }
+        .nav-links { display: flex; gap: 1rem; list-style: none; flex-wrap: wrap; }
+        .nav-links button { background: none; border: none; color: var(--text-muted); text-decoration: none; font-weight: 650; font-size: 0.95rem; cursor: pointer; transition: color 0.2s, background 0.2s; padding: 0.5rem 1rem; border-radius: 8px; font-family: inherit; }
+        .nav-links button:hover, .nav-links button.active { color: var(--text-main); background: rgba(56, 189, 248, 0.15); border: 1px solid rgba(56, 189, 248, 0.3); }
+
+        .theme-toggle {
+            background: var(--card-bg); border: 1px solid var(--card-border); color: var(--text-main);
+            padding: 0.5rem 0.8rem; border-radius: 8px; cursor: pointer; font-size: 1rem; display: flex; align-items: center; justify-content: center;
+        }
+        .theme-toggle:hover { border-color: var(--primary); }
+
+        /* Full Landing View Style with Larger Stylish Typography */
+        .full-landing {
+            margin-top: 70px;
+            min-height: calc(100vh - 70px);
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+            align-items: center;
+            background: radial-gradient(circle at center, rgba(6, 182, 212, 0.15), transparent 70%);
+            text-align: center;
+            padding: 3rem;
+        }
+
+        /* 1/4 Persistent Header for Sub-pages */
+        .persistent-header {
+            margin-top: 70px;
+            min-height: 25vh;
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+            align-items: center;
+            background: radial-gradient(circle at center, rgba(6, 182, 212, 0.15), transparent 70%);
+            border-bottom: 1px solid var(--card-border);
+            padding: 2rem 1rem;
+            text-align: center;
+        }
+
+        .landing-title-container {
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            justify-content: center;
+            gap: 0.5rem;
+            margin-bottom: 2rem;
+        }
+        .landing-name {
+            font-family: 'Orbitron', sans-serif;
+            font-size: 4.5rem;
+            font-weight: 900;
+            letter-spacing: 0.08em;
+            background: linear-gradient(135deg, var(--gradient-start), var(--gradient-end));
+            -webkit-background-clip: text;
+            -webkit-text-fill-color: transparent;
+            text-transform: uppercase;
+            text-shadow: 0 15px 40px rgba(6, 182, 212, 0.3);
+        }
+        .landing-subtitle {
+            font-family: 'Plus Jakarta Sans', sans-serif;
+            font-size: 2.8rem;
+            font-weight: 800;
+            color: var(--text-main);
+            letter-spacing: 0.12em;
+            text-transform: uppercase;
+        }
+
+        .hero-btns { display: flex; justify-content: center; gap: 1rem; flex-wrap: wrap; margin-top: 1.5rem; }
+        
+        .persistent-header .landing-title-container { gap: 0.2rem; margin-bottom: 1rem; }
+        .persistent-header .landing-name { font-size: 2.2rem; text-shadow: none; }
+        .persistent-header .landing-subtitle { font-size: 1.2rem; }
+        .persistent-header .hero-btns { gap: 0.6rem; margin-top: 0.5rem; }
+
+        .btn {
+            background: linear-gradient(135deg, #0284c7, #059669); color: white; padding: 0.9rem 2rem; border-radius: 9999px;
+            text-decoration: none; font-weight: 600; font-size: 1.1rem; transition: all 0.3s ease; display: inline-flex; align-items: center; gap: 0.6rem;
+            border: 1px solid rgba(56, 189, 248, 0.3); cursor: pointer; font-family: inherit;
+            box-shadow: 0 4px 14px rgba(14, 165, 233, 0.25);
+        }
+        .persistent-header .btn { padding: 0.5rem 1rem; font-size: 0.85rem; }
+        .btn:hover { opacity: 0.9; transform: translateY(-2px); box-shadow: 0 6px 20px rgba(16, 185, 129, 0.35); }
+        .btn-outline { background: var(--card-bg); border-color: var(--card-border); color: var(--text-main); box-shadow: none; }
+        .btn-outline:hover { background: rgba(30, 41, 59, 0.1); border-color: var(--primary); }
+        .btn.active-tab { background: linear-gradient(135deg, var(--gradient-start), var(--gradient-end)); color: #fff; border-color: transparent; }
+
+        .container { max-width: 1200px; margin: 0 auto; padding: 3rem 1.5rem; width: 100%; flex: 1; }
+        
+        .page-section { display: none; }
+        .page-section.active-page { display: block; animation: fadeIn 0.4s ease-in-out; }
+
+        @keyframes fadeIn {
+            from { opacity: 0; transform: translateY(10px); }
+            to { opacity: 1; transform: translateY(0); }
+        }
+
+        h2.section-title { font-size: 2.2rem; margin-bottom: 1rem; display: flex; align-items: center; gap: 0.75rem; border-bottom: 2px solid var(--card-border); padding-bottom: 0.75rem; }
+        .section-desc { color: var(--text-muted); font-size: 1.05rem; margin-bottom: 2rem; }
+
+        .stats-grid {
+            display: grid;
+            grid-template-columns: repeat(3, 1fr);
+            gap: 1.2rem;
+            margin-bottom: 1.2rem;
+        }
+        @media(max-width: 768px) {
+            .stats-grid { grid-template-columns: 1fr; }
+        }
+        .stat-card {
+            background: var(--card-bg);
+            border: 1px solid var(--card-border);
+            padding: 1.5rem;
+            border-radius: 14px;
+            text-align: center;
+            backdrop-filter: blur(10px);
+            box-shadow: 0 4px 20px -2px rgba(0,0,0,0.1);
+        }
+        .stat-card h3 { font-size: 2.2rem; background: linear-gradient(135deg, var(--gradient-start), var(--gradient-end)); -webkit-background-clip: text; -webkit-text-fill-color: transparent; margin-bottom: 0.25rem; font-weight: 800; }
+        .stat-card p { color: var(--text-muted); font-size: 0.9rem; font-weight: 600; text-transform: uppercase; letter-spacing: 0.05em; }
+
+        .big-heading-banner {
+            background: linear-gradient(135deg, rgba(6, 182, 212, 0.1), rgba(16, 185, 129, 0.1));
+            border: 1px solid var(--card-border);
+            border-radius: 14px;
+            padding: 1.5rem 2rem;
+            margin: 2rem 0;
+            display: flex;
+            justify-content: space-around;
+            flex-wrap: wrap;
+            gap: 1.5rem;
+            text-align: center;
+            backdrop-filter: blur(10px);
+        }
+        .big-heading-banner div h4 { font-size: 1.8rem; color: var(--accent); font-weight: 800; }
+        .big-heading-banner div p { font-size: 0.85rem; color: var(--text-muted); text-transform: uppercase; letter-spacing: 0.05em; font-weight: 600; }
+
+        .card-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(320px, 1fr));
+            gap: 1.5rem;
+        }
+        .item-card {
+            background: var(--card-bg);
+            border: 1px solid var(--card-border);
+            border-radius: 14px;
+            padding: 1.5rem;
+            display: flex;
+            flex-direction: column;
+            justify-content: space-between;
+            backdrop-filter: blur(10px);
+            transition: transform 0.2s ease, border-color 0.2s ease, box-shadow 0.2s ease;
+            box-shadow: 0 4px 20px -2px rgba(0,0,0,0.1);
+            overflow: hidden;
+        }
+        .item-card:hover { transform: translateY(-4px); border-color: var(--primary-light); box-shadow: 0 10px 30px -5px rgba(14, 165, 233, 0.2); }
+        
+        .card-img {
+            width: calc(100% + 3rem);
+            margin: -1.5rem -1.5rem 1.2rem -1.5rem;
+            height: 160px;
+            object-fit: cover;
+            border-bottom: 1px solid var(--card-border);
+        }
+
+        .item-card h3 { font-size: 1.15rem; margin-bottom: 0.75rem; display: flex; justify-content: space-between; align-items: flex-start; gap: 0.5rem; }
+        .item-card h3 a { color: var(--primary-light); text-decoration: none; }
+        .item-card h3 a:hover { text-decoration: underline; }
+        .item-card p { color: var(--text-muted); font-size: 0.95rem; margin-bottom: 1.5rem; }
+        
+        .repo-badges { display: flex; gap: 0.3rem; align-items: center; flex-wrap: wrap; justify-content: flex-end; }
+        .repo-badges img { height: 18px; border-radius: 3px; }
+
+        .tags { display: flex; flex-wrap: wrap; gap: 0.4rem; margin-top: auto; }
+        .tag { background: rgba(6, 182, 212, 0.15); color: var(--primary-light); font-size: 0.75rem; padding: 0.25rem 0.6rem; border-radius: 6px; font-weight: 600; border: 1px solid rgba(56, 189, 248, 0.2); }
+
+        details { margin-top: 2rem; background: var(--card-bg); border: 1px solid var(--card-border); border-radius: 14px; padding: 1rem 1.5rem; backdrop-filter: blur(10px); }
+        summary { font-weight: 700; cursor: pointer; color: var(--primary-light); font-size: 1.1rem; outline: none; }
+        details[open] summary { margin-bottom: 1rem; border-bottom: 1px solid var(--card-border); padding-bottom: 0.5rem; }
+
+        .flags-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(140px, 1fr));
+            gap: 1rem;
+            margin-top: 1.5rem;
+        }
+        .flag-card {
+            background: var(--card-bg);
+            border: 1px solid var(--card-border);
+            border-radius: 12px;
+            padding: 1rem;
+            text-align: center;
+            font-weight: 600;
+            font-size: 0.95rem;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            gap: 0.5rem;
+            backdrop-filter: blur(10px);
+        }
+
+        .contact-form {
+            display: flex;
+            flex-direction: column;
+            gap: 1rem;
+            margin-top: 1.5rem;
+        }
+        .contact-form input, .contact-form textarea {
+            background: var(--card-bg);
+            border: 1px solid var(--card-border);
+            padding: 0.8rem 1rem;
+            border-radius: 8px;
+            color: var(--text-main);
+            font-family: inherit;
+        }
+        .contact-form input:focus, .contact-form textarea:focus {
+            outline: none;
+            border-color: var(--primary);
+        }
+
+        footer { text-align: center; padding: 3rem 2rem; background: var(--nav-bg); border-top: 1px solid var(--card-border); color: var(--text-muted); }
+        
+        @media(max-width: 900px) {
+            .nav-links { display: none; }
+            .landing-name { font-size: 3rem; }
+            .landing-subtitle { font-size: 1.5rem; }
+        }
+    </style>
+</head>
+<body>
+
+    <nav>
+        <div class="nav-brand" onclick="switchPage('landing')">shreyamalogi</div>
+        <div class="nav-right">
+            <ul class="nav-links">
+                <li><button onclick="switchPage('director')" id="nav-link-director">Technical Director</button></li>
+                <li><button onclick="switchPage('datascience')" id="nav-link-datascience">Data Science</button></li>
+                <li><button onclick="switchPage('developer')" id="nav-link-developer">Software Developer</button></li>
+                <li><button onclick="switchPage('creative')" id="nav-link-creative">Creative</button></li>
+                <li><button onclick="switchPage('volunteering')" id="nav-link-volunteering">Profile</button></li>
+                <li><button onclick="switchPage('about')" id="nav-link-about">Contact</button></li>
+            </ul>
+            <button class="theme-toggle" id="themeToggleBtn" onclick="toggleTheme()" title="Toggle Dark/Light Mode">
+                <i class="fas fa-moon" id="themeIcon"></i>
+            </button>
+        </div>
+    </nav>
+
+    <!-- 1. FULL LANDING PAGE VIEW -->
+    <div id="page-landing" class="page-section active-page full-landing">
+        <div class="landing-title-container">
+            <h1 class="landing-name">Shreya Malogi</h1>
+            <p class="landing-subtitle">Dynamic Portfolio</p>
+        </div>
+        <div class="hero-btns">
+            <button class="btn" onclick="switchPage('director')"><i class="fas fa-rocket"></i> Technical Director</button>
+            <button class="btn btn-outline" onclick="switchPage('datascience')"><i class="fas fa-brain"></i> Data Science</button>
+            <button class="btn btn-outline" onclick="switchPage('developer')"><i class="fas fa-code"></i> Software Developer</button>
+            <button class="btn btn-outline" onclick="switchPage('creative')"><i class="fas fa-palette"></i> Creative</button>
+            <button class="btn btn-outline" onclick="switchPage('volunteering')"><i class="fas fa-id-card"></i> Profile</button>
+            <button class="btn btn-outline" onclick="switchPage('about')"><i class="fas fa-user-circle"></i> Contact</button>
+        </div>
+    </div>
+
+    <!-- 2. PERSISTENT 1/4 SCREEN HEADER (Visible on sub-pages) -->
+    <header id="persistentHeader" class="persistent-header" style="display: none;">
+        <div class="landing-title-container">
+            <h1 class="landing-name">Shreya Malogi</h1>
+            <p class="landing-subtitle">Dynamic Portfolio</p>
+        </div>
+        <div class="hero-btns">
+            <button class="btn btn-outline" id="btn-director" onclick="switchPage('director')"><i class="fas fa-rocket"></i> Technical Director</button>
+            <button class="btn btn-outline" id="btn-datascience" onclick="switchPage('datascience')"><i class="fas fa-brain"></i> Data Science</button>
+            <button class="btn btn-outline" id="btn-developer" onclick="switchPage('developer')"><i class="fas fa-code"></i> Software Developer</button>
+            <button class="btn btn-outline" id="btn-creative" onclick="switchPage('creative')"><i class="fas fa-palette"></i> Creative</button>
+            <button class="btn btn-outline" id="btn-volunteering" onclick="switchPage('volunteering')"><i class="fas fa-id-card"></i> Profile</button>
+            <button class="btn btn-outline" id="btn-about" onclick="switchPage('about')"><i class="fas fa-user-circle"></i> Contact</button>
+        </div>
+    </header>
+
+    <div class="container">
+
+        <!-- TECHNICAL DIRECTOR PORTFOLIO -->
+        <section id="page-director" class="page-section">
+            <h2 class="section-title"><i class="fas fa-rocket" style="color: var(--primary-light);"></i> Shreya Malogi's Technical Director Portfolio</h2>
+            <p class="section-desc"><strong>🚀 Leading as CEO and Director of Technical Initiatives at CodeMacrocosm</strong> (a technical student-run open-source organisation), I blend leadership with tech expertise, driving innovation, community contests, mentorship, and global technical training.</p>
+            
+            <div class="stats-grid">
+                <div class="stat-card">
+                    <h3>500+</h3>
+                    <p>Global Dev Collaborators Managed</p>
+                </div>
+                <div class="stat-card">
+                    <h3>2,000+</h3>
+                    <p>Students Trained and Empowered</p>
+                </div>
+                <div class="stat-card">
+                    <h3>15+</h3>
+                    <p>Internships Given</p>
+                </div>
+            </div>
+            <div class="stats-grid" style="margin-bottom: 2.5rem;">
+                <div class="stat-card">
+                    <h3>50+</h3>
+                    <p>🛠️ Novice Tech Projects Engineered</p>
+                </div>
+                <div class="stat-card">
+                    <h3>600+</h3>
+                    <p>GitHub Stars Earned</p>
+                </div>
+                <div class="stat-card">
+                    <h3>500+</h3>
+                    <p>GitHub Forks Achieved</p>
+                </div>
+            </div>
+
+            <!-- Directed Open Source Contests (First 6 visible) -->
+            <h3 style="margin: 2rem 0 1rem 0; font-size: 1.5rem;">🏆 Directed Open Source Contests (11 Events Managed)</h3>
+            <p style="color: var(--text-muted); margin-bottom: 1rem;">Individually Managed a global community of 500+ developers through 11 open-source coding contests.</p>
+            
+            <div class="big-heading-banner">
+                <div>
+                    <h4>⭐ 219</h4>
+                    <p>Total Contest Stars</p>
+                </div>
+                <div>
+                    <h4>🍴 510</h4>
+                    <p>Total Contest Forks</p>
+                </div>
+                <div>
+                    <h4>👥 549</h4>
+                    <p>Total Contributors</p>
+                </div>
+            </div>
+
+            <div class="card-grid">
+                <div class="item-card">
+                    <img src="https://images.unsplash.com/photo-1555066931-4365d14bab8c?auto=format&fit=crop&w=600&q=80" alt="Web-a-Thon" class="card-img">
+                    <h3>
+                        <a href="https://github.com/CodeMacrocosm/Web-a-Thon-20" target="_blank">1. Web-a-Thon</a>
+                        <div class="repo-badges">
+                            <img src="https://img.shields.io/github/stars/CodeMacrocosm/Web-a-Thon-20?style=flat-square" alt="Stars">
+                            <img src="https://img.shields.io/github/forks/CodeMacrocosm/Web-a-Thon-20?style=flat-square" alt="Forks">
+                            <img src="https://img.shields.io/github/contributors/codemacrocosm/Web-a-Thon-20.svg" alt="Contributors">
+                        </div>
+                    </h3>
+                    <p>Global open-source web development challenge managed by Shreya Malogi.</p>
+                    <div class="tags"><span class="tag">Hackathon</span><span class="tag">Web Dev</span></div>
+                </div>
+                <div class="item-card">
+                    <img src="https://images.unsplash.com/photo-1556075798-4825dfaaf498?auto=format&fit=crop&w=600&q=80" alt="Pull-a-Thon" class="card-img">
+                    <h3>
+                        <a href="https://github.com/CodeMacrocosm/Pull-a-Thon-21" target="_blank">2. Pull-a-Thon</a>
+                        <div class="repo-badges">
+                            <img src="https://img.shields.io/github/stars/CodeMacrocosm/Pull-a-Thon-21?style=flat-square" alt="Stars">
+                            <img src="https://img.shields.io/github/forks/CodeMacrocosm/Pull-a-Thon-21?style=flat-square" alt="Forks">
+                            <img src="https://img.shields.io/github/contributors/codemacrocosm/Pull-a-Thon.svg" alt="Contributors">
+                        </div>
+                    </h3>
+                    <p>Open-source pull request challenge focused on community collaboration.</p>
+                    <div class="tags"><span class="tag">Git</span><span class="tag">Collaboration</span></div>
+                </div>
+                <div class="item-card">
+                    <img src="https://images.unsplash.com/photo-1455390582262-044cdead277a?auto=format&fit=crop&w=600&q=80" alt="Write-a-Thon" class="card-img">
+                    <h3>
+                        <a href="https://github.com/CodeMacrocosm/Write-a-Thon-20" target="_blank">3. Write-a-Thon</a>
+                        <div class="repo-badges">
+                            <img src="https://img.shields.io/github/stars/CodeMacrocosm/Write-a-Thon-20?style=flat-square" alt="Stars">
+                            <img src="https://img.shields.io/github/forks/CodeMacrocosm/Write-a-Thon-20?style=flat-square" alt="Forks">
+                            <img src="https://img.shields.io/github/contributors/codemacrocosm/Write-a-Thon-20.svg" alt="Contributors">
+                        </div>
+                    </h3>
+                    <p>Technical writing contest.</p>
+                    <div class="tags"><span class="tag">Writing</span><span class="tag">Docs</span></div>
+                </div>
+                <div class="item-card">
+                    <img src="https://images.unsplash.com/photo-1519389950473-47ba0277781c?auto=format&fit=crop&w=600&q=80" alt="Start-a-Thon" class="card-img">
+                    <h3>
+                        <a href="https://github.com/CodeMacrocosm/Start-a-Thon-20" target="_blank">4. Start-a-Thon</a>
+                        <div class="repo-badges">
+                            <img src="https://img.shields.io/github/stars/CodeMacrocosm/Start-a-Thon-20?style=flat-square" alt="Stars">
+                            <img src="https://img.shields.io/github/forks/CodeMacrocosm/Start-a-Thon-20?style=flat-square" alt="Forks">
+                            <img src="https://img.shields.io/github/contributors/codemacrocosm/Start-a-Thon-20.svg" alt="Contributors">
+                        </div>
+                    </h3>
+                    <p>Project initiation challenge.</p>
+                    <div class="tags"><span class="tag">Startup</span><span class="tag">Boilerplate</span></div>
+                </div>
+                <div class="item-card">
+                    <img src="https://images.unsplash.com/photo-1581291518633-83b4ebd1d83e?auto=format&fit=crop&w=600&q=80" alt="Design-a-Thon" class="card-img">
+                    <h3>
+                        <a href="https://github.com/CodeMacrocosm/Design-a-Thon-20" target="_blank">5. Design-a-Thon</a>
+                        <div class="repo-badges">
+                            <img src="https://img.shields.io/github/stars/CodeMacrocosm/Design-a-Thon?style=flat-square" alt="Stars">
+                            <img src="https://img.shields.io/github/forks/srujana-55/Storybook?style=flat-square" alt="Forks">
+                            <img src="https://img.shields.io/github/contributors/codeMacrocosm/Design-a-Thon-20.svg" alt="Contributors">
+                        </div>
+                    </h3>
+                    <p>UI/UX design contest.</p>
+                    <div class="tags"><span class="tag">UI/UX</span><span class="tag">Design</span></div>
+                </div>
+                <div class="item-card">
+                    <img src="https://images.unsplash.com/photo-1517694712202-14dd9538aa97?auto=format&fit=crop&w=600&q=80" alt="Dev-a-Thon" class="card-img">
+                    <h3>
+                        <a href="https://github.com/CodeMacrocosm/Dev-a-Thon-21" target="_blank">6. Dev-a-Thon</a>
+                        <div class="repo-badges">
+                            <img src="https://img.shields.io/github/stars/CodeMacrocosm/Dev-a-Thon?style=flat-square" alt="Stars">
+                            <img src="https://img.shields.io/github/forks/CodeMacrocosm/Dev-a-Thon?style=flat-square" alt="Forks">
+                            <img src="https://img.shields.io/github/contributors/codemacrocosm/Dev-a-Thon.svg" alt="Contributors">
+                        </div>
+                    </h3>
+                    <p>Full-stack developer hackathon.</p>
+                    <div class="tags"><span class="tag">Full-Stack</span><span class="tag">Hackathon</span></div>
+                </div>
+            </div>
+
+            <details>
+                <summary>📂 Show Additional Contests (7 to 11)</summary>
+                <div class="card-grid" style="margin-top: 1rem;">
+                    <div class="item-card">
+                        <img src="https://images.unsplash.com/photo-1555066931-4365d14bab8c?auto=format&fit=crop&w=600&q=80" alt="Snip-a-Thon" class="card-img">
+                        <h3><a href="https://github.com/CodeMacrocosm/Snip-a-Thon-21" target="_blank">7. Snip-a-Thon</a>
+                            <div class="repo-badges">
+                                <img src="https://img.shields.io/github/stars/CodeMacrocosm/Snip-a-Thon-21?style=flat-square" alt="Stars">
+                                <img src="https://img.shields.io/github/forks/CodeMacrocosm/Snip-a-Thon-21?style=flat-square" alt="Forks">
+                                <img src="https://img.shields.io/github/contributors/codemacrocosm/Snip-a-Thon-21.svg" alt="Contributors">
+                            </div>
+                        </h3>
+                        <p>Code snippet challenge.</p><div class="tags"><span class="tag">Algorithms</span><span class="tag">Snippets</span></div>
+                    </div>
+                    <div class="item-card">
+                        <img src="https://images.unsplash.com/photo-1516321318423-f06f85e504b3?auto=format&fit=crop&w=600&q=80" alt="Vocab-a-Thon" class="card-img">
+                        <h3><a href="https://github.com/CodeMacrocosm/Vocab-a-Thon-22" target="_blank">8. Vocab-a-Thon</a>
+                            <div class="repo-badges">
+                                <img src="https://img.shields.io/github/stars/CodeMacrocosm/Vocab-a-Thon-22?style=flat-square" alt="Stars">
+                                <img src="https://img.shields.io/github/forks/CodeMacrocosm/Vocab-a-Thon-22?style=flat-square" alt="Forks">
+                                <img src="https://img.shields.io/github/contributors/codemacrocosm/Vocab-a-Thon-22.svg" alt="Contributors">
+                            </div>
+                        </h3>
+                        <p>Vocabulary dataset challenge.</p><div class="tags"><span class="tag">NLP</span><span class="tag">Dataset</span></div>
+                    </div>
+                    <div class="item-card">
+                        <img src="https://images.unsplash.com/photo-1509228468518-180dd4864904?auto=format&fit=crop&w=600&q=80" alt="Pattern-a-Thon" class="card-img">
+                        <h3><a href="https://github.com/CodeMacrocosm/Pattern-a-Thon-22" target="_blank">9. Pattern-a-Thon</a>
+                            <div class="repo-badges">
+                                <img src="https://img.shields.io/github/stars/CodeMacrocosm/Pattern-a-Thon?style=flat-square" alt="Stars">
+                                <img src="https://img.shields.io/github/forks/CodeMacrocosm/Pattern-a-Thon?style=flat-square" alt="Forks">
+                                <img src="https://img.shields.io/github/contributors/codemacrocosm/Pattern-a-Thon.svg" alt="Contributors">
+                            </div>
+                        </h3>
+                        <p>Pattern printing challenge.</p><div class="tags"><span class="tag">Logic</span><span class="tag">Loops</span></div>
+                    </div>
+                    <div class="item-card">
+                        <img src="https://images.unsplash.com/photo-1515879218367-8466d910aaa4?auto=format&fit=crop&w=600&q=80" alt="Algo-a-Thon" class="card-img">
+                        <h3><a href="https://github.com/CodeMacrocosm/Algo-a-Thon-22" target="_blank">10. Algo-a-Thon</a>
+                            <div class="repo-badges">
+                                <img src="https://img.shields.io/github/stars/CodeMacrocosm/Algo-a-Thon-22?style=flat-square" alt="Stars">
+                                <img src="https://img.shields.io/github/forks/CodeMacrocosm/Algo-a-Thon-22?style=flat-square" alt="Forks">
+                                <img src="https://img.shields.io/github/contributors/codemacrocosm/Algo-a-Thon-22.svg" alt="Contributors">
+                            </div>
+                        </h3>
+                        <p>Competitive programming challenge.</p><div class="tags"><span class="tag">DSA</span><span class="tag">Competitive</span></div>
+                    </div>
+                    <div class="item-card">
+                        <img src="https://images.unsplash.com/photo-1550745165-9bc0b252726f?auto=format&fit=crop&w=600&q=80" alt="Turtle-a-Thon" class="card-img">
+                        <h3><a href="https://github.com/CodeMacrocosm/Turtle-a-Thon-23" target="_blank">11. Turtle-a-Thon</a>
+                            <div class="repo-badges">
+                                <img src="https://img.shields.io/github/stars/codemacrocosm/Turtle-a-Thon?style=flat-square" alt="Stars">
+                                <img src="https://img.shields.io/github/forks/CodeMacrocosm/Turtle-a-Thon?style=flat-square" alt="Forks">
+                                <img src="https://img.shields.io/github/contributors/codemacrocosm/Turtle-a-Thon.svg" alt="Contributors">
+                            </div>
+                        </h3>
+                        <p>Python Turtle GUI graphics contest.</p><div class="tags"><span class="tag">Python</span><span class="tag">GUI</span></div>
+                    </div>
+                </div>
+            </details>
+
+            <!-- Tech Mentorship (First 6 visible) -->
+            <h3 style="margin: 3rem 0 1rem 0; font-size: 1.5rem;"><i class="fas fa-graduation-cap" style="color: var(--accent);"></i> Tech Mentorship (25+ Projects Built)</h3>
+            <p style="color: var(--text-muted); margin-bottom: 1rem;">Crafted and Taught 25+ coding projects from scratch to beginner stakeholders, resulting in a <strong>30% reduction</strong> in project development time.</p>
+
+            <div class="card-grid">
+                <div class="item-card">
+                    <img src="https://images.unsplash.com/photo-1507238691740-187a5b1d37b8?auto=format&fit=crop&w=600&q=80" alt="Spirograph" class="card-img">
+                    <h3>
+                        <a href="https://github.com/shreyamalogi/spirograph" target="_blank">1. Spirograph</a>
+                        <div class="repo-badges">
+                            <img src="https://img.shields.io/github/stars/shreyamalogi/spirograph?style=flat-square" alt="Stars">
+                            <img src="https://img.shields.io/github/forks/shreyamalogi/spirograph?style=flat-square" alt="Forks">
+                        </div>
+                    </h3>
+                    <p>Generate spirograph designs using Python Turtle graphics.</p>
+                    <div class="tags"><span class="tag">Python</span><span class="tag">Graphics</span></div>
+                </div>
+                <div class="item-card">
+                    <img src="https://images.unsplash.com/photo-1574717024653-61fd2cf4d44d?auto=format&fit=crop&w=600&q=80" alt="MP4 to GIF" class="card-img">
+                    <h3>
+                        <a href="https://github.com/shreyamalogi/mp4-to-gif" target="_blank">2. MP4 to GIF</a>
+                        <div class="repo-badges">
+                            <img src="https://img.shields.io/github/stars/shreyamalogi/mp4-to-gif?style=flat-square" alt="Stars">
+                            <img src="https://img.shields.io/github/forks/shreyamalogi/mp4-to-gif?style=flat-square" alt="Forks">
+                        </div>
+                    </h3>
+                    <p>Converts MP4 videos to GIFs programmatically.</p>
+                    <div class="tags"><span class="tag">Pymovie</span><span class="tag">Video</span></div>
+                </div>
+                <div class="item-card">
+                    <img src="https://images.unsplash.com/photo-1584515979956-d9f6e5d09982?auto=format&fit=crop&w=600&q=80" alt="Pandemic Alert" class="card-img">
+                    <h3>
+                        <a href="https://github.com/shreyamalogi/pandemic-alert" target="_blank">3. Pandemic Alert</a>
+                        <div class="repo-badges">
+                            <img src="https://img.shields.io/github/stars/shreyamalogi/pandemic-alert?style=flat-square" alt="Stars">
+                            <img src="https://img.shields.io/github/forks/shreyamalogi/pandemic-alert?style=flat-square" alt="Forks">
+                        </div>
+                    </h3>
+                    <p>Real-time pandemic alert system.</p><div class="tags"><span class="tag">Python</span><span class="tag">Alerts</span></div>
+                </div>
+                <div class="item-card">
+                    <img src="https://images.unsplash.com/photo-1589254065878-42c9da997008?auto=format&fit=crop&w=600&q=80" alt="Text-to-Speech" class="card-img">
+                    <h3>
+                        <a href="https://github.com/shreyamalogi/TTS" target="_blank">4. Text-to-Speech</a>
+                        <div class="repo-badges">
+                            <img src="https://img.shields.io/github/stars/shreyamalogi/TTS?style=flat-square" alt="Stars">
+                            <img src="https://img.shields.io/github/forks/shreyamalogi/TTS?style=flat-square" alt="Forks">
+                        </div>
+                    </h3>
+                    <p>Convert text into speech.</p><div class="tags"><span class="tag">Audio</span><span class="tag">Python</span></div>
+                </div>
+                <div class="item-card">
+                    <img src="https://images.unsplash.com/photo-1512486130939-2c4f79935e4f?auto=format&fit=crop&w=600&q=80" alt="Bio Data" class="card-img">
+                    <h3>
+                        <a href="https://github.com/shreyamalogi/Bio-Data" target="_blank">5. Bio Data</a>
+                        <div class="repo-badges">
+                            <img src="https://img.shields.io/github/stars/shreyamalogi/Bio-Data?style=flat-square" alt="Stars">
+                            <img src="https://img.shields.io/github/forks/shreyamalogi/Bio-Data?style=flat-square" alt="Forks">
+                        </div>
+                    </h3>
+                    <p>Create biodata pages.</p><div class="tags"><span class="tag">HTML</span><span class="tag">Web</span></div>
+                </div>
+                <div class="item-card">
+                    <img src="https://images.unsplash.com/photo-1507238691740-187a5b1d37b8?auto=format&fit=crop&w=600&q=80" alt="Minimal Portfolio" class="card-img">
+                    <h3>
+                        <a href="https://github.com/shreyamalogi/Teal-Minimal-Portfolio" target="_blank">6. Minimal Portfolio</a>
+                        <div class="repo-badges">
+                            <img src="https://img.shields.io/github/stars/shreyamalogi/Teal-Minimal-Portfolio?style=flat-square" alt="Stars">
+                            <img src="https://img.shields.io/github/forks/shreyamalogi/Teal-Minimal-Portfolio?style=flat-square" alt="Forks">
+                        </div>
+                    </h3>
+                    <p>Teal Minimal portfolio website.</p><div class="tags"><span class="tag">CSS</span><span class="tag">Design</span></div>
+                </div>
+            </div>
+
+            <details>
+                <summary>📂 Show Additional Mentored Projects (7 to 26)</summary>
+                <div class="card-grid" style="margin-top: 1rem;">
+                    <div class="item-card"><img src="https://images.unsplash.com/photo-1543466835-00a7907e9de1?auto=format&fit=crop&w=600&q=80" alt="Pawfect mate" class="card-img"><h3><a href="https://github.com/shreyamalogi/tindog" target="_blank">7. Pawfect mate</a><div class="repo-badges"><img src="https://img.shields.io/github/stars/shreyamalogi/tindog?style=flat-square" alt="Stars"><img src="https://img.shields.io/github/forks/shreyamalogi/tindog?style=flat-square" alt="Forks"></div></h3><p>Dog matchmaking app.</p><div class="tags"><span class="tag">Bootstrap</span><span class="tag">Frontend</span></div></div>
+                    <div class="item-card"><img src="https://images.unsplash.com/photo-1550684848-fac1c5b4e853?auto=format&fit=crop&w=600&q=80" alt="Polka Dot" class="card-img"><h3><a href="https://github.com/shreyamalogi/the_hirst_painting" target="_blank">8. Polka Dot</a><div class="repo-badges"><img src="https://img.shields.io/github/stars/shreyamalogi/the_hirst_painting?style=flat-square" alt="Stars"><img src="https://img.shields.io/github/forks/shreyamalogi/the_hirst_painting?style=flat-square" alt="Forks"></div></h3><p>Polka dot pattern creation.</p><div class="tags"><span class="tag">Turtle</span><span class="tag">Art</span></div></div>
+                    <div class="item-card"><img src="https://images.unsplash.com/photo-1534447677768-be436bb09401?auto=format&fit=crop&w=600&q=80" alt="Doraemon" class="card-img"><h3><a href="https://github.com/shreyamalogi/doraemon" target="_blank">9. Doraemon</a><div class="repo-badges"><img src="https://img.shields.io/github/stars/shreyamalogi/doraemon?style=flat-square" alt="Stars"><img src="https://img.shields.io/github/forks/shreyamalogi/doraemon?style=flat-square" alt="Forks"></div></h3><p>Draw Doraemon character.</p><div class="tags"><span class="tag">Turtle</span><span class="tag">Graphics</span></div></div>
+                    <div class="item-card"><img src="https://images.unsplash.com/photo-1614680376593-902f749f7ffc?auto=format&fit=crop&w=600&q=80" alt="Among Us" class="card-img"><h3><a href="https://github.com/shreyamalogi/among-us" target="_blank">10. Among Us</a><div class="repo-badges"><img src="https://img.shields.io/github/stars/shreyamalogi/among-us?style=flat-square" alt="Stars"><img src="https://img.shields.io/github/forks/shreyamalogi/among-us?style=flat-square" alt="Forks"></div></h3><p>Game tribute with characters.</p><div class="tags"><span class="tag">Turtle</span><span class="tag">Animation</span></div></div>
+                    <div class="item-card"><img src="https://images.unsplash.com/photo-1519892300165-cb5542fb47c7?auto=format&fit=crop&w=600&q=80" alt="Drums Kit" class="card-img"><h3><a href="https://github.com/shreyamalogi/drums-app" target="_blank">11. Drums Kit</a><div class="repo-badges"><img src="https://img.shields.io/github/stars/shreyamalogi/drums-app?style=flat-square" alt="Stars"><img src="https://img.shields.io/github/forks/shreyamalogi/drums-app?style=flat-square" alt="Forks"></div></h3><p>Interactive drums web app.</p><div class="tags"><span class="tag">JavaScript</span><span class="tag">Audio</span></div></div>
+                    <div class="item-card"><img src="https://images.unsplash.com/photo-1610890716171-6b1bb98ffd09?auto=format&fit=crop&w=600&q=80" alt="Dice Game" class="card-img"><h3><a href="https://github.com/shreyamalogi/Dice-game" target="_blank">12. Dice Game</a><div class="repo-badges"><img src="https://img.shields.io/github/stars/shreyamalogi/Dice-game?style=flat-square" alt="Stars"><img src="https://img.shields.io/github/forks/shreyamalogi/Dice-game?style=flat-square" alt="Forks"></div></h3><p>Simple dice game simulation.</p><div class="tags"><span class="tag">JavaScript</span><span class="tag">DOM</span></div></div>
+                    <div class="item-card"><img src="https://images.unsplash.com/photo-1555066931-4365d14bab8c?auto=format&fit=crop&w=600&q=80" alt="Favicon Fetcher" class="card-img"><h3><a href="https://github.com/shreyamalogi/favicon-fetcher" target="_blank">13. Favicon Fetcher</a><div class="repo-badges"><img src="https://img.shields.io/github/stars/shreyamalogi/favicon-fetcher?style=flat-square" alt="Stars"><img src="https://img.shields.io/github/forks/shreyamalogi/favicon-fetcher?style=flat-square" alt="Forks"></div></h3><p>Fetches favicons for websites.</p><div class="tags"><span class="tag">JavaScript</span><span class="tag">API</span></div></div>
+                    <div class="item-card"><img src="https://images.unsplash.com/photo-1516321318423-f06f85e504b3?auto=format&fit=crop&w=600&q=80" alt="Quotes Generator" class="card-img"><h3><a href="https://github.com/shreyamalogi/kanye-quotes-generator" target="_blank">14. Quotes Generator</a><div class="repo-badges"><img src="https://img.shields.io/github/stars/shreyamalogi/kanye-quotes-generator?style=flat-square" alt="Stars"><img src="https://img.shields.io/github/forks/shreyamalogi/kanye-quotes-generator?style=flat-square" alt="Forks"></div></h3><p>Generates random Kanye West quotes.</p><div class="tags"><span class="tag">API</span><span class="tag">JSON</span></div></div>
+                    <div class="item-card"><img src="https://images.unsplash.com/photo-1451187580459-43490279c0fa?auto=format&fit=crop&w=600&q=80" alt="ISS Tracker" class="card-img"><h3><a href="https://github.com/shreyamalogi/Real-time-ISS-Tracker" target="_blank">15. ISS Tracker</a><div class="repo-badges"><img src="https://img.shields.io/github/stars/shreyamalogi/Real-time-ISS-Tracker?style=flat-square" alt="Stars"><img src="https://img.shields.io/github/forks/shreyamalogi/Real-time-ISS-Tracker?style=flat-square" alt="Forks"></div></h3><p>Tracks real-time ISS position.</p><div class="tags"><span class="tag">Tkinter</span><span class="tag">APIs</span></div></div>
+                    <div class="item-card"><img src="https://images.unsplash.com/photo-1526374965328-7f61d4dc18c5?auto=format&fit=crop&w=600&q=80" alt="Flask API" class="card-img"><h3><a href="https://github.com/shreyamalogi/flask-api-integration" target="_blank">16. Flask API</a><div class="repo-badges"><img src="https://img.shields.io/github/stars/shreyamalogi/flask-api-integration?style=flat-square" alt="Stars"><img src="https://img.shields.io/github/forks/shreyamalogi/flask-api-integration?style=flat-square" alt="Forks"></div></h3><p>Integrates external APIs with Flask.</p><div class="tags"><span class="tag">Flask</span><span class="tag">Backend</span></div></div>
+                    <div class="item-card"><img src="https://images.unsplash.com/photo-1509228468518-180dd4864904?auto=format&fit=crop&w=600&q=80" alt="Miles to Km" class="card-img"><h3><a href="https://github.com/shreyamalogi/miles-to-km-converter" target="_blank">17. Miles to Km</a><div class="repo-badges"><img src="https://img.shields.io/github/stars/shreyamalogi/miles-to-km-converter?style=flat-square" alt="Stars"><img src="https://img.shields.io/github/forks/shreyamalogi/miles-to-km-converter?style=flat-square" alt="Forks"></div></h3><p>Converts miles to kilometers.</p><div class="tags"><span class="tag">Tkinter</span><span class="tag">Python</span></div></div>
+                    <div class="item-card"><img src="https://images.unsplash.com/photo-1551650975-87deedd944c3?auto=format&fit=crop&w=600&q=80" alt="Rich App" class="card-img"><h3><a href="https://github.com/shreyamalogi/rich-app" target="_blank">18. Rich App</a><div class="repo-badges"><img src="https://img.shields.io/github/stars/shreyamalogi/rich-app?style=flat-square" alt="Stars"><img src="https://img.shields.io/github/forks/shreyamalogi/rich-app?style=flat-square" alt="Forks"></div></h3><p>A simple app with "I am rich".</p><div class="tags"><span class="tag">Flutter</span><span class="tag">Mobile</span></div></div>
+                    <div class="item-card"><img src="https://images.unsplash.com/photo-1563986768609-322da13575f3?auto=format&fit=crop&w=600&q=80" alt="BizCard App" class="card-img"><h3><a href="https://github.com/shreyamalogi/bizcard-app" target="_blank">19. BizCard App</a><div class="repo-badges"><img src="https://img.shields.io/github/stars/shreyamalogi/bizcard-app?style=flat-square" alt="Stars"><img src="https://img.shields.io/github/forks/shreyamalogi/bizcard-app?style=flat-square" alt="Forks"></div></h3><p>Digital business card app.</p><div class="tags"><span class="tag">Flutter</span><span class="tag">UI</span></div></div>
+                    <div class="item-card"><img src="https://images.unsplash.com/photo-1507238691740-187a5b1d37b8?auto=format&fit=crop&w=600&q=80" alt="SidePanel" class="card-img"><h3><a href="https://github.com/shreyamalogi/Responsive-Side-Panel" target="_blank">20. SidePanel</a><div class="repo-badges"><img src="https://img.shields.io/github/stars/shreyamalogi/Responsive-Side-Panel?style=flat-square" alt="Stars"><img src="https://img.shields.io/github/forks/shreyamalogi/Responsive-Side-Panel?style=flat-square" alt="Forks"></div></h3><p>Responsive side panel for websites.</p><div class="tags"><span class="tag">CSS</span><span class="tag">Layout</span></div></div>
+                    <div class="item-card"><img src="https://images.unsplash.com/photo-1596526131083-e8c633c948d2?auto=format&fit=crop&w=600&q=80" alt="Automated Email" class="card-img"><h3><a href="https://github.com/shreyamalogi/Automated-personalized-Email" target="_blank">21. Automated Email</a><div class="repo-badges"><img src="https://img.shields.io/github/stars/shreyamalogi/Automated-personalized-Email?style=flat-square" alt="Stars"><img src="https://img.shields.io/github/forks/shreyamalogi/Automated-personalized-Email?style=flat-square" alt="Forks"></div></h3><p>Automates personalized emails.</p><div class="tags"><span class="tag">SMTP</span><span class="tag">Python</span></div></div>
+                    <div class="item-card"><img src="https://images.unsplash.com/photo-1513151233558-d860c5398176?auto=format&fit=crop&w=600&q=80" alt="BDayWish App" class="card-img"><h3><a href="https://github.com/shreyamalogi/BGC-app" target="_blank">22. BDayWish App</a><div class="repo-badges"><img src="https://img.shields.io/github/stars/shreyamalogi/BGC-app?style=flat-square" alt="Stars"><img src="https://img.shields.io/github/forks/shreyamalogi/BGC-app?style=flat-square" alt="Forks"></div></h3><p>Birthday reminder app.</p><div class="tags"><span class="tag">Kotlin</span><span class="tag">Java</span></div></div>
+                    <div class="item-card"><img src="https://images.unsplash.com/photo-1495364141860-b0d03eccd065?auto=format&fit=crop&w=600&q=80" alt="The Pomodoro" class="card-img"><h3><a href="https://github.com/shreyamalogi/the-pomodoro" target="_blank">23. The Pomodoro</a><div class="repo-badges"><img src="https://img.shields.io/github/stars/shreyamalogi/the-pomodoro?style=flat-square" alt="Stars"><img src="https://img.shields.io/github/forks/shreyamalogi/the-pomodoro?style=flat-square" alt="Forks"></div></h3><p>Pomodoro timer app.</p><div class="tags"><span class="tag">Tkinter</span><span class="tag">Productivity</span></div></div>
+                    <div class="item-card"><img src="https://images.unsplash.com/photo-1526374965328-7f61d4dc18c5?auto=format&fit=crop&w=600&q=80" alt="URL Shortener" class="card-img"><h3><a href="https://github.com/shreyamalogi/url-shortener" target="_blank">24. URL Shortener</a><div class="repo-badges"><img src="https://img.shields.io/github/stars/shreyamalogi/url-shortener?style=flat-square" alt="Stars"><img src="https://img.shields.io/github/forks/shreyamalogi/url-shortener?style=flat-square" alt="Forks"></div></h3><p>Shortens long URLs.</p><div class="tags"><span class="tag">Python</span><span class="tag">Utilities</span></div></div>
+                    <div class="item-card"><img src="https://images.unsplash.com/photo-1532375810709-75b1da00537c?auto=format&fit=crop&w=600&q=80" alt="Indian Flag" class="card-img"><h3><a href="https://github.com/shreyamalogi/indian-flag" target="_blank">25. Indian Flag</a><div class="repo-badges"><img src="https://img.shields.io/github/stars/shreyamalogi/indian-flag?style=flat-square" alt="Stars"><img src="https://img.shields.io/github/forks/shreyamalogi/indian-flag?style=flat-square" alt="Forks"></div></h3><p>Draws the Indian flag.</p><div class="tags"><span class="tag">Python</span><span class="tag">Python</span></div></div>
+                    <div class="item-card"><img src="https://images.unsplash.com/photo-1514432324607-a09d9b4aefdd?auto=format&fit=crop&w=600&q=80" alt="Coffee Machine" class="card-img"><h3><a href="https://github.com/shreyamalogi/coffee-machine" target="_blank">26. Coffee Machine</a><div class="repo-badges"><img src="https://img.shields.io/github/stars/shreyamalogi/coffee-machine?style=flat-square" alt="Stars"><img src="https://img.shields.io/github/forks/shreyamalogi/coffee-machine?style=flat-square" alt="Forks"></div></h3><p>Coffee machine simulation.</p><div class="tags"><span class="tag">OOP</span><span class="tag">Python</span></div></div>
+                </div>
+            </details>
+
+            <!-- Trainings & Resources (First 6 visible) -->
+            <h3 style="margin: 3rem 0 1rem 0; font-size: 1.5rem;"><i class="fas fa-book-open" style="color: var(--primary-light);"></i> Conducted Comprehensive Trainings & Resources (11 Books)</h3>
+            <p style="color: var(--text-muted); margin-bottom: 1rem;">Provided rigorous technical training and resources resulting in 11 learning paths covering C, C++, Java, Data Structures, Git, and Web Development.</p>
+            
+            <div class="big-heading-banner">
+                <div>
+                    <h4>⭐ 117</h4>
+                    <p>Total Training Stars</p>
+                </div>
+                <div>
+                    <h4>🍴 46</h4>
+                    <p>Total Training Forks</p>
+                </div>
+            </div>
+
+            <div class="card-grid">
+                <div class="item-card">
+                    <img src="https://images.unsplash.com/photo-1556075798-4825dfaaf498?auto=format&fit=crop&w=600&q=80" alt="GitHub Training" class="card-img">
+                    <h3>
+                        <a href="https://github.com/CodeMacrocosm/Github-BOOK" target="_blank">1. GitHub Training</a>
+                        <div class="repo-badges">
+                            <img src="https://img.shields.io/github/stars/CodeMacrocosm/Github-BOOK?style=social" alt="Stars">
+                            <img src="https://img.shields.io/github/forks/CodeMacrocosm/Github-BOOK?style=social" alt="Forks">
+                        </div>
+                    </h3>
+                    <p>Master Git & repo management.</p>
+                    <div class="tags"><span class="tag">Git</span><span class="tag">Version Control</span></div>
+                </div>
+                <div class="item-card">
+                    <img src="https://images.unsplash.com/photo-1542838132-92c53300491e?auto=format&fit=crop&w=600&q=80" alt="Full Stack Development" class="card-img">
+                    <h3>
+                        <a href="https://github.com/CodeMacrocosm/WEBD-BOOK" target="_blank">2. Full Stack Development</a>
+                        <div class="repo-badges">
+                            <img src="https://img.shields.io/github/stars/CodeMacrocosm/WEBD-BOOK?style=social" alt="Stars">
+                            <img src="https://img.shields.io/github/forks/CodeMacrocosm/WEBD-BOOK?style=social" alt="Forks">
+                        </div>
+                    </h3>
+                    <p>Full-stack web dev mastery.</p>
+                    <div class="tags"><span class="tag">Web Dev</span><span class="tag">Full-Stack</span></div>
+                </div>
+                <div class="item-card">
+                    <img src="https://images.unsplash.com/photo-1556075798-4825dfaaf498?auto=format&fit=crop&w=600&q=80" alt="Git Training" class="card-img">
+                    <h3>
+                        <a href="https://github.com/CodeMacrocosm/git-BOOK" target="_blank">3. Git Training</a>
+                        <div class="repo-badges">
+                            <img src="https://img.shields.io/github/stars/CodeMacrocosm/git-BOOK?style=social" alt="Stars">
+                            <img src="https://img.shields.io/github/forks/CodeMacrocosm/git-BOOK?style=social" alt="Forks">
+                        </div>
+                    </h3>
+                    <p>Learn Git fundamentals & branching.</p><div class="tags"><span class="tag">Git</span><span class="tag">CLI</span></div>
+                </div>
+                <div class="item-card">
+                    <img src="https://images.unsplash.com/photo-1507238691740-187a5b1d37b8?auto=format&fit=crop&w=600&q=80" alt="HTML/CSS Training" class="card-img">
+                    <h3>
+                        <a href="https://github.com/CodeMacrocosm/HTMLCSS-BOOK" target="_blank">4. HTML/CSS Training</a>
+                        <div class="repo-badges">
+                            <img src="https://img.shields.io/github/stars/CodeMacrocosm/HTMLCSS-BOOK?style=social" alt="Stars">
+                            <img src="https://img.shields.io/github/forks/CodeMacrocosm/HTMLCSS-BOOK?style=social" alt="Forks">
+                        </div>
+                    </h3>
+                    <p>Build responsive websites.</p><div class="tags"><span class="tag">HTML5</span><span class="tag">CSS3</span></div>
+                </div>
+                <div class="item-card">
+                    <img src="https://images.unsplash.com/photo-1633356122544-f134324a6cee?auto=format&fit=crop&w=600&q=80" alt="React.js Training" class="card-img">
+                    <h3>
+                        <a href="https://github.com/CodeMacrocosm/react.js-BOOK" target="_blank">5. React.js Training</a>
+                        <div class="repo-badges">
+                            <img src="https://img.shields.io/github/stars/CodeMacrocosm/react.js-BOOK?style=social" alt="Stars">
+                            <img src="https://img.shields.io/github/forks/CodeMacrocosm/react.js-BOOK?style=social" alt="Forks">
+                        </div>
+                    </h3>
+                    <p>Dynamic UIs with React.js.</p><div class="tags"><span class="tag">React</span><span class="tag">Frontend</span></div>
+                </div>
+                <div class="item-card">
+                    <img src="https://images.unsplash.com/photo-1515879218367-8466d910aaa4?auto=format&fit=crop&w=600&q=80" alt="C Training" class="card-img">
+                    <h3>
+                        <a href="https://github.com/CodeMacrocosm/C-BOOK" target="_blank">6. C Training</a>
+                        <div class="repo-badges">
+                            <img src="https://img.shields.io/github/stars/CodeMacrocosm/C-BOOK?style=social" alt="Stars">
+                            <img src="https://img.shields.io/github/forks/CodeMacrocosm/C-BOOK?style=social" alt="Forks">
+                        </div>
+                    </h3>
+                    <p>Master C programming basics.</p><div class="tags"><span class="tag">C</span><span class="tag">Programming</span></div>
+                </div>
+            </div>
+
+            <details>
+                <summary>📂 Show Additional Training Books (7 to 11)</summary>
+                <div class="card-grid" style="margin-top: 1rem;">
+                    <div class="item-card">
+                        <img src="https://images.unsplash.com/photo-1555066931-4365d14bab8c?auto=format&fit=crop&w=600&q=80" alt="C++ Training" class="card-img">
+                        <h3>
+                            <a href="https://github.com/CodeMacrocosm/CPP-BOOK" target="_blank">7. C++ Training</a>
+                            <div class="repo-badges">
+                                <img src="https://img.shields.io/github/stars/CodeMacrocosm/CPP-BOOK?style=social" alt="Stars">
+                                <img src="https://img.shields.io/github/forks/CodeMacrocosm/CPP-BOOK?style=social" alt="Forks">
+                            </div>
+                        </h3>
+                        <p>Advanced C++ concepts.</p><div class="tags"><span class="tag">C++</span><span class="tag">OOP</span></div>
+                    </div>
+                    <div class="item-card">
+                        <img src="https://images.unsplash.com/photo-1516321318423-f06f85e504b3?auto=format&fit=crop&w=600&q=80" alt="DSA Basics Training" class="card-img">
+                        <h3>
+                            <a href="https://github.com/CodeMacrocosm/DSA-BOOK" target="_blank">8. DSA Basics Training</a>
+                            <div class="repo-badges">
+                                <img src="https://img.shields.io/github/stars/CodeMacrocosm/DSA-BOOK?style=social" alt="Stars">
+                                <img src="https://img.shields.io/github/forks/CodeMacrocosm/DSA-BOOK?style=social" alt="Forks">
+                            </div>
+                        </h3>
+                        <p>Key data structures & algorithms.</p><div class="tags"><span class="tag">DSA</span><span class="tag">Algorithms</span></div>
+                    </div>
+                    <div class="item-card">
+                        <img src="https://images.unsplash.com/photo-1517694712202-14dd9538aa97?auto=format&fit=crop&w=600&q=80" alt="Java Training" class="card-img">
+                        <h3>
+                            <a href="https://github.com/CodeMacrocosm/JAVA-BOOK" target="_blank">9. Java Training</a>
+                            <div class="repo-badges">
+                                <img src="https://img.shields.io/github/stars/CodeMacrocosm/JAVA-BOOK?style=social" alt="Stars">
+                                <img src="https://img.shields.io/github/forks/CodeMacrocosm/JAVA-BOOK?style=social" alt="Forks">
+                            </div>
+                        </h3>
+                        <p>Java programming essentials.</p><div class="tags"><span class="tag">Java</span><span class="tag">Enterprise</span></div>
+                    </div>
+                    <div class="item-card">
+                        <img src="https://images.unsplash.com/photo-1509228468518-180dd4864904?auto=format&fit=crop&w=600&q=80" alt="Python for Kids" class="card-img">
+                        <h3>
+                            <a href="https://github.com/CodeMacrocosm/Python-Training" target="_blank">10. Python for Kids</a>
+                            <div class="repo-badges">
+                                <img src="https://img.shields.io/github/stars/CodeMacrocosm/Python-Training?style=social" alt="Stars">
+                                <img src="https://img.shields.io/github/forks/CodeMacrocosm/Python-Training?style=social" alt="Forks">
+                            </div>
+                        </h3>
+                        <p>Python for kids (ages 7-12).</p><div class="tags"><span class="tag">Python</span><span class="tag">Education</span></div>
+                    </div>
+                    <div class="item-card">
+                        <img src="https://images.unsplash.com/photo-1551288049-bebda4e38f71?auto=format&fit=crop&w=600&q=80" alt="Data Analysis" class="card-img">
+                        <h3>
+                            <a href="https://github.com/CodeMacrocosm/Data-Analytics-Training" target="_blank">11. Data Analysis</a>
+                            <div class="repo-badges">
+                                <img src="https://img.shields.io/github/stars/CodeMacrocosm/Data-Analytics-Training?style=social" alt="Stars">
+                                <img src="https://img.shields.io/github/forks/CodeMacrocosm/Data-Analytics-Training?style=social" alt="Forks">
+                            </div>
+                        </h3>
+                        <p>Complete data analysis guide.</p><div class="tags"><span class="tag">Analytics</span><span class="tag">Pandas</span></div>
+                    </div>
+                </div>
+            </details>
+
+            <!-- Workshops (First 6 visible) -->
+            <h3 style="margin: 3rem 0 1rem 0; font-size: 1.5rem;"><i class="fas fa-microphone-alt" style="color: var(--accent);"></i> Tech Seminars & Workshops (12 Executed)</h3>
+            <p style="color: var(--text-muted); margin-bottom: 1rem;">Curated and executed 12 engaging workshops presenting diverse technical topics to audiences worldwide.</p>
+
+            <div class="card-grid">
+                <div class="item-card">
+                    <img src="https://images.unsplash.com/photo-1531482615713-2afd69097998?auto=format&fit=crop&w=600&q=80" alt="Workshop 1" class="card-img">
+                    <h3>1. 🚀 GitHub Hello-World Workshop</h3>
+                    <p>A Step-by-Step Guide to Getting Started.</p>
+                    <div class="tags"><span class="tag">Workshop</span><span class="tag">Git</span></div>
+                </div>
+                <div class="item-card">
+                    <img src="https://images.unsplash.com/photo-1522071820081-009f0129c71c?auto=format&fit=crop&w=600&q=80" alt="Workshop 2" class="card-img">
+                    <h3>2. 🎉 Hacktoberfest 2021 Workshop</h3>
+                    <p>CodeMacrocosm Open Source Contribution Demo.</p>
+                    <div class="tags"><span class="tag">Open Source</span><span class="tag">Community</span></div>
+                </div>
+                <div class="item-card">
+                    <img src="https://images.unsplash.com/photo-1581291518633-83b4ebd1d83e?auto=format&fit=crop&w=600&q=80" alt="Workshop 3" class="card-img">
+                    <h3>3. 🔧 Setup Training Workshop</h3>
+                    <p>Tools Installation Guide.</p><div class="tags"><span class="tag">Tools</span><span class="tag">Setup</span></div>
+                </div>
+                <div class="item-card">
+                    <img src="https://images.unsplash.com/photo-1517245386807-bb43f82c33c4?auto=format&fit=crop&w=600&q=80" alt="Workshop 4" class="card-img">
+                    <h3>4. 🎯 Placement Preparation Seminar</h3>
+                    <p>Ace Your Job Search.</p><div class="tags"><span class="tag">Career</span><span class="tag">Placement</span></div>
+                </div>
+                <div class="item-card">
+                    <img src="https://images.unsplash.com/photo-1454165804606-c3d57bc86b40?auto=format&fit=crop&w=600&q=80" alt="Workshop 5" class="card-img">
+                    <h3>5. 📚 Technical Placement Seminar</h3>
+                    <p>Coursemap.</p><div class="tags"><span class="tag">Curriculum</span><span class="tag">Guide</span></div>
+                </div>
+                <div class="item-card">
+                    <img src="https://images.unsplash.com/photo-1531403009284-440f080d1e12?auto=format&fit=crop&w=600&q=80" alt="Workshop 6" class="card-img">
+                    <h3>6. 🎉 Hacktoberfest 2022 Workshop</h3>
+                    <p>Contribution Demo.</p><div class="tags"><span class="tag">Open Source</span><span class="tag">PRs</span></div>
+                </div>
+            </div>
+
+            <details>
+                <summary>📂 Show Additional Workshops (7 to 12)</summary>
+                <div class="card-grid" style="margin-top: 1rem;">
+                    <div class="item-card"><img src="https://images.unsplash.com/photo-1508962914676-134849a727f0?auto=format&fit=crop&w=600&q=80" alt="Workshop 7" class="card-img"><h3>7. 🚗 Google Driverless Cars Seminar</h3><p>Autonomous Technology.</p><div class="tags"><span class="tag">AI</span><span class="tag">Autonomous</span></div></div>
+                    <div class="item-card"><img src="https://images.unsplash.com/photo-1573164713988-8665fc963095?auto=format&fit=crop&w=600&q=80" alt="Workshop 8" class="card-img"><h3>8. 👩‍💻 Frontend Dev Week Workshop</h3><p>Beginner girls coaching.</p><div class="tags"><span class="tag">Frontend</span><span class="tag">Mentorship</span></div></div>
+                    <div class="item-card"><img src="https://images.unsplash.com/photo-1515187029135-18ee286d815b?auto=format&fit=crop&w=600&q=80" alt="Workshop 9" class="card-img"><h3>9. 🎉 Hacktoberfest 2023 Workshop</h3><p>Contribution Demo.</p><div class="tags"><span class="tag">Open Source</span><span class="tag">Git</span></div></div>
+                    <div class="item-card"><img src="https://images.unsplash.com/photo-1522071820081-009f0129c71c?auto=format&fit=crop&w=600&q=80" alt="Workshop 10" class="card-img"><h3>10. 🎉 Hacktoberfest 2024 Workshop</h3><p>Contribution Demo.</p><div class="tags"><span class="tag">Open Source</span><span class="tag">Collaboration</span></div></div>
+                    <div class="item-card"><img src="https://images.unsplash.com/photo-1485827404703-89b55fcc595e?auto=format&fit=crop&w=600&q=80" alt="Workshop 11" class="card-img"><h3>11. 🤖 ML Algorithms Seminar</h3><p>Machine learning concepts.</p><div class="tags"><span class="tag">Machine Learning</span><span class="tag">AI</span></div></div>
+                    <div class="item-card"><img src="https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe?auto=format&fit=crop&w=600&q=80" alt="Workshop 12" class="card-img"><h3>12. 🧠 GEN AI Seminar</h3><p>Generative AI & Prompt Engineering.</p><div class="tags"><span class="tag">GenAI</span><span class="tag">Prompts</span></div></div>
+                </div>
+            </details>
+        </section>
+
+        <!-- DATA SCIENCE & BIG DATA PORTFOLIO -->
+        <section id="page-datascience" class="page-section">
+            <h2 class="section-title"><i class="fas fa-brain" style="color: var(--primary-light);"></i> Shreya Malogi's Data Science & Big Data Portfolio</h2>
+            <p class="section-desc">Specialized in predictive modeling, large-scale ETL pipelines, machine learning engineering, and computer vision systems processing millions of records.</p>
+            
+            <div class="card-grid">
+                <div class="item-card">
+                    <img src="https://images.unsplash.com/photo-1551288049-bebda4e38f71?auto=format&fit=crop&w=600&q=80" alt="DS 1" class="card-img">
+                    <h3>
+                        <a href="https://github.com/shreyamalogi/Industrial-Demand-Forecasting-Pipeline" target="_blank">1. Industrial Demand Forecasting Pipeline</a>
+                        <div class="repo-badges"><img src="https://img.shields.io/github/stars/shreyamalogi/Industrial-Demand-Forecasting-Pipeline?style=social" alt="Stars"></div>
+                    </h3>
+                    <p>Processed 15M transactions. Optimized memory by 70% via custom downcasting and implemented Tweedie-LightGBM to solve zero-inflation in retail time-series.</p>
+                    <div class="tags"><span class="tag">LightGBM</span><span class="tag">Time Series</span></div>
+                </div>
+                <div class="item-card">
+                    <img src="https://images.unsplash.com/photo-1460925895917-afdab827c52f?auto=format&fit=crop&w=600&q=80" alt="DS 2" class="card-img">
+                    <h3>
+                        <a href="https://github.com/shreyamalogi/Retail-Data-Engineering-Pipeline" target="_blank">2. Retail Data Engineering Pipeline</a>
+                        <div class="repo-badges"><img src="https://img.shields.io/github/stars/shreyamalogi/Retail-Data-Engineering-Pipeline?style=social" alt="Stars"></div>
+                    </h3>
+                    <p>Scalable ETL Pipeline: Processing 5M+ retail records with PySpark on GCP Dataproc. Automated extraction of global KPIs and consumer trends.</p>
+                    <div class="tags"><span class="tag">PySpark</span><span class="tag">GCP</span></div>
+                </div>
+                <div class="item-card">
+                    <img src="https://images.unsplash.com/photo-1526374965328-7f61d4dc18c5?auto=format&fit=crop&w=600&q=80" alt="DS 3" class="card-img">
+                    <h3>
+                        <a href="https://github.com/shreyamalogi/Amazon-BigData-Verified-Review-Classifier" target="_blank">3. Amazon BigData Review Classifier</a>
+                        <div class="repo-badges"><img src="https://img.shields.io/github/stars/shreyamalogi/Amazon-BigData-Verified-Review-Classifier?style=social" alt="Stars"></div>
+                    </h3>
+                    <p>Scalable Trust-Signal Detection: Big Data pipeline using PySpark and GCP Dataproc to classify 8GB+ of Amazon reviews with Random Forest.</p>
+                    <div class="tags"><span class="tag">PySpark</span><span class="tag">Random Forest</span></div>
+                </div>
+                <div class="item-card">
+                    <img src="https://images.unsplash.com/photo-1551836022-d5d88e9218df?auto=format&fit=crop&w=600&q=80" alt="DS 4" class="card-img">
+                    <h3>
+                        <a href="https://github.com/shreyamalogi/Predictive-HR-Intelligence-Analytics" target="_blank">4. Predictive HR Intelligence Analytics</a>
+                        <div class="repo-badges"><img src="https://img.shields.io/github/stars/shreyamalogi/Predictive-HR-Intelligence-Analytics?style=social" alt="Stars"></div>
+                    </h3>
+                    <p>A Strategic HR Intelligence Workspace leveraging Behavioral Analytics to predict employee attrition. Features a flight-risk engine analyzing retention.</p>
+                    <div class="tags"><span class="tag">Analytics</span><span class="tag">Machine Learning</span></div>
+                </div>
+                <div class="item-card">
+                    <img src="https://images.unsplash.com/photo-1504868584819-f8e8b4b6d7e3?auto=format&fit=crop&w=600&q=80" alt="DS 5" class="card-img">
+                    <h3>
+                        <a href="https://github.com/shreyamalogi/Retail-Sales-Intelligence-Dashboard" target="_blank">5. Retail Sales Intelligence Dashboard</a>
+                        <div class="repo-badges"><img src="https://img.shields.io/github/stars/shreyamalogi/Retail-Sales-Intelligence-Dashboard?style=social" alt="Stars"></div>
+                    </h3>
+                    <p>Business Impact: Architected a multi-branch retail performance dashboard tracking Total Sales, Gross Income, and Tax (5%) across product categories.</p>
+                    <div class="tags"><span class="tag">Dashboard</span><span class="tag">Business Intelligence</span></div>
+                </div>
+                <div class="item-card">
+                    <img src="https://images.unsplash.com/photo-1576091160399-112ba8d25d1d?auto=format&fit=crop&w=600&q=80" alt="DS 6" class="card-img">
+                    <h3>
+                        <a href="https://github.com/shreyamalogi/Multi-Domain-CV-Intelligence-Workspace" target="_blank">6. Multi-Domain CV Intelligence Workspace</a>
+                        <div class="repo-badges"><img src="https://img.shields.io/github/stars/shreyamalogi/Multi-Domain-CV-Intelligence-Workspace?style=social" alt="Stars"></div>
+                    </h3>
+                    <p>A high-precision Computer Vision workspace featuring ReUNet for medical segmentation and MobileNetV2 for AgTech classification.</p>
+                    <div class="tags"><span class="tag">Computer Vision</span><span class="tag">ReUNet</span></div>
+                </div>
+            </div>
+
+            <details>
+                <summary>📂 Show Additional Data Science Projects (7 to 9)</summary>
+                <div class="card-grid" style="margin-top: 1rem;">
+                    <div class="item-card"><img src="https://images.unsplash.com/photo-1507679799987-c73779587ccf?auto=format&fit=crop&w=600&q=80" alt="Biometric Attendance Engine" class="card-img"><h3><a href="https://github.com/shreyamalogi/Biometric-Attendance-Engine" target="_blank">7. Biometric Attendance Engine</a><div class="repo-badges"><img src="https://img.shields.io/github/stars/shreyamalogi/Biometric-Attendance-Engine?style=social" alt="Stars"></div></h3><p>Real-time face recognition system using HOG encodings and Dlib landmarks.</p><div class="tags"><span class="tag">OpenCV</span><span class="tag">Face Recognition</span></div></div>
+                    <div class="item-card"><img src="https://images.unsplash.com/photo-1541872703-74c5e44368f9?auto=format&fit=crop&w=600&q=80" alt="Mushroom Classification Analytics" class="card-img"><h3><a href="https://github.com/shreyamalogi/Mushroom-Classification-Predictive-Analytics" target="_blank">8. Mushroom Classification Analytics</a><div class="repo-badges"><img src="https://img.shields.io/github/stars/shreyamalogi/Mushroom-Classification-Predictive-Analytics?style=social" alt="Stars"></div></h3><p>High-precision predictive classification achieving 100% accuracy using Random Forest & XGBoost.</p><div class="tags"><span class="tag">XGBoost</span><span class="tag">Classification</span></div></div>
+                    <div class="item-card"><img src="https://images.unsplash.com/photo-1488646953014-85cb44e25828?auto=format&fit=crop&w=600&q=80" alt="Intelligent Travel Recommendation Engine" class="card-img"><h3><a href="https://github.com/shreyamalogi/Personalized-travel-planning-system" target="_blank">9. Intelligent Travel Recommendation Engine</a><div class="repo-badges"><img src="https://img.shields.io/github/stars/shreyamalogi/Personalized-travel-planning-system?style=social" alt="Stars"></div></h3><p>Using TF-IDF Vectorization and KNN to predict optimal tourist destinations.</p><div class="tags"><span class="tag">KNN</span><span class="tag">Recommendation System</span></div></div>
+                </div>
+            </details>
+        </section>
+
+        <!-- SOFTWARE DEVELOPER PORTFOLIO -->
+        <section id="page-developer" class="page-section">
+            <h2 class="section-title"><i class="fas fa-laptop-code" style="color: var(--primary-light);"></i> Shreya Malogi's Software Developer Portfolio</h2>
+            <p class="section-desc">All my projects feature meticulously structured documentation, project files readily available in the repository, a breakdown of the tech stack used, a succinct problem statement, and setup instructions.</p>
+            
+            <div class="stats-grid" style="grid-template-columns: 1fr;">
+                <div class="stat-card">
+                    <h3>⭐ 152</h3>
+                    <p>Total GitHub Stats</p>
+                </div>
+            </div>
+
+            <div class="card-grid">
+                <div class="item-card">
+                    <img src="https://images.unsplash.com/photo-1540350394557-8d14678e7f91?auto=format&fit=crop&w=600&q=80" alt="Dev 1" class="card-img">
+                    <h3>
+                        <a href="https://github.com/shreyamalogi/todolist-app" target="_blank">1. Task Management App</a>
+                        <div class="repo-badges"><img src="https://img.shields.io/github/stars/shreyamalogi/todolist-app?style=social" alt="Stars"></div>
+                    </h3>
+                    <p>A full-stack task management app with features like adding, editing, and deleting tasks.</p>
+                    <div class="tags"><span class="tag">Full-Stack</span><span class="tag">Node.js</span></div>
+                </div>
+                <div class="item-card">
+                    <img src="https://images.unsplash.com/photo-1555949963-ff9fe0c870eb?auto=format&fit=crop&w=600&q=80" alt="Dev 2" class="card-img">
+                    <h3>
+                        <a href="https://github.com/shreyamalogi/secret-key-web-app" target="_blank">2. Full-Stack Authentication App</a>
+                        <div class="repo-badges"><img src="https://img.shields.io/github/stars/shreyamalogi/secret-key-web-app?style=social" alt="Stars"></div>
+                    </h3>
+                    <p>A secure authentication system with login, registration, and session management.</p>
+                    <div class="tags"><span class="tag">Authentication</span><span class="tag">Passport.js</span></div>
+                </div>
+                <div class="item-card">
+                    <img src="https://images.unsplash.com/photo-1517841905240-472988babdf9?auto=format&fit=crop&w=600&q=80" alt="Google Keep Clone" class="card-img">
+                    <h3>
+                        <a href="https://github.com/shreyamalogi/Google-Keep-Clone" target="_blank">3. Google Keep Clone</a>
+                        <div class="repo-badges"><img src="https://img.shields.io/github/stars/shreyamalogi/Google-Keep-Clone?style=social" alt="Stars"></div>
+                    </h3>
+                    <p>Note-taking app with user-friendly interface.</p><div class="tags"><span class="tag">React</span><span class="tag">Frontend</span></div>
+                </div>
+                <div class="item-card">
+                    <img src="https://images.unsplash.com/photo-1556910103-1c02745aae4d?auto=format&fit=crop&w=600&q=80" alt="Gourmet Recipe Hub" class="card-img">
+                    <h3>
+                        <a href="https://github.com/5hre9a/recipe-app" target="_blank">4. Gourmet Recipe Hub</a>
+                        <div class="repo-badges"><img src="https://img.shields.io/github/stars/5hre9a/recipe-app?style=social" alt="Stars"></div>
+                    </h3>
+                    <p>Recipe app searching recipes via Edamam API.</p><div class="tags"><span class="tag">React</span><span class="tag">API Integration</span></div>
+                </div>
+                <div class="item-card">
+                    <img src="https://images.unsplash.com/photo-1544716278-ca5e3f4abd8c?auto=format&fit=crop&w=600&q=80" alt="WikiDB Rest API" class="card-img">
+                    <h3>
+                        <a href="https://github.com/shreyamalogi/REST-API" target="_blank">5. WikiDB Rest API</a>
+                        <div class="repo-badges"><img src="https://img.shields.io/github/stars/shreyamalogi/REST-API?style=social" alt="Stars"></div>
+                    </h3>
+                    <p>RESTful API for managing Wikipedia-like articles.</p><div class="tags"><span class="tag">REST API</span><span class="tag">Node.js</span></div>
+                </div>
+                <div class="item-card">
+                    <img src="https://images.unsplash.com/photo-1596526131083-e8c633c948d2?auto=format&fit=crop&w=600&q=80" alt="Email Aggregator" class="card-img">
+                    <h3>
+                        <a href="https://github.com/shreyamalogi/Email-Aggregator" target="_blank">6. Email Aggregator</a>
+                        <div class="repo-badges"><img src="https://img.shields.io/github/stars/shreyamalogi/Email-Aggregator?style=social" alt="Stars"></div>
+                    </h3>
+                    <p>Backend app to aggregate email campaigns via Mailchimp API.</p><div class="tags"><span class="tag">Backend</span><span class="tag">Mailchimp</span></div>
+                </div>
+            </div>
+
+            <details>
+                <summary>📂 Show Additional Developer Projects (7 to 11)</summary>
+                <div class="card-grid" style="margin-top: 1rem;">
+                    <div class="item-card"><img src="https://images.unsplash.com/photo-1589254065878-42c9da997008?auto=format&fit=crop&w=600&q=80" alt="Zac-My Virtual Assistant" class="card-img"><h3><a href="https://github.com/5hre9a/ZAC" target="_blank">7. Zac-My Virtual Assistant</a><div class="repo-badges"><img src="https://img.shields.io/github/stars/5hre9a/ZAC?style=social" alt="Stars"></div></h3><p>Virtual assistant with voice interaction.</p><div class="tags"><span class="tag">Voice Interaction</span><span class="tag">Python</span></div></div>
+                    <div class="item-card"><img src="https://images.unsplash.com/photo-1506157786151-b8491531f063?auto=format&fit=crop&w=600&q=80" alt="Road Lane Detection" class="card-img"><h3><a href="https://github.com/shreyamalogi/Road-Lane-Detection" target="_blank">8. Road Lane Detection</a><div class="repo-badges"><img src="https://img.shields.io/github/stars/shreyamalogi/Road-Lane-Detection?style=social" alt="Stars"></div></h3><p>Lane detection using computer vision.</p><div class="tags"><span class="tag">Computer Vision</span><span class="tag">OpenCV</span></div></div>
+                    <div class="item-card"><img src="https://images.unsplash.com/photo-1611996575749-79a3a250f948?auto=format&fit=crop&w=600&q=80" alt="XOXO Game" class="card-img"><h3><a href="https://github.com/5hre9a/XOXO-game" target="_blank">9. XOXO Game</a><div class="repo-badges"><img src="https://img.shields.io/github/stars/5hre9a/XOXO-game?style=social" alt="Stars"></div></h3><p>AI-powered Tic-Tac-Toe game using minimax.</p><div class="tags"><span class="tag">Minimax AI</span><span class="tag">Game Dev</span></div></div>
+                    <div class="item-card"><img src="https://images.unsplash.com/photo-1563986768609-322da13575f3?auto=format&fit=crop&w=600&q=80" alt="Credit Card Fraud Detection" class="card-img"><h3><a href="https://github.com/shreyamalogi/Credit-Card-Fraud-Detection-System" target="_blank">10. Credit Card Fraud Detection</a><div class="repo-badges"><img src="https://img.shields.io/github/stars/shreyamalogi/Credit-Card-Fraud-Detection-System?style=social" alt="Stars"></div></h3><p>System for detecting fraudulent transactions.</p><div class="tags"><span class="tag">Java EE</span><span class="tag">Security</span></div></div>
+                    <div class="item-card"><img src="https://images.unsplash.com/photo-1531482615713-2afd69097998?auto=format&fit=crop&w=600&q=80" alt="SoulCare Bot" class="card-img"><h3><a href="https://github.com/shreyamalogi/SoulCare-Bot" target="_blank">11. SoulCare Bot</a><div class="repo-badges"><img src="https://img.shields.io/github/stars/shreyamalogi/SoulCare-Bot?style=social" alt="Stars"></div></h3><p>Mental health support chatbot via NLP.</p><div class="tags"><span class="tag">NLP</span><span class="tag">Chatbot</span></div></div>
+                </div>
+            </details>
+
+            <div style="margin-top: 2rem; background: var(--card-bg); padding: 1.5rem; border-radius: 14px; border: 1px solid var(--card-border);">
+                <h4 style="margin-bottom: 0.5rem; color: var(--primary-light);">Open-Source Contributions</h4>
+                <p>Contributed to: <a href="https://github.com/prathimacode-hub/Awesome_Python_Scripts" target="_blank" style="color: var(--primary-light); text-decoration: none;">Awesome Python Scripts</a> &bull; <a href="https://github.com/Tejas1510/Hacking-Scripts" target="_blank" style="color: var(--primary-light); text-decoration: none;">Hacking Scripts</a></p>
+            </div>
+        </section>
+
+        <!-- CREATIVE PORTFOLIO -->
+        <section id="page-creative" class="page-section">
+            <h2 class="section-title"><i class="fas fa-palette" style="color: var(--primary-light);"></i> Shreya Malogi's Creative Portfolio</h2>
+            <p class="section-desc"><strong>Creative professional with proven success in graphic design, video editing, and digital marketing (1+ year of experience).</strong> 🚀 Bringing ideas to life through 300+ design projects and 500+ videos across diverse platforms. 🎨</p>
+            
+            <div class="stats-grid">
+                <div class="stat-card">
+                    <h3>300+</h3>
+                    <p>Graphic Design Projects</p>
+                </div>
+                <div class="stat-card">
+                    <h3>500+</h3>
+                    <p>Videos Created & Marketed</p>
+                </div>
+            </div>
+
+            <div class="card-grid">
+                <div class="item-card">
+                    <img src="https://images.unsplash.com/photo-1626785774573-4b799315345d?auto=format&fit=crop&w=600&q=80" alt="Graphic Design" class="card-img">
+                    <h3>1. 🎨 Graphic Design & Highlights</h3>
+                    <p>300+ projects including brand identities, social media posts, and marketing materials.<br><br>
+                    <strong>Notable Clients:</strong><br>
+                    &bull; <a href="https://www.instagram.com/codemacrocosm/" target="_blank">CodeMacrocosm Instagram</a><br>
+                    &bull; <a href="https://www.instagram.com/kamalafarms/" target="_blank">Kamala Farms Instagram</a><br>
+                    &bull; <a href="https://www.instagram.com/emagz_stmarys/" target="_blank">St. Mary’s Magz Instagram</a><br>
+                    &bull; <a href="https://drive.google.com/file/d/1EyfPf2rjzpQgn1CM4z82vSdLd76Ip5sn/view?usp=sharing" target="_blank">Shreya Entrepreneur Portfolio</a></p>
+                    <div class="tags"><span class="tag">Canva</span><span class="tag">Brand Identity</span></div>
+                </div>
+                <div class="item-card">
+                    <img src="https://images.unsplash.com/photo-1574717024653-61fd2cf4d44d?auto=format&fit=crop&w=600&q=80" alt="Video Editing" class="card-img">
+                    <h3>2. 🎬 Video Editing & Digital Marketing</h3>
+                    <p>1+ year of experience creating and marketing 500+ videos.<br><br>
+                    &bull; <a href="https://www.youtube.com/@kamalafarms" target="_blank">@kamalafarms YouTube</a>: 250+ videos, 20K+ views in 9 months.<br>
+                    &bull; <a href="https://www.youtube.com/@5hre9a" target="_blank">@5hre9a YouTube</a>: CMV albums, AMVs, soundtracks.</p>
+                    <div class="tags"><span class="tag">Video Editing</span><span class="tag">Digital Marketing</span></div>
+                </div>
+            </div>
+
+            <div style="margin-top: 3rem;">
+                <h3 style="margin-bottom: 0.5rem; font-size: 1.5rem;"><i class="fas fa-globe-americas" style="color: var(--accent);"></i> Global Explorer & Travel Experience</h3>
+                <p style="color: var(--text-muted); font-size: 0.95rem; margin-bottom: 1rem;">Globally traveled and experienced across 9 countries worldwide:</p>
+                
+                <div class="flags-grid">
+                    <div class="flag-card">🇮🇳 India</div>
+                    <div class="flag-card">🇩🇪 Germany</div>
+                    <div class="flag-card">🇮🇹 Italy</div>
+                    <div class="flag-card">🇦🇹 Austria</div>
+                    <div class="flag-card">🇱🇺 Luxembourg</div>
+                    <div class="flag-card">🇵🇱 Poland</div>
+                    <div class="flag-card">🇨🇿 Prague (Czechia)</div>
+                    <div class="flag-card">🇹🇷 Turkey</div>
+                    <div class="flag-card">🇫🇷 France</div>
+                </div>
+            </div>
+        </section>
+
+        <!-- PROFILE -->
+        <section id="page-volunteering" class="page-section">
+            <h2 class="section-title"><i class="fas fa-id-card" style="color: var(--primary-light);"></i> Profile</h2>
+            <p class="section-desc">A comprehensive view of my community leadership, open-source mentoring, academic background, certifications, languages, and competitive accolades.</p>
+            
+            <!-- Education -->
+            <h3 style="margin: 1.5rem 0 1rem 0; font-size: 1.5rem;"><i class="fas fa-graduation-cap" style="color: var(--accent);"></i> Education</h3>
+            <div class="card-grid" style="margin-bottom: 3rem;">
+                <div class="item-card">
+                    <div class="card-img" style="background: linear-gradient(135deg, #0284c7, #06b6d4); display: flex; align-items: center; justify-content: center; font-size: 2.5rem; color: white;"><i class="fas fa-university"></i></div>
+                    <h3>Jawaharlal Nehru Technological University</h3>
+                    <p><strong>Bachelor of Technology (BTech), Computer Science and Engineering</strong><br>Aug 2019 – Jul 2023</p>
+                    <div class="tags"><span class="tag">BTech</span><span class="tag">CSE</span></div>
+                </div>
+                <div class="item-card">
+                    <div class="card-img" style="background: linear-gradient(135deg, #10b981, #059669); display: flex; align-items: center; justify-content: center; font-size: 2.5rem; color: white;"><i class="fas fa-school"></i></div>
+                    <h3>Sri Chaitanya College of Education</h3>
+                    <p><strong>Intermediate (High School), MPC</strong><br>Jun 2017 – May 2019</p>
+                    <div class="tags"><span class="tag">High School</span><span class="tag">MPC</span></div>
+                </div>
+                <div class="item-card">
+                    <div class="card-img" style="background: linear-gradient(135deg, #8b5cf6, #c084fc); display: flex; align-items: center; justify-content: center; font-size: 2.5rem; color: white;"><i class="fas fa-book-reader"></i></div>
+                    <h3>Rosary Convent High School</h3>
+                    <p><strong>Secondary School</strong><br>Jun 2006 – Apr 2017</p>
+                    <div class="tags"><span class="tag">Schooling</span></div>
+                </div>
+            </div>
+
+            <!-- Certifications -->
+            <h3 style="margin: 2rem 0 1rem 0; font-size: 1.5rem;"><i class="fas fa-certificate" style="color: var(--accent);"></i> Certifications & Virtual Internships</h3>
+            <div class="card-grid" style="margin-bottom: 3rem;">
+                <div class="item-card">
+                    <h3>Technology Consulting <span style="font-size:0.8rem; color:var(--text-muted);">Deloitte</span></h3>
+                    <p><strong>Virtual Internship</strong><br>Issued Dec 2020</p>
+                    <div class="tags"><span class="tag">Consulting</span><span class="tag">Deloitte</span></div>
+                </div>
+                <div class="item-card">
+                    <h3>Scrum Foundation Professional Certificate - SFPC <span style="font-size:0.8rem; color:var(--text-muted);">Certiprof</span></h3>
+                    <p><strong>Certification Exam</strong><br>Issued Dec 2020</p>
+                    <div class="tags"><span class="tag">Agile</span><span class="tag">Scrum</span></div>
+                </div>
+                <div class="item-card">
+                    <h3>Fundamentals of Digital Marketing <span style="font-size:0.8rem; color:var(--text-muted);">Google</span></h3>
+                    <p><strong>Certification Exam</strong><br>Issued Dec 2020</p>
+                    <div class="tags"><span class="tag">Marketing</span><span class="tag">Google</span></div>
+                </div>
+            </div>
+
+            <!-- Volunteering & Experience -->
+            <h3 style="margin: 2rem 0 1rem 0; font-size: 1.5rem;"><i class="fas fa-hands-helping" style="color: var(--accent);"></i> Volunteering Experience</h3>
+            <div class="card-grid">
+                <div class="item-card">
+                    <div class="card-img" style="background: linear-gradient(135deg, #0284c7, #06b6d4); display: flex; align-items: center; justify-content: center; font-size: 2.5rem; color: white;"><i class="fas fa-graduation-cap"></i></div>
+                    <h3>Microsoft Learn Alpha Student Ambassador <span style="font-size:0.8rem; color:var(--text-muted);">Microsoft</span></h3>
+                    <p><strong>Jan 2021 - Jun 2021 (6 mos)</strong><br>Active community leadership and educational advocacy as an Alpha MLSA.</p>
+                    <div class="tags"><span class="tag">Education</span><span class="tag">Microsoft</span></div>
+                </div>
+
+                <div class="item-card">
+                    <div class="card-img" style="background: linear-gradient(135deg, #10b981, #059669); display: flex; align-items: center; justify-content: center; font-size: 2.5rem; color: white;"><i class="fas fa-pen-nib"></i></div>
+                    <h3>Founder & Editor-in-Chief <span style="font-size:0.8rem; color:var(--text-muted);">SMMagz</span></h3>
+                    <p><strong>Aug 2020 - Oct 2020 (3 mos)</strong><br>Pioneered SMGOI's 2-month digital magazine fest as Chief Executive Editor, overseeing curation, editorial leadership, coordination, engagement, design, and outreach.</p>
+                    <div class="tags"><span class="tag">Arts & Culture</span><span class="tag">Editorial</span></div>
+                </div>
+
+                <div class="item-card">
+                    <div class="card-img" style="background: linear-gradient(135deg, #f43f5e, #fb7185); display: flex; align-items: center; justify-content: center; font-size: 2.5rem; color: white;"><i class="fab fa-youtube"></i></div>
+                    <h3>YouTube Creator <span style="font-size:0.8rem; color:var(--text-muted);">Stargirl 5hre9a || Heavenly Horizons</span></h3>
+                    <p><strong>May 2017 - Mar 2025 (7 yrs 11 mos)</strong><br>Content creation, creative direction, and digital brand building across YouTube and Instagram.</p>
+                    <div class="tags"><span class="tag">Creator</span><span class="tag">Arts & Culture</span></div>
+                </div>
+
+                <div class="item-card">
+                    <div class="card-img" style="background: linear-gradient(135deg, #8b5cf6, #c084fc); display: flex; align-items: center; justify-content: center; font-size: 2.5rem; color: white;"><i class="fas fa-code-branch"></i></div>
+                    <h3>Open Source Developer (Mentor) <span style="font-size:0.8rem; color:var(--text-muted);">GirlScript Winter of Contributing</span></h3>
+                    <p><strong>Sep 2021 - Nov 2021 (3 mos)</strong><br>Mentored contributors during GWOC '21, reviewing code and supporting open-source development.</p>
+                    <div class="tags"><span class="tag">Open Source</span><span class="tag">Mentorship</span></div>
+                </div>
+
+                <div class="item-card">
+                    <div class="card-img" style="background: linear-gradient(135deg, #3b82f6, #60a5fa); display: flex; align-items: center; justify-content: center; font-size: 2.5rem; color: white;"><i class="fas fa-laptop-code"></i></div>
+                    <h3>Open Source Developer <span style="font-size:0.8rem; color:var(--text-muted);">LetsGrowMore</span></h3>
+                    <p><strong>Jun 2021 - Aug 2021 (3 mos)</strong><br>Implemented modular code structures for open-source web and data projects.</p>
+                    <div class="tags"><span class="tag">Web Dev</span><span class="tag">Modular Code</span></div>
+                </div>
+
+                <div class="item-card">
+                    <div class="card-img" style="background: linear-gradient(135deg, #ec4899, #f43f5e); display: flex; align-items: center; justify-content: center; font-size: 2.5rem; color: white;"><i class="fab fa-python"></i></div>
+                    <h3>Open Source Python Developer <span style="font-size:0.8rem; color:var(--text-muted);">Social Winter of Code (SWOC)</span></h3>
+                    <p><strong>Dec 2020 - Feb 2021 (3 mos)</strong><br>Contributed to Python-based automation scripts and data processing modules.</p>
+                    <div class="tags"><span class="tag">Python</span><span class="tag">Automation</span></div>
+                </div>
+
+                <div class="item-card">
+                    <div class="card-img" style="background: linear-gradient(135deg, #f59e0b, #fbbf24); display: flex; align-items: center; justify-content: center; font-size: 2.5rem; color: white;"><i class="fas fa-globe"></i></div>
+                    <h3>Global Ambassador <span style="font-size:0.8rem; color:var(--text-muted);">WomenTech Network</span></h3>
+                    <p><strong>Dec 2020 - Feb 2021 (3 mos)</strong><br>Representing and building a global network for women in tech.</p>
+                    <div class="tags"><span class="tag">Community</span><span class="tag">Diversity</span></div>
+                </div>
+
+                <div class="item-card">
+                    <div class="card-img" style="background: linear-gradient(135deg, #6366f1, #818cf8); display: flex; align-items: center; justify-content: center; font-size: 2.5rem; color: white;"><i class="fas fa-chart-line"></i></div>
+                    <h3>Marketing and Research Intern <span style="font-size:0.8rem; color:var(--text-muted);">3G Institute of Research and Policy Studies</span></h3>
+                    <p><strong>Nov 2020 - Jan 2021 (3 mos)</strong><br>Conducted strategic market research and outreach initiatives.</p>
+                    <div class="tags"><span class="tag">Research</span><span class="tag">Marketing</span></div>
+                </div>
+            </div>
+
+            <!-- Accolades & Badges -->
+            <h3 style="margin: 3rem 0 1rem 0; font-size: 1.5rem;"><i class="fas fa-trophy" style="color: var(--accent);"></i> Accolades, Milestones & Language Skills</h3>
+            <div class="card-grid" style="grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));">
+                <div class="stat-card" style="text-align: left; padding: 1.5rem;">
+                    <h3 style="font-size: 1.4rem; margin-bottom: 0.5rem;">⭐ 1200+ Stars</h3>
+                    <p style="text-transform: none; color: var(--text-muted);">GitHub Personal Profile (@shreyamalogi)</p>
+                </div>
+                <div class="stat-card" style="text-align: left; padding: 1.5rem;">
+                    <h3 style="font-size: 1.4rem; margin-bottom: 0.5rem;">⭐ 520+ Stars</h3>
+                    <p style="text-transform: none; color: var(--text-muted);">CodeMacrocosm Organization Org Repos</p>
+                </div>
+                <div class="stat-card" style="text-align: left; padding: 1.5rem;">
+                    <h3 style="font-size: 1.4rem; margin-bottom: 0.5rem;">🤝 2000+ Contributions</h3>
+                    <p style="text-transform: none; color: var(--text-muted);">Total Open Source GitHub Contributions</p>
+                </div>
+                <div class="stat-card" style="text-align: left; padding: 1.5rem;">
+                    <h3 style="font-size: 1.4rem; margin-bottom: 0.5rem;">3 ⭐ Competitive CP</h3>
+                    <p style="text-transform: none; color: var(--text-muted);">CodeChef Competitive Programmer</p>
+                </div>
+                <div class="stat-card" style="text-align: left; padding: 1.5rem;">
+                    <h3 style="font-size: 1.4rem; margin-bottom: 0.5rem;">5 ⭐ Coder</h3>
+                    <p style="text-transform: none; color: var(--text-muted);">C++ and Java Expertise on HackerRank</p>
+                </div>
+                <div class="stat-card" style="text-align: left; padding: 1.5rem;">
+                    <h3 style="font-size: 1.4rem; margin-bottom: 0.5rem;">🇩🇪 Duolingo German Score: 62</h3>
+                    <p style="text-transform: none; color: var(--text-muted);">Certified German Language Proficiency</p>
+                </div>
+                <div class="stat-card" style="text-align: left; padding: 1.5rem;">
+                    <h3 style="font-size: 1.4rem; margin-bottom: 0.5rem;">🎁 Hacktoberfest Contributor</h3>
+                    <p style="text-transform: none; color: var(--text-muted);">Active participation & issuance from Digital Ocean (2020-2025)</p>
+                </div>
+                <div class="stat-card" style="text-align: left; padding: 1.5rem;">
+                    <h3 style="font-size: 1.4rem; margin-bottom: 0.5rem;">🏆 Titles Won</h3>
+                    <p style="text-transform: none; color: var(--text-muted);">Miss Fresher 2019, Miss Physics 2017, Miss Hidden Gem 2015</p>
+                </div>
+                <div class="stat-card" style="text-align: left; padding: 1.5rem;">
+                    <h3 style="font-size: 1.4rem; margin-bottom: 0.5rem;">⭐ DevJam 2.0 Finalist</h3>
+                    <p style="text-transform: none; color: var(--text-muted);">Recognized as a finalist in DevJam 2.0 Hackathon</p>
+                </div>
+            </div>
+
+            <!-- GitHub Stats Integration -->
+            <div style="margin-top: 3rem; text-align: center;">
+                <h3 style="margin-bottom: 1.5rem; font-size: 1.5rem; color: var(--primary-light);">📊 GitHub Activity & Stats</h3>
+                <div style="display: flex; justify-content: center; gap: 1.5rem; flex-wrap: wrap; align-items: center;">
+                    <img src="https://github-readme-stats.shion.dev/api?username=shreyamalogi&theme=dark&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats" id="profileGhStats" style="max-width: 100%; border-radius: 12px; border: 1px solid var(--card-border);">
+                    <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=shreyamalogi&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" id="profileGhLang" style="max-width: 100%; border-radius: 12px; border: 1px solid var(--card-border);">
+                </div>
+            </div>
+        </section>
+
+        <!-- CONTACT -->
+        <section id="page-about" class="page-section">
+            <h2 class="section-title"><i class="fas fa-user-circle" style="color: var(--primary-light);"></i> Contact Me</h2>
+            <p class="section-desc">Get in touch and let's build something extraordinary together.</p>
+            
+            <div class="card-grid" style="grid-template-columns: 1fr;">
+                <div class="item-card">
+                    <h3 style="font-size: 1.5rem; margin-bottom: 1rem; color: var(--accent);">📬 Let's Connect</h3>
+                    <p style="color: var(--text-muted); font-size: 0.95rem; margin-bottom: 1rem;">
+                        Open to exciting collaborations, tech ventures, consulting, or creative projects. Connect via GitHub or Email below!
+                    </p>
+                    <div style="display: flex; gap: 0.75rem; flex-wrap: wrap; margin-bottom: 1.5rem;">
+                        <a href="https://github.com/shreyamalogi" target="_blank" class="btn" style="padding: 0.5rem 1rem; font-size: 0.9rem;"><i class="fab fa-github"></i> GitHub Profile</a>
+                        <a href="mailto:shreyamalogi@gmail.com" class="btn btn-outline" style="padding: 0.5rem 1rem; font-size: 0.9rem;"><i class="fas fa-envelope"></i> shreyamalogi@gmail.com</a>
+                    </div>
+                    <form class="contact-form" onsubmit="event.preventDefault(); alert('Thank you for reaching out, Shreya will get back to you soon!');">
+                        <input type="text" placeholder="Your Name" required>
+                        <input type="email" placeholder="Your Email" required>
+                        <textarea rows="3" placeholder="Your Message" required></textarea>
+                        <button type="submit" class="btn" style="width: 100%; justify-content: center;">Send Message 🚀</button>
+                    </form>
+                </div>
+            </div>
+        </section>
+
+    </div>
+
+    <footer>
+        <p style="font-size: 1.1rem; font-weight: 600; margin-bottom: 0.5rem;">🚀 Let’s Connect!</p>
+        <p style="margin-top: 1rem; color: var(--text-muted); font-size: 0.85rem;">&copy; shreyamalogi. All rights reserved.</p>
+    </footer>
+
+    <script>
+        function switchPage(pageId) {
+            const pages = document.querySelectorAll('.page-section');
+            pages.forEach(p => p.classList.remove('active-page'));
+
+            const persistentHeader = document.getElementById('persistentHeader');
+
+            if (pageId === 'landing') {
+                const landingPage = document.getElementById('page-landing');
+                if(landingPage) landingPage.classList.add('active-page');
+                if(persistentHeader) persistentHeader.style.display = 'none';
+            } else {
+                const targetPage = document.getElementById('page-' + pageId);
+                if (targetPage) {
+                    targetPage.classList.add('active-page');
+                }
+                if(persistentHeader) persistentHeader.style.display = 'flex';
+
+                // Update button active state in the 1/4 header
+                const headerBtns = document.querySelectorAll('.persistent-header .btn');
+                headerBtns.forEach(btn => btn.classList.remove('active-tab'));
+                const activeBtn = document.getElementById('btn-' + pageId);
+                if(activeBtn) activeBtn.classList.add('active-tab');
+            }
+
+            window.scrollTo({ top: 0, behavior: 'smooth' });
+        }
+
+        function toggleTheme() {
+            const html = document.documentElement;
+            const themeIcon = document.getElementById('themeIcon');
+            const profStats = document.getElementById('profileGhStats');
+            const profLang = document.getElementById('profileGhLang');
+            
+            if (html.getAttribute('data-theme') === 'dark') {
+                html.setAttribute('data-theme', 'light');
+                themeIcon.className = 'fas fa-sun';
+                if(profStats) profStats.src = "https://github-readme-stats.shion.dev/api?username=shreyamalogi&theme=default&hide_border=false&include_all_commits=false&count_private=false";
+                if(profLang) profLang.src = "https://github-readme-stats.shion.dev/api/top-langs/?username=shreyamalogi&theme=default&hide_border=false&include_all_commits=false&count_private=false&layout=compact";
+            } else {
+                html.setAttribute('data-theme', 'dark');
+                themeIcon.className = 'fas fa-moon';
+                if(profStats) profStats.src = "https://github-readme-stats.shion.dev/api?username=shreyamalogi&theme=dark&hide_border=false&include_all_commits=false&count_private=false";
+                if(profLang) profLang.src = "https://github-readme-stats.shion.dev/api/top-langs/?username=shreyamalogi&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact";
+            }
+        }
+    </script>
+</body>
+</html>
